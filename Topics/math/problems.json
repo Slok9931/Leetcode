@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-17T15:20:26.973Z",
+  "updatedAt": "2026-08-17T15:22:06.965Z",
   "problems": [
     {
       "frontendId": "1563",
@@ -22,7 +22,7 @@
           "filename": "1563-stone-game-v.cpp",
           "path": "1563-stone-game-v/1563-stone-game-v.cpp",
           "sha": "7767625dae86f8bcc7a58758251450aba70ea10b",
-          "lastSyncedAt": "2026-08-17T15:20:26.973Z"
+          "lastSyncedAt": "2026-08-17T15:22:06.965Z"
         }
       ]
     }

@@ -44,39 +44,39 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 10 |
-| [Backtracking](Topics/backtracking/) | 1 |
-| [Binary Search](Topics/binary-search/) | 0 |
-| [Binary Tree](Topics/binary-tree/) | 0 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 3 |
-| [Counting](Topics/counting/) | 1 |
+| [Array](Topics/array/) | 200 |
+| [Backtracking](Topics/backtracking/) | 20 |
+| [Binary Search](Topics/binary-search/) | 38 |
+| [Binary Tree](Topics/binary-tree/) | 56 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 20 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 54 |
+| [Counting](Topics/counting/) | 22 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 3 |
-| [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
-| [Enumeration](Topics/enumeration/) | 1 |
-| [Game Theory](Topics/game-theory/) | 3 |
+| [Depth-First Search](Topics/depth-first-search/) | 75 |
+| [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 5 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 50 |
+| [Enumeration](Topics/enumeration/) | 10 |
+| [Game Theory](Topics/game-theory/) | 7 |
 | [Geometry](Topics/geometry/) | 1 |
-| [Graph Theory](Topics/graph/) | 12 |
-| [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Graph Theory](Topics/graph/) | 39 |
+| [Greedy](Topics/greedy/) | 44 |
+| [Hash Table](Topics/hash-table/) | 78 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
-| [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 4 |
-| [Matrix](Topics/matrix/) | 0 |
-| [Minimax](Topics/minimax-algorithm/) | 2 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 26 |
+| [Linked List](Topics/linked-list/) | 23 |
+| [Math](Topics/math/) | 66 |
+| [Matrix](Topics/matrix/) | 24 |
+| [Minimax](Topics/minimax-algorithm/) | 6 |
 | [Nim Game](Topics/nim-game/) | 2 |
-| [Ordered Set](Topics/ordered-set/) | 1 |
-| [Segment Tree](Topics/segment-tree/) | 1 |
-| [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 3 |
+| [Ordered Set](Topics/ordered-set/) | 3 |
+| [Segment Tree](Topics/segment-tree/) | 3 |
+| [Sliding Window](Topics/sliding-window/) | 23 |
+| [Sorting](Topics/sorting/) | 50 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 2 |
-| [Topological Sort](Topics/topological-sort/) | 1 |
-| [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
+| [Stack](Topics/stack/) | 45 |
+| [String](Topics/string/) | 86 |
+| [Topological Sort](Topics/topological-sort/) | 8 |
+| [Zero-Sum Game](Topics/zero-sum-game/) | 6 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->

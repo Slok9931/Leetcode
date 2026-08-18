@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-18T03:36:40.733Z",
+  "updatedAt": "2026-08-18T03:37:39.518Z",
   "problems": [
     {
       "frontendId": "2029",
@@ -23,6 +23,26 @@
           "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
           "sha": "a33250fe100c48c604387d910c1e1c1ab028cac0",
           "lastSyncedAt": "2026-08-18T03:36:40.733Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2497",
+      "title": "Maximum Star Sum of a Graph",
+      "slug": "maximum-star-sum-of-a-graph",
+      "problemName": "2497-maximum-star-sum-of-a-graph",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-star-sum-of-a-graph/",
+      "folderPath": "2497-maximum-star-sum-of-a-graph/",
+      "readmePath": "2497-maximum-star-sum-of-a-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2497-maximum-star-sum-of-a-graph.cpp",
+          "path": "2497-maximum-star-sum-of-a-graph/2497-maximum-star-sum-of-a-graph.cpp",
+          "sha": "549822f20c8b8c2339469e4f9ee25ba577ab1826",
+          "lastSyncedAt": "2026-08-18T03:37:39.518Z"
         }
       ]
     }

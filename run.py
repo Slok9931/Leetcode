@@ -187,6 +187,7 @@ class LeetCode:
         print("\nFetching solved problems...")
 
         solved = []
+        all_questions = []
 
         skip = 0
 
@@ -212,6 +213,7 @@ class LeetCode:
             questions = result[
                 "questions"
             ]
+            all_questions.extend(questions)
 
             for question in questions:
 
@@ -249,6 +251,15 @@ class LeetCode:
                 problem["titleSlug"]
             ] = problem
 
+        cache_path = Path(".leethub_problem_cache.json")
+
+        with open(cache_path, "w", encoding="utf-8") as f:
+            json.dump(all_questions, f, indent=2, ensure_ascii=False)
+
+        print(
+         f"\nSaved {len(all_questions)} LeetCode problems "
+         f"to {cache_path}"
+        )
         return list(unique.values())
 
     # --------------------------------------------------------

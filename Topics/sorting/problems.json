@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-18T10:35:28.328Z",
+  "updatedAt": "2026-08-18T10:35:54.862Z",
   "problems": [
     {
       "frontendId": "2285",
@@ -22,7 +22,7 @@
           "filename": "2285-maximum-total-importance-of-roads.cpp",
           "path": "2285-maximum-total-importance-of-roads/2285-maximum-total-importance-of-roads.cpp",
           "sha": "83e6e89a801a36af3a75711a62e9b209c59cb041",
-          "lastSyncedAt": "2026-08-18T07:30:10.482Z"
+          "lastSyncedAt": "2026-08-18T10:35:54.862Z"
         }
       ]
     },

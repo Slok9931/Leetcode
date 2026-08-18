@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-18T03:38:02.629Z",
+  "updatedAt": "2026-08-18T03:38:07.627Z",
   "problems": [
     {
       "frontendId": "797",
@@ -23,6 +23,26 @@
           "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
           "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
           "lastSyncedAt": "2026-08-18T03:37:16.978Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2285",
+      "title": "Maximum Total Importance of Roads",
+      "slug": "maximum-total-importance-of-roads",
+      "problemName": "2285-maximum-total-importance-of-roads",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-importance-of-roads/",
+      "folderPath": "2285-maximum-total-importance-of-roads/",
+      "readmePath": "2285-maximum-total-importance-of-roads/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2285-maximum-total-importance-of-roads.cpp",
+          "path": "2285-maximum-total-importance-of-roads/2285-maximum-total-importance-of-roads.cpp",
+          "sha": "83e6e89a801a36af3a75711a62e9b209c59cb041",
+          "lastSyncedAt": "2026-08-18T03:38:07.627Z"
         }
       ]
     },

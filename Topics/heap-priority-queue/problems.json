@@ -4,48 +4,8 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-08-18T11:24:11.975Z",
+  "updatedAt": "2026-08-18T11:36:22.232Z",
   "problems": [
-    {
-      "frontendId": "2285",
-      "title": "Maximum Total Importance of Roads",
-      "slug": "maximum-total-importance-of-roads",
-      "problemName": "2285-maximum-total-importance-of-roads",
-      "difficulty": "Medium",
-      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-importance-of-roads/",
-      "folderPath": "2285-maximum-total-importance-of-roads/",
-      "readmePath": "2285-maximum-total-importance-of-roads/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "2285-maximum-total-importance-of-roads.cpp",
-          "path": "2285-maximum-total-importance-of-roads/2285-maximum-total-importance-of-roads.cpp",
-          "sha": "83e6e89a801a36af3a75711a62e9b209c59cb041",
-          "lastSyncedAt": "2026-08-18T10:35:54.862Z"
-        }
-      ]
-    },
-    {
-      "frontendId": "2497",
-      "title": "Maximum Star Sum of a Graph",
-      "slug": "maximum-star-sum-of-a-graph",
-      "problemName": "2497-maximum-star-sum-of-a-graph",
-      "difficulty": "Medium",
-      "leetcodeUrl": "https://leetcode.com/problems/maximum-star-sum-of-a-graph/",
-      "folderPath": "2497-maximum-star-sum-of-a-graph/",
-      "readmePath": "2497-maximum-star-sum-of-a-graph/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "2497-maximum-star-sum-of-a-graph.cpp",
-          "path": "2497-maximum-star-sum-of-a-graph/2497-maximum-star-sum-of-a-graph.cpp",
-          "sha": "549822f20c8b8c2339469e4f9ee25ba577ab1826",
-          "lastSyncedAt": "2026-08-18T10:35:28.328Z"
-        }
-      ]
-    },
     {
       "frontendId": "23",
       "title": "Merge k Sorted Lists",
@@ -403,6 +363,46 @@
           "path": "1631-path-with-minimum-effort/1631-path-with-minimum-effort.cpp",
           "sha": "8464a5928b38435e486e40a509a049ff9d48e025",
           "lastSyncedAt": "2026-08-18T11:24:10.611Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2285",
+      "title": "Maximum Total Importance of Roads",
+      "slug": "maximum-total-importance-of-roads",
+      "problemName": "2285-maximum-total-importance-of-roads",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-importance-of-roads/",
+      "folderPath": "2285-maximum-total-importance-of-roads/",
+      "readmePath": "2285-maximum-total-importance-of-roads/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2285-maximum-total-importance-of-roads.cpp",
+          "path": "2285-maximum-total-importance-of-roads/2285-maximum-total-importance-of-roads.cpp",
+          "sha": "83e6e89a801a36af3a75711a62e9b209c59cb041",
+          "lastSyncedAt": "2026-08-18T10:35:54.862Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2497",
+      "title": "Maximum Star Sum of a Graph",
+      "slug": "maximum-star-sum-of-a-graph",
+      "problemName": "2497-maximum-star-sum-of-a-graph",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-star-sum-of-a-graph/",
+      "folderPath": "2497-maximum-star-sum-of-a-graph/",
+      "readmePath": "2497-maximum-star-sum-of-a-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2497-maximum-star-sum-of-a-graph.cpp",
+          "path": "2497-maximum-star-sum-of-a-graph/2497-maximum-star-sum-of-a-graph.cpp",
+          "sha": "549822f20c8b8c2339469e4f9ee25ba577ab1826",
+          "lastSyncedAt": "2026-08-18T11:36:22.232Z"
         }
       ]
     },

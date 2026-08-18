@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-08-18T07:30:21.110Z",
+  "updatedAt": "2026-08-18T10:36:04.286Z",
   "problems": [
     {
       "frontendId": "1761",
@@ -22,7 +22,7 @@
           "filename": "1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp",
           "path": "1761-minimum-degree-of-a-connected-trio-in-a-graph/1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp",
           "sha": "fafd6ce7b5f7e968bb20238f67c973d2bb93f98d",
-          "lastSyncedAt": "2026-08-18T07:30:21.110Z"
+          "lastSyncedAt": "2026-08-18T10:36:04.286Z"
         }
       ]
     }

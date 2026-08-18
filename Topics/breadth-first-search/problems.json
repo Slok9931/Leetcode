@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-08-18T03:37:16.978Z",
+  "updatedAt": "2026-08-18T03:38:42.049Z",
   "problems": [
     {
       "frontendId": "797",
@@ -23,6 +23,26 @@
           "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
           "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
           "lastSyncedAt": "2026-08-18T03:37:16.978Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2101",
+      "title": "Detonate the Maximum Bombs",
+      "slug": "detonate-the-maximum-bombs",
+      "problemName": "2101-detonate-the-maximum-bombs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/detonate-the-maximum-bombs/",
+      "folderPath": "2101-detonate-the-maximum-bombs/",
+      "readmePath": "2101-detonate-the-maximum-bombs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2101-detonate-the-maximum-bombs.cpp",
+          "path": "2101-detonate-the-maximum-bombs/2101-detonate-the-maximum-bombs.cpp",
+          "sha": "c714cdaec4a2c030485f368547b61cd7dd592d5f",
+          "lastSyncedAt": "2026-08-18T03:38:42.049Z"
         }
       ]
     }

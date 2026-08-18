@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-18T03:37:30.643Z",
+  "updatedAt": "2026-08-18T03:37:34.239Z",
   "problems": [
     {
       "frontendId": "797",
@@ -23,6 +23,26 @@
           "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
           "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
           "lastSyncedAt": "2026-08-18T03:37:16.978Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2508",
+      "title": "Add Edges to Make Degrees of All Nodes Even",
+      "slug": "add-edges-to-make-degrees-of-all-nodes-even",
+      "problemName": "2508-add-edges-to-make-degrees-of-all-nodes-even",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/",
+      "folderPath": "2508-add-edges-to-make-degrees-of-all-nodes-even/",
+      "readmePath": "2508-add-edges-to-make-degrees-of-all-nodes-even/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2508-add-edges-to-make-degrees-of-all-nodes-even.cpp",
+          "path": "2508-add-edges-to-make-degrees-of-all-nodes-even/2508-add-edges-to-make-degrees-of-all-nodes-even.cpp",
+          "sha": "c9d5e8395fe7e8af22442fbd2148ace86fc50786",
+          "lastSyncedAt": "2026-08-18T03:37:34.239Z"
         }
       ]
     },

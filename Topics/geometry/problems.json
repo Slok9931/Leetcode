@@ -4,7 +4,7 @@
     "slug": "geometry",
     "name": "Geometry"
   },
-  "updatedAt": "2026-08-18T11:37:24.953Z",
+  "updatedAt": "2026-08-18T12:14:30.208Z",
   "problems": [
     {
       "frontendId": "2101",
@@ -22,7 +22,7 @@
           "filename": "2101-detonate-the-maximum-bombs.cpp",
           "path": "2101-detonate-the-maximum-bombs/2101-detonate-the-maximum-bombs.cpp",
           "sha": "c714cdaec4a2c030485f368547b61cd7dd592d5f",
-          "lastSyncedAt": "2026-08-18T11:37:24.953Z",
+          "lastSyncedAt": "2026-08-18T12:14:30.208Z",
           "submissionTimestamp": 1786455633
         }
       ]

@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-08-18T07:30:39.159Z",
+  "updatedAt": "2026-08-18T09:38:45.177Z",
   "problems": [
     {
       "frontendId": "797",
@@ -23,6 +23,26 @@
           "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
           "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
           "lastSyncedAt": "2026-08-18T07:29:34.843Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1203",
+      "title": "Sort Items by Groups Respecting Dependencies",
+      "slug": "sort-items-by-groups-respecting-dependencies",
+      "problemName": "1203-sort-items-by-groups-respecting-dependencies",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/",
+      "folderPath": "1203-sort-items-by-groups-respecting-dependencies/",
+      "readmePath": "1203-sort-items-by-groups-respecting-dependencies/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1203-sort-items-by-groups-respecting-dependencies.cpp",
+          "path": "1203-sort-items-by-groups-respecting-dependencies/1203-sort-items-by-groups-respecting-dependencies.cpp",
+          "sha": "7115a297006ec2c5367ee4fec504bdf651bcbc1b",
+          "lastSyncedAt": "2026-08-18T09:38:45.177Z"
         }
       ]
     },

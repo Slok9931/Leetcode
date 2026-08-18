@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-18T12:13:19.001Z",
+  "updatedAt": "2026-08-18T12:13:47.159Z",
   "problems": [
     {
       "frontendId": "11",
@@ -610,7 +610,7 @@
           "filename": "2285-maximum-total-importance-of-roads.cpp",
           "path": "2285-maximum-total-importance-of-roads/2285-maximum-total-importance-of-roads.cpp",
           "sha": "83e6e89a801a36af3a75711a62e9b209c59cb041",
-          "lastSyncedAt": "2026-08-18T11:36:48.872Z",
+          "lastSyncedAt": "2026-08-18T12:13:47.159Z",
           "submissionTimestamp": 1786557197
         }
       ]

@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-18T03:38:15.103Z",
+  "updatedAt": "2026-08-18T03:38:18.791Z",
   "problems": [
     {
       "frontendId": "797",
@@ -23,6 +23,26 @@
           "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
           "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
           "lastSyncedAt": "2026-08-18T03:37:16.978Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1761",
+      "title": "Minimum Degree of a Connected Trio in a Graph",
+      "slug": "minimum-degree-of-a-connected-trio-in-a-graph",
+      "problemName": "1761-minimum-degree-of-a-connected-trio-in-a-graph",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/",
+      "folderPath": "1761-minimum-degree-of-a-connected-trio-in-a-graph/",
+      "readmePath": "1761-minimum-degree-of-a-connected-trio-in-a-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp",
+          "path": "1761-minimum-degree-of-a-connected-trio-in-a-graph/1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp",
+          "sha": "fafd6ce7b5f7e968bb20238f67c973d2bb93f98d",
+          "lastSyncedAt": "2026-08-18T03:38:18.791Z"
         }
       ]
     },

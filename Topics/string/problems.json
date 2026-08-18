@@ -4,48 +4,8 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-18T11:24:11.980Z",
+  "updatedAt": "2026-08-18T11:35:55.788Z",
   "problems": [
-    {
-      "frontendId": "2213",
-      "title": "Longest Substring of One Repeating Character",
-      "slug": "longest-substring-of-one-repeating-character",
-      "problemName": "2213-longest-substring-of-one-repeating-character",
-      "difficulty": "Hard",
-      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
-      "folderPath": "2213-longest-substring-of-one-repeating-character/",
-      "readmePath": "2213-longest-substring-of-one-repeating-character/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "2213-longest-substring-of-one-repeating-character.cpp",
-          "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
-          "sha": "a330912da6bd550032010cf347c453ab4fcdae52",
-          "lastSyncedAt": "2026-08-18T10:35:38.390Z"
-        }
-      ]
-    },
-    {
-      "frontendId": "3090",
-      "title": "Maximum Length Substring With Two Occurrences",
-      "slug": "maximum-length-substring-with-two-occurrences",
-      "problemName": "3090-maximum-length-substring-with-two-occurrences",
-      "difficulty": "Easy",
-      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
-      "folderPath": "3090-maximum-length-substring-with-two-occurrences/",
-      "readmePath": "3090-maximum-length-substring-with-two-occurrences/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "3090-maximum-length-substring-with-two-occurrences.cpp",
-          "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.cpp",
-          "sha": "cf32dc1a0ce10b270747e049cfa2a81119b7586b",
-          "lastSyncedAt": "2026-08-18T10:35:06.925Z"
-        }
-      ]
-    },
     {
       "frontendId": "3",
       "title": "Longest Substring Without Repeating Characters",
@@ -1267,6 +1227,26 @@
       ]
     },
     {
+      "frontendId": "2213",
+      "title": "Longest Substring of One Repeating Character",
+      "slug": "longest-substring-of-one-repeating-character",
+      "problemName": "2213-longest-substring-of-one-repeating-character",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
+      "folderPath": "2213-longest-substring-of-one-repeating-character/",
+      "readmePath": "2213-longest-substring-of-one-repeating-character/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2213-longest-substring-of-one-repeating-character.cpp",
+          "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
+          "sha": "a330912da6bd550032010cf347c453ab4fcdae52",
+          "lastSyncedAt": "2026-08-18T10:35:38.390Z"
+        }
+      ]
+    },
+    {
       "frontendId": "2434",
       "title": "Using a Robot to Print the Lexicographically Smallest String",
       "slug": "using-a-robot-to-print-the-lexicographically-smallest-string",
@@ -1403,6 +1383,26 @@
           "path": "3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.cpp",
           "sha": "f72c42ab39df4b1a37ece138aa92b04d240bd135",
           "lastSyncedAt": "2026-08-18T11:24:11.426Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3090",
+      "title": "Maximum Length Substring With Two Occurrences",
+      "slug": "maximum-length-substring-with-two-occurrences",
+      "problemName": "3090-maximum-length-substring-with-two-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
+      "folderPath": "3090-maximum-length-substring-with-two-occurrences/",
+      "readmePath": "3090-maximum-length-substring-with-two-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3090-maximum-length-substring-with-two-occurrences.cpp",
+          "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.cpp",
+          "sha": "cf32dc1a0ce10b270747e049cfa2a81119b7586b",
+          "lastSyncedAt": "2026-08-18T11:35:55.788Z"
         }
       ]
     },

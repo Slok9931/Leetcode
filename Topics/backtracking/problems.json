@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-08-18T07:29:34.843Z",
+  "updatedAt": "2026-08-18T10:35:12.844Z",
   "problems": [
     {
       "frontendId": "797",
@@ -22,7 +22,7 @@
           "filename": "0797-all-paths-from-source-to-target.cpp",
           "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
           "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
-          "lastSyncedAt": "2026-08-18T07:29:34.843Z"
+          "lastSyncedAt": "2026-08-18T10:35:12.844Z"
         }
       ]
     }

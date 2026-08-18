@@ -4,68 +4,8 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-18T11:24:11.978Z",
+  "updatedAt": "2026-08-18T11:36:22.232Z",
   "problems": [
-    {
-      "frontendId": "2285",
-      "title": "Maximum Total Importance of Roads",
-      "slug": "maximum-total-importance-of-roads",
-      "problemName": "2285-maximum-total-importance-of-roads",
-      "difficulty": "Medium",
-      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-importance-of-roads/",
-      "folderPath": "2285-maximum-total-importance-of-roads/",
-      "readmePath": "2285-maximum-total-importance-of-roads/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "2285-maximum-total-importance-of-roads.cpp",
-          "path": "2285-maximum-total-importance-of-roads/2285-maximum-total-importance-of-roads.cpp",
-          "sha": "83e6e89a801a36af3a75711a62e9b209c59cb041",
-          "lastSyncedAt": "2026-08-18T10:35:54.862Z"
-        }
-      ]
-    },
-    {
-      "frontendId": "2497",
-      "title": "Maximum Star Sum of a Graph",
-      "slug": "maximum-star-sum-of-a-graph",
-      "problemName": "2497-maximum-star-sum-of-a-graph",
-      "difficulty": "Medium",
-      "leetcodeUrl": "https://leetcode.com/problems/maximum-star-sum-of-a-graph/",
-      "folderPath": "2497-maximum-star-sum-of-a-graph/",
-      "readmePath": "2497-maximum-star-sum-of-a-graph/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "2497-maximum-star-sum-of-a-graph.cpp",
-          "path": "2497-maximum-star-sum-of-a-graph/2497-maximum-star-sum-of-a-graph.cpp",
-          "sha": "549822f20c8b8c2339469e4f9ee25ba577ab1826",
-          "lastSyncedAt": "2026-08-18T10:35:28.328Z"
-        }
-      ]
-    },
-    {
-      "frontendId": "2996",
-      "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
-      "slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
-      "problemName": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum",
-      "difficulty": "Easy",
-      "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/",
-      "folderPath": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/",
-      "readmePath": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
-          "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
-          "sha": "6939740cd05cfe21f0278c3081f1279870c59ede",
-          "lastSyncedAt": "2026-08-18T10:36:36.291Z"
-        }
-      ]
-    },
     {
       "frontendId": "15",
       "title": "3Sum",
@@ -767,6 +707,46 @@
       ]
     },
     {
+      "frontendId": "2285",
+      "title": "Maximum Total Importance of Roads",
+      "slug": "maximum-total-importance-of-roads",
+      "problemName": "2285-maximum-total-importance-of-roads",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-importance-of-roads/",
+      "folderPath": "2285-maximum-total-importance-of-roads/",
+      "readmePath": "2285-maximum-total-importance-of-roads/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2285-maximum-total-importance-of-roads.cpp",
+          "path": "2285-maximum-total-importance-of-roads/2285-maximum-total-importance-of-roads.cpp",
+          "sha": "83e6e89a801a36af3a75711a62e9b209c59cb041",
+          "lastSyncedAt": "2026-08-18T10:35:54.862Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2497",
+      "title": "Maximum Star Sum of a Graph",
+      "slug": "maximum-star-sum-of-a-graph",
+      "problemName": "2497-maximum-star-sum-of-a-graph",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-star-sum-of-a-graph/",
+      "folderPath": "2497-maximum-star-sum-of-a-graph/",
+      "readmePath": "2497-maximum-star-sum-of-a-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2497-maximum-star-sum-of-a-graph.cpp",
+          "path": "2497-maximum-star-sum-of-a-graph/2497-maximum-star-sum-of-a-graph.cpp",
+          "sha": "549822f20c8b8c2339469e4f9ee25ba577ab1826",
+          "lastSyncedAt": "2026-08-18T11:36:22.232Z"
+        }
+      ]
+    },
+    {
       "frontendId": "2563",
       "title": "Count the Number of Fair Pairs",
       "slug": "count-the-number-of-fair-pairs",
@@ -823,6 +803,26 @@
           "path": "2966-divide-array-into-arrays-with-max-difference/2966-divide-array-into-arrays-with-max-difference.cpp",
           "sha": "2247812781f845ca78bfa032f32ec48d88276712",
           "lastSyncedAt": "2026-08-18T11:24:11.389Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2996",
+      "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+      "slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+      "problemName": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/",
+      "folderPath": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/",
+      "readmePath": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
+          "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
+          "sha": "6939740cd05cfe21f0278c3081f1279870c59ede",
+          "lastSyncedAt": "2026-08-18T10:36:36.291Z"
         }
       ]
     },

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "topological-sort",
+    "name": "Topological Sort"
+  },
+  "updatedAt": "2026-08-18T09:38:45.177Z",
+  "problems": [
+    {
+      "frontendId": "1203",
+      "title": "Sort Items by Groups Respecting Dependencies",
+      "slug": "sort-items-by-groups-respecting-dependencies",
+      "problemName": "1203-sort-items-by-groups-respecting-dependencies",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/",
+      "folderPath": "1203-sort-items-by-groups-respecting-dependencies/",
+      "readmePath": "1203-sort-items-by-groups-respecting-dependencies/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1203-sort-items-by-groups-respecting-dependencies.cpp",
+          "path": "1203-sort-items-by-groups-respecting-dependencies/1203-sort-items-by-groups-respecting-dependencies.cpp",
+          "sha": "7115a297006ec2c5367ee4fec504bdf651bcbc1b",
+          "lastSyncedAt": "2026-08-18T09:38:45.177Z"
+        }
+      ]
+    }
+  ]
+}

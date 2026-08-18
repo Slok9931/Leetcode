@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-18T03:38:18.791Z",
+  "updatedAt": "2026-08-18T03:38:25.164Z",
   "problems": [
     {
       "frontendId": "797",
@@ -23,6 +23,26 @@
           "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
           "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
           "lastSyncedAt": "2026-08-18T03:37:16.978Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1615",
+      "title": "Maximal Network Rank",
+      "slug": "maximal-network-rank",
+      "problemName": "1615-maximal-network-rank",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-network-rank/",
+      "folderPath": "1615-maximal-network-rank/",
+      "readmePath": "1615-maximal-network-rank/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1615-maximal-network-rank.cpp",
+          "path": "1615-maximal-network-rank/1615-maximal-network-rank.cpp",
+          "sha": "f65657f0a461c2520bb2bebc54969ca913f6a92f",
+          "lastSyncedAt": "2026-08-18T03:38:25.164Z"
         }
       ]
     },

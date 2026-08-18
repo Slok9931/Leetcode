@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-18T10:36:12.106Z",
+  "updatedAt": "2026-08-18T10:36:17.241Z",
   "problems": [
     {
       "frontendId": "997",
@@ -22,7 +22,7 @@
           "filename": "0997-find-the-town-judge.cpp",
           "path": "0997-find-the-town-judge/0997-find-the-town-judge.cpp",
           "sha": "f7da6ebc158a4d239f314da6d4be0ef828312086",
-          "lastSyncedAt": "2026-08-18T07:30:34.206Z"
+          "lastSyncedAt": "2026-08-18T10:36:17.241Z"
         }
       ]
     },

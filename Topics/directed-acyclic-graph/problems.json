@@ -4,7 +4,7 @@
     "slug": "directed-acyclic-graph",
     "name": "Directed Acyclic Graph"
   },
-  "updatedAt": "2026-08-18T09:38:45.177Z",
+  "updatedAt": "2026-08-18T10:34:20.429Z",
   "problems": [
     {
       "frontendId": "797",
@@ -42,7 +42,7 @@
           "filename": "1203-sort-items-by-groups-respecting-dependencies.cpp",
           "path": "1203-sort-items-by-groups-respecting-dependencies/1203-sort-items-by-groups-respecting-dependencies.cpp",
           "sha": "7115a297006ec2c5367ee4fec504bdf651bcbc1b",
-          "lastSyncedAt": "2026-08-18T09:38:45.177Z"
+          "lastSyncedAt": "2026-08-18T10:34:20.429Z"
         }
       ]
     }

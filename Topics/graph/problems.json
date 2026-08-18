@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-18T03:37:39.518Z",
+  "updatedAt": "2026-08-18T03:38:02.629Z",
   "problems": [
     {
       "frontendId": "797",
@@ -23,6 +23,26 @@
           "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
           "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
           "lastSyncedAt": "2026-08-18T03:37:16.978Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2374",
+      "title": "Node With Highest Edge Score",
+      "slug": "node-with-highest-edge-score",
+      "problemName": "2374-node-with-highest-edge-score",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/node-with-highest-edge-score/",
+      "folderPath": "2374-node-with-highest-edge-score/",
+      "readmePath": "2374-node-with-highest-edge-score/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2374-node-with-highest-edge-score.cpp",
+          "path": "2374-node-with-highest-edge-score/2374-node-with-highest-edge-score.cpp",
+          "sha": "139967712593badcd1950bac8eb4b14942ae4eaa",
+          "lastSyncedAt": "2026-08-18T03:38:02.629Z"
         }
       ]
     },

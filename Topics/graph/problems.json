@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-18T03:37:16.978Z",
+  "updatedAt": "2026-08-18T03:37:30.643Z",
   "problems": [
     {
       "frontendId": "797",
@@ -23,6 +23,26 @@
           "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
           "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
           "lastSyncedAt": "2026-08-18T03:37:16.978Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2924",
+      "title": "Find Champion II",
+      "slug": "find-champion-ii",
+      "problemName": "2924-find-champion-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-champion-ii/",
+      "folderPath": "2924-find-champion-ii/",
+      "readmePath": "2924-find-champion-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2924-find-champion-ii.cpp",
+          "path": "2924-find-champion-ii/2924-find-champion-ii.cpp",
+          "sha": "af1f7be24ecb15881db64b57654682f68619b8d1",
+          "lastSyncedAt": "2026-08-18T03:37:30.643Z"
         }
       ]
     }

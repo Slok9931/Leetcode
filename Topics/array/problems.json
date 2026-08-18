@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-18T11:37:16.879Z",
+  "updatedAt": "2026-08-18T11:37:24.953Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3162,7 +3162,7 @@
           "filename": "2101-detonate-the-maximum-bombs.cpp",
           "path": "2101-detonate-the-maximum-bombs/2101-detonate-the-maximum-bombs.cpp",
           "sha": "c714cdaec4a2c030485f368547b61cd7dd592d5f",
-          "lastSyncedAt": "2026-08-18T10:36:22.533Z"
+          "lastSyncedAt": "2026-08-18T11:37:24.953Z"
         }
       ]
     },

@@ -4,8 +4,28 @@
     "slug": "nim-game",
     "name": "Nim Game"
   },
-  "updatedAt": "2026-08-18T03:36:40.733Z",
+  "updatedAt": "2026-08-18T03:39:02.984Z",
   "problems": [
+    {
+      "frontendId": "1510",
+      "title": "Stone Game IV",
+      "slug": "stone-game-iv",
+      "problemName": "1510-stone-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
+      "folderPath": "1510-stone-game-iv/",
+      "readmePath": "1510-stone-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1510-stone-game-iv.cpp",
+          "path": "1510-stone-game-iv/1510-stone-game-iv.cpp",
+          "sha": "f72758f77ec6f321dd8e8c0368f8b58e38181c6c",
+          "lastSyncedAt": "2026-08-18T03:39:02.984Z"
+        }
+      ]
+    },
     {
       "frontendId": "2029",
       "title": "Stone Game IX",

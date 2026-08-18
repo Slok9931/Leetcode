@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "minimax-algorithm",
+    "name": "Minimax"
+  },
+  "updatedAt": "2026-08-18T03:36:40.733Z",
+  "problems": [
+    {
+      "frontendId": "2029",
+      "title": "Stone Game IX",
+      "slug": "stone-game-ix",
+      "problemName": "2029-stone-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+      "folderPath": "2029-stone-game-ix/",
+      "readmePath": "2029-stone-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2029-stone-game-ix.cpp",
+          "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
+          "sha": "a33250fe100c48c604387d910c1e1c1ab028cac0",
+          "lastSyncedAt": "2026-08-18T03:36:40.733Z"
+        }
+      ]
+    }
+  ]
+}

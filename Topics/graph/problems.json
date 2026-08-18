@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-18T11:35:07.559Z",
+  "updatedAt": "2026-08-18T11:36:03.469Z",
   "problems": [
     {
       "frontendId": "207",
@@ -162,7 +162,7 @@
           "filename": "0797-all-paths-from-source-to-target.cpp",
           "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
           "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
-          "lastSyncedAt": "2026-08-18T10:35:12.844Z"
+          "lastSyncedAt": "2026-08-18T11:36:03.469Z"
         }
       ]
     },

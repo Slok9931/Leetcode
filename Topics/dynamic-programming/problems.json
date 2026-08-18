@@ -4,48 +4,8 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-18T11:24:11.976Z",
+  "updatedAt": "2026-08-18T11:35:25.145Z",
   "problems": [
-    {
-      "frontendId": "1510",
-      "title": "Stone Game IV",
-      "slug": "stone-game-iv",
-      "problemName": "1510-stone-game-iv",
-      "difficulty": "Hard",
-      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
-      "folderPath": "1510-stone-game-iv/",
-      "readmePath": "1510-stone-game-iv/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "1510-stone-game-iv.cpp",
-          "path": "1510-stone-game-iv/1510-stone-game-iv.cpp",
-          "sha": "f72758f77ec6f321dd8e8c0368f8b58e38181c6c",
-          "lastSyncedAt": "2026-08-18T07:30:54.754Z"
-        }
-      ]
-    },
-    {
-      "frontendId": "1563",
-      "title": "Stone Game V",
-      "slug": "stone-game-v",
-      "problemName": "1563-stone-game-v",
-      "difficulty": "Hard",
-      "leetcodeUrl": "https://leetcode.com/problems/stone-game-v/",
-      "folderPath": "1563-stone-game-v/",
-      "readmePath": "1563-stone-game-v/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "1563-stone-game-v.cpp",
-          "path": "1563-stone-game-v/1563-stone-game-v.cpp",
-          "sha": "7767625dae86f8bcc7a58758251450aba70ea10b",
-          "lastSyncedAt": "2026-08-18T10:34:37.952Z"
-        }
-      ]
-    },
     {
       "frontendId": "5",
       "title": "Longest Palindromic Substring",
@@ -683,6 +643,46 @@
           "path": "1406-stone-game-iii/1406-stone-game-iii.cpp",
           "sha": "c90c811b515e8c6e1b04de611594dfd026f63b95",
           "lastSyncedAt": "2026-08-18T11:24:10.448Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1510",
+      "title": "Stone Game IV",
+      "slug": "stone-game-iv",
+      "problemName": "1510-stone-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
+      "folderPath": "1510-stone-game-iv/",
+      "readmePath": "1510-stone-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1510-stone-game-iv.cpp",
+          "path": "1510-stone-game-iv/1510-stone-game-iv.cpp",
+          "sha": "f72758f77ec6f321dd8e8c0368f8b58e38181c6c",
+          "lastSyncedAt": "2026-08-18T07:30:54.754Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1563",
+      "title": "Stone Game V",
+      "slug": "stone-game-v",
+      "problemName": "1563-stone-game-v",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-v/",
+      "folderPath": "1563-stone-game-v/",
+      "readmePath": "1563-stone-game-v/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1563-stone-game-v.cpp",
+          "path": "1563-stone-game-v/1563-stone-game-v.cpp",
+          "sha": "7767625dae86f8bcc7a58758251450aba70ea10b",
+          "lastSyncedAt": "2026-08-18T11:35:25.145Z"
         }
       ]
     },

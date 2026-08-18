@@ -4,28 +4,8 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-08-18T11:24:11.961Z",
+  "updatedAt": "2026-08-18T11:35:35.492Z",
   "problems": [
-    {
-      "frontendId": "2029",
-      "title": "Stone Game IX",
-      "slug": "stone-game-ix",
-      "problemName": "2029-stone-game-ix",
-      "difficulty": "Medium",
-      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
-      "folderPath": "2029-stone-game-ix/",
-      "readmePath": "2029-stone-game-ix/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "2029-stone-game-ix.cpp",
-          "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
-          "sha": "a33250fe100c48c604387d910c1e1c1ab028cac0",
-          "lastSyncedAt": "2026-08-18T10:34:47.662Z"
-        }
-      ]
-    },
     {
       "frontendId": "169",
       "title": "Majority Element",
@@ -263,6 +243,26 @@
           "path": "1857-largest-color-value-in-a-directed-graph/1857-largest-color-value-in-a-directed-graph.cpp",
           "sha": "1896e34ee9aaf3375fdc5dac14a43c8cc02f5ead",
           "lastSyncedAt": "2026-08-18T11:24:10.696Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2029",
+      "title": "Stone Game IX",
+      "slug": "stone-game-ix",
+      "problemName": "2029-stone-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+      "folderPath": "2029-stone-game-ix/",
+      "readmePath": "2029-stone-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2029-stone-game-ix.cpp",
+          "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
+          "sha": "a33250fe100c48c604387d910c1e1c1ab028cac0",
+          "lastSyncedAt": "2026-08-18T11:35:35.492Z"
         }
       ]
     },

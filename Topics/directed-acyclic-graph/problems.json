@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "directed-acyclic-graph",
+    "name": "Directed Acyclic Graph"
+  },
+  "updatedAt": "2026-08-18T03:37:16.978Z",
+  "problems": [
+    {
+      "frontendId": "797",
+      "title": "All Paths From Source to Target",
+      "slug": "all-paths-from-source-to-target",
+      "problemName": "0797-all-paths-from-source-to-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/all-paths-from-source-to-target/",
+      "folderPath": "0797-all-paths-from-source-to-target/",
+      "readmePath": "0797-all-paths-from-source-to-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0797-all-paths-from-source-to-target.cpp",
+          "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
+          "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
+          "lastSyncedAt": "2026-08-18T03:37:16.978Z"
+        }
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-18T07:30:10.482Z",
+  "updatedAt": "2026-08-18T07:30:17.330Z",
   "problems": [
     {
       "frontendId": "797",
@@ -102,7 +102,7 @@
           "filename": "1791-find-center-of-star-graph.cpp",
           "path": "1791-find-center-of-star-graph/1791-find-center-of-star-graph.cpp",
           "sha": "602029c669ff4c2e31a128dab33493c16dfe71c2",
-          "lastSyncedAt": "2026-08-18T03:38:15.103Z"
+          "lastSyncedAt": "2026-08-18T07:30:17.330Z"
         }
       ]
     },

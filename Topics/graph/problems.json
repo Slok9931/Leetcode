@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-18T03:38:07.627Z",
+  "updatedAt": "2026-08-18T03:38:15.103Z",
   "problems": [
     {
       "frontendId": "797",
@@ -23,6 +23,26 @@
           "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
           "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
           "lastSyncedAt": "2026-08-18T03:37:16.978Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1791",
+      "title": "Find Center of Star Graph",
+      "slug": "find-center-of-star-graph",
+      "problemName": "1791-find-center-of-star-graph",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-center-of-star-graph/",
+      "folderPath": "1791-find-center-of-star-graph/",
+      "readmePath": "1791-find-center-of-star-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1791-find-center-of-star-graph.cpp",
+          "path": "1791-find-center-of-star-graph/1791-find-center-of-star-graph.cpp",
+          "sha": "602029c669ff4c2e31a128dab33493c16dfe71c2",
+          "lastSyncedAt": "2026-08-18T03:38:15.103Z"
         }
       ]
     },

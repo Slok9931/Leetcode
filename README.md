@@ -12,11 +12,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 9 days | 9 days | 9 |
+| 8 days | 8 days | 8 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-10 | 1 |
 | 2026-08-11 | 3 |
 | 2026-08-12 | 6 |
 | 2026-08-13 | 5 |
@@ -24,22 +23,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-08-15 | 1 |
 | 2026-08-16 | 1 |
 | 2026-08-17 | 1 |
-| 2026-08-18 | 1 |
+| 2026-08-18 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Graph Theory | 11 | 55% |
+| Graph Theory | 12 | 60% |
 | Array | 10 | 50% |
 | Hash Table | 7 | 35% |
-| Math | 4 | 20% |
-| Game Theory | 3 | 15% |
+| Breadth-First Search | 3 | 15% |
+| Depth-First Search | 3 | 15% |
 | Greedy | 3 | 15% |
+| Math | 3 | 15% |
 | Sorting | 3 | 15% |
-| Breadth-First Search | 2 | 10% |
-| Depth-First Search | 2 | 10% |
-| Dynamic Programming | 2 | 10% |
+| Directed Acyclic Graph | 2 | 10% |
+| Game Theory | 2 | 10% |
 
 ## Topics
 
@@ -50,16 +49,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 3 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 2 |
-| [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
+| [Depth-First Search](Topics/depth-first-search/) | 3 |
+| [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 1 |
-| [Graph Theory](Topics/graph/) | 11 |
+| [Graph Theory](Topics/graph/) | 12 |
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
@@ -76,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 2 |
+| [Topological Sort](Topics/topological-sort/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
 

@@ -4,28 +4,8 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-08-18T11:24:11.972Z",
+  "updatedAt": "2026-08-18T11:36:03.469Z",
   "problems": [
-    {
-      "frontendId": "797",
-      "title": "All Paths From Source to Target",
-      "slug": "all-paths-from-source-to-target",
-      "problemName": "0797-all-paths-from-source-to-target",
-      "difficulty": "Medium",
-      "leetcodeUrl": "https://leetcode.com/problems/all-paths-from-source-to-target/",
-      "folderPath": "0797-all-paths-from-source-to-target/",
-      "readmePath": "0797-all-paths-from-source-to-target/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "0797-all-paths-from-source-to-target.cpp",
-          "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
-          "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
-          "lastSyncedAt": "2026-08-18T10:35:12.844Z"
-        }
-      ]
-    },
     {
       "frontendId": "17",
       "title": "Letter Combinations of a Phone Number",
@@ -343,6 +323,26 @@
           "path": "0282-expression-add-operators/0282-expression-add-operators.cpp",
           "sha": "37eec3c1d7e42f8f1d01d4e4bfa2ba7f7c27d7ec",
           "lastSyncedAt": "2026-08-18T11:24:08.919Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "797",
+      "title": "All Paths From Source to Target",
+      "slug": "all-paths-from-source-to-target",
+      "problemName": "0797-all-paths-from-source-to-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/all-paths-from-source-to-target/",
+      "folderPath": "0797-all-paths-from-source-to-target/",
+      "readmePath": "0797-all-paths-from-source-to-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0797-all-paths-from-source-to-target.cpp",
+          "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
+          "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
+          "lastSyncedAt": "2026-08-18T11:36:03.469Z"
         }
       ]
     },

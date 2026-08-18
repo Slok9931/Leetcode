@@ -4,88 +4,8 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-18T11:24:11.974Z",
+  "updatedAt": "2026-08-18T11:35:25.145Z",
   "problems": [
-    {
-      "frontendId": "1510",
-      "title": "Stone Game IV",
-      "slug": "stone-game-iv",
-      "problemName": "1510-stone-game-iv",
-      "difficulty": "Hard",
-      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
-      "folderPath": "1510-stone-game-iv/",
-      "readmePath": "1510-stone-game-iv/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "1510-stone-game-iv.cpp",
-          "path": "1510-stone-game-iv/1510-stone-game-iv.cpp",
-          "sha": "f72758f77ec6f321dd8e8c0368f8b58e38181c6c",
-          "lastSyncedAt": "2026-08-18T07:30:54.754Z"
-        }
-      ]
-    },
-    {
-      "frontendId": "1563",
-      "title": "Stone Game V",
-      "slug": "stone-game-v",
-      "problemName": "1563-stone-game-v",
-      "difficulty": "Hard",
-      "leetcodeUrl": "https://leetcode.com/problems/stone-game-v/",
-      "folderPath": "1563-stone-game-v/",
-      "readmePath": "1563-stone-game-v/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "1563-stone-game-v.cpp",
-          "path": "1563-stone-game-v/1563-stone-game-v.cpp",
-          "sha": "7767625dae86f8bcc7a58758251450aba70ea10b",
-          "lastSyncedAt": "2026-08-18T10:34:37.952Z"
-        }
-      ]
-    },
-    {
-      "frontendId": "2029",
-      "title": "Stone Game IX",
-      "slug": "stone-game-ix",
-      "problemName": "2029-stone-game-ix",
-      "difficulty": "Medium",
-      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
-      "folderPath": "2029-stone-game-ix/",
-      "readmePath": "2029-stone-game-ix/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "2029-stone-game-ix.cpp",
-          "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
-          "sha": "a33250fe100c48c604387d910c1e1c1ab028cac0",
-          "lastSyncedAt": "2026-08-18T10:34:47.662Z"
-        }
-      ]
-    },
-    {
-      "frontendId": "2101",
-      "title": "Detonate the Maximum Bombs",
-      "slug": "detonate-the-maximum-bombs",
-      "problemName": "2101-detonate-the-maximum-bombs",
-      "difficulty": "Medium",
-      "leetcodeUrl": "https://leetcode.com/problems/detonate-the-maximum-bombs/",
-      "folderPath": "2101-detonate-the-maximum-bombs/",
-      "readmePath": "2101-detonate-the-maximum-bombs/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "2101-detonate-the-maximum-bombs.cpp",
-          "path": "2101-detonate-the-maximum-bombs/2101-detonate-the-maximum-bombs.cpp",
-          "sha": "c714cdaec4a2c030485f368547b61cd7dd592d5f",
-          "lastSyncedAt": "2026-08-18T10:36:22.533Z"
-        }
-      ]
-    },
     {
       "frontendId": "2",
       "title": "Add Two Numbers",
@@ -807,6 +727,46 @@
       ]
     },
     {
+      "frontendId": "1510",
+      "title": "Stone Game IV",
+      "slug": "stone-game-iv",
+      "problemName": "1510-stone-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
+      "folderPath": "1510-stone-game-iv/",
+      "readmePath": "1510-stone-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1510-stone-game-iv.cpp",
+          "path": "1510-stone-game-iv/1510-stone-game-iv.cpp",
+          "sha": "f72758f77ec6f321dd8e8c0368f8b58e38181c6c",
+          "lastSyncedAt": "2026-08-18T07:30:54.754Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1563",
+      "title": "Stone Game V",
+      "slug": "stone-game-v",
+      "problemName": "1563-stone-game-v",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-v/",
+      "folderPath": "1563-stone-game-v/",
+      "readmePath": "1563-stone-game-v/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1563-stone-game-v.cpp",
+          "path": "1563-stone-game-v/1563-stone-game-v.cpp",
+          "sha": "7767625dae86f8bcc7a58758251450aba70ea10b",
+          "lastSyncedAt": "2026-08-18T11:35:25.145Z"
+        }
+      ]
+    },
+    {
       "frontendId": "1903",
       "title": "Largest Odd Number in String",
       "slug": "largest-odd-number-in-string",
@@ -867,6 +827,26 @@
       ]
     },
     {
+      "frontendId": "2029",
+      "title": "Stone Game IX",
+      "slug": "stone-game-ix",
+      "problemName": "2029-stone-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+      "folderPath": "2029-stone-game-ix/",
+      "readmePath": "2029-stone-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2029-stone-game-ix.cpp",
+          "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
+          "sha": "a33250fe100c48c604387d910c1e1c1ab028cac0",
+          "lastSyncedAt": "2026-08-18T10:34:47.662Z"
+        }
+      ]
+    },
+    {
       "frontendId": "2048",
       "title": "Next Greater Numerically Balanced Number",
       "slug": "next-greater-numerically-balanced-number",
@@ -883,6 +863,26 @@
           "path": "2048-next-greater-numerically-balanced-number/2048-next-greater-numerically-balanced-number.cpp",
           "sha": "5936891cb36ab75f66ffb2ea67f6deec664d0bfb",
           "lastSyncedAt": "2026-08-18T11:24:10.867Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2101",
+      "title": "Detonate the Maximum Bombs",
+      "slug": "detonate-the-maximum-bombs",
+      "problemName": "2101-detonate-the-maximum-bombs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/detonate-the-maximum-bombs/",
+      "folderPath": "2101-detonate-the-maximum-bombs/",
+      "readmePath": "2101-detonate-the-maximum-bombs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2101-detonate-the-maximum-bombs.cpp",
+          "path": "2101-detonate-the-maximum-bombs/2101-detonate-the-maximum-bombs.cpp",
+          "sha": "c714cdaec4a2c030485f368547b61cd7dd592d5f",
+          "lastSyncedAt": "2026-08-18T10:36:22.533Z"
         }
       ]
     },

@@ -4,18 +4,181 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## LeetHub Summary
 
-| **Total Solved** | Easy | Medium | Hard |
-| ---------------- | ---- | ------ | ---- |
+| **Total Solved** | **Easy** | **Medium** | **Hard** |
+| ---------------- | -------- | ---------- | ------- |
 | 411 | 144 | 209 | 58 |
 
 ## Activity
 
-| Current Streak | Best Streak | Active Days |
-| ---: | ---: | ---: |
-| 8 days | 8 days | 8 |
+| **Current Streak** | **Best Streak** | **Active Days** |
+| ------------------ | ---------------- | --------------- |
+| 51 days | 51 days | 171 days |
 
-| Date | Problems |
-| --- | ---: |
+| **Date** | **Problems** |
+| -------- | ------------ |
+| 2024-12-12 | 14 |
+| 2024-12-13 | 17 |
+| 2024-12-14 | 6 |
+| 2024-12-15 | 7 |
+| 2025-02-06 | 3 |
+| 2025-02-12 | 2 |
+| 2025-04-11 | 3 |
+| 2025-04-12 | 1 |
+| 2025-04-13 | 2 |
+| 2025-04-15 | 1 |
+| 2025-04-18 | 4 |
+| 2025-04-19 | 1 |
+| 2025-04-20 | 1 |
+| 2025-04-21 | 1 |
+| 2025-04-22 | 1 |
+| 2025-04-23 | 1 |
+| 2025-04-24 | 1 |
+| 2025-04-25 | 1 |
+| 2025-04-26 | 1 |
+| 2025-04-27 | 1 |
+| 2025-04-28 | 1 |
+| 2025-04-29 | 1 |
+| 2025-04-30 | 1 |
+| 2025-05-01 | 1 |
+| 2025-05-02 | 1 |
+| 2025-05-03 | 1 |
+| 2025-05-04 | 1 |
+| 2025-05-05 | 1 |
+| 2025-05-06 | 1 |
+| 2025-05-07 | 1 |
+| 2025-05-09 | 1 |
+| 2025-05-10 | 1 |
+| 2025-05-11 | 1 |
+| 2025-05-12 | 1 |
+| 2025-05-13 | 1 |
+| 2025-05-14 | 1 |
+| 2025-05-15 | 2 |
+| 2025-05-16 | 1 |
+| 2025-05-17 | 1 |
+| 2025-05-18 | 1 |
+| 2025-05-19 | 1 |
+| 2025-05-20 | 1 |
+| 2025-05-22 | 1 |
+| 2025-05-23 | 1 |
+| 2025-05-24 | 1 |
+| 2025-05-25 | 1 |
+| 2025-05-26 | 1 |
+| 2025-05-27 | 1 |
+| 2025-05-28 | 1 |
+| 2025-05-29 | 1 |
+| 2025-05-30 | 1 |
+| 2025-06-02 | 1 |
+| 2025-06-03 | 3 |
+| 2025-06-04 | 1 |
+| 2025-06-05 | 2 |
+| 2025-06-06 | 1 |
+| 2025-06-07 | 3 |
+| 2025-06-08 | 2 |
+| 2025-06-09 | 3 |
+| 2025-06-10 | 1 |
+| 2025-06-11 | 4 |
+| 2025-06-12 | 6 |
+| 2025-06-13 | 3 |
+| 2025-06-14 | 1 |
+| 2025-06-15 | 1 |
+| 2025-06-16 | 1 |
+| 2025-06-17 | 1 |
+| 2025-06-18 | 1 |
+| 2025-06-20 | 1 |
+| 2025-07-10 | 2 |
+| 2025-07-11 | 3 |
+| 2025-07-12 | 6 |
+| 2025-07-13 | 9 |
+| 2025-07-14 | 5 |
+| 2025-07-15 | 3 |
+| 2025-07-16 | 4 |
+| 2025-07-17 | 3 |
+| 2025-07-18 | 4 |
+| 2025-07-19 | 3 |
+| 2025-07-20 | 3 |
+| 2025-07-21 | 4 |
+| 2025-07-23 | 3 |
+| 2025-07-24 | 5 |
+| 2025-07-25 | 4 |
+| 2025-07-26 | 4 |
+| 2025-07-27 | 4 |
+| 2025-07-28 | 3 |
+| 2025-07-29 | 6 |
+| 2025-08-02 | 3 |
+| 2025-09-29 | 2 |
+| 2025-10-18 | 12 |
+| 2025-10-19 | 3 |
+| 2025-10-20 | 1 |
+| 2025-10-21 | 5 |
+| 2025-10-24 | 7 |
+| 2025-10-25 | 6 |
+| 2025-10-26 | 6 |
+| 2025-10-27 | 1 |
+| 2025-10-28 | 4 |
+| 2025-10-29 | 1 |
+| 2025-10-30 | 4 |
+| 2025-10-31 | 11 |
+| 2025-11-02 | 2 |
+| 2025-11-03 | 1 |
+| 2026-01-10 | 1 |
+| 2026-01-19 | 3 |
+| 2026-01-21 | 1 |
+| 2026-01-26 | 2 |
+| 2026-04-01 | 2 |
+| 2026-05-18 | 1 |
+| 2026-05-19 | 3 |
+| 2026-05-20 | 3 |
+| 2026-05-22 | 2 |
+| 2026-05-23 | 2 |
+| 2026-05-26 | 1 |
+| 2026-05-28 | 2 |
+| 2026-05-29 | 5 |
+| 2026-05-30 | 7 |
+| 2026-06-23 | 1 |
+| 2026-06-24 | 2 |
+| 2026-06-29 | 4 |
+| 2026-06-30 | 4 |
+| 2026-07-01 | 2 |
+| 2026-07-02 | 3 |
+| 2026-07-03 | 2 |
+| 2026-07-04 | 1 |
+| 2026-07-05 | 1 |
+| 2026-07-06 | 3 |
+| 2026-07-07 | 2 |
+| 2026-07-08 | 5 |
+| 2026-07-09 | 2 |
+| 2026-07-10 | 1 |
+| 2026-07-11 | 1 |
+| 2026-07-12 | 1 |
+| 2026-07-13 | 2 |
+| 2026-07-14 | 1 |
+| 2026-07-15 | 1 |
+| 2026-07-16 | 1 |
+| 2026-07-17 | 1 |
+| 2026-07-18 | 1 |
+| 2026-07-19 | 1 |
+| 2026-07-20 | 1 |
+| 2026-07-21 | 1 |
+| 2026-07-22 | 1 |
+| 2026-07-23 | 1 |
+| 2026-07-24 | 1 |
+| 2026-07-25 | 1 |
+| 2026-07-26 | 5 |
+| 2026-07-27 | 1 |
+| 2026-07-28 | 1 |
+| 2026-07-29 | 1 |
+| 2026-07-30 | 1 |
+| 2026-07-31 | 1 |
+| 2026-08-01 | 1 |
+| 2026-08-02 | 1 |
+| 2026-08-03 | 1 |
+| 2026-08-04 | 1 |
+| 2026-08-05 | 1 |
+| 2026-08-06 | 5 |
+| 2026-08-07 | 1 |
+| 2026-08-08 | 1 |
+| 2026-08-09 | 1 |
+| 2026-08-10 | 1 |
 | 2026-08-11 | 3 |
 | 2026-08-12 | 6 |
 | 2026-08-13 | 5 |
@@ -27,23 +190,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Top Tags
 
-| **Tag** | Problems | Coverage |
-| ------- | -------- | -------- |
-| Array | 200 | 49% |
-| String | 86 | 21% |
-| Hash Table | 78 | 19% |
-| Depth-First Search | 75 | 18% |
-| Math | 66 | 16% |
-| Binary Tree | 56 | 14% |
-| Breadth-First Search | 54 | 13% |
-| Dynamic Programming | 50 | 12% |
-| Sorting | 50 | 12% |
-| Stack | 45 | 11% |
+| **Tag** | **Problems** | **Coverage** |
+| ------- | ------------ | ------------ |
 
 ## Topics
 
-| **Topic** | Problems |
-| --------- | -------- |
+| **Topic** | **Problems** |
+| --------- | ------------ |
 | [Array](https://github.com/Slok9931/Leetcode/blob/main/Topics/array) | 200 |
 | [Backtracking](https://github.com/Slok9931/Leetcode/blob/main/Topics/backtracking) | 20 |
 | [Binary Search](https://github.com/Slok9931/Leetcode/blob/main/Topics/binary-search) | 38 |
@@ -82,8 +235,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Array
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0001-two-sum](https://github.com/Slok9931/LeetCode/tree/main/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Slok9931/LeetCode/tree/main/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Slok9931/LeetCode/tree/main/0011-container-with-most-water) |
@@ -287,8 +440,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Backtracking
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Slok9931/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Slok9931/LeetCode/tree/main/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Slok9931/LeetCode/tree/main/0037-sudoku-solver) |
@@ -312,8 +465,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Binary Search
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0004-median-of-two-sorted-arrays](https://github.com/Slok9931/LeetCode/tree/main/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Slok9931/LeetCode/tree/main/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Slok9931/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -355,8 +508,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Binary Tree
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0094-binary-tree-inorder-traversal](https://github.com/Slok9931/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Slok9931/LeetCode/tree/main/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Slok9931/LeetCode/tree/main/0099-recover-binary-search-tree) |
@@ -416,8 +569,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Bit Manipulation
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0029-divide-two-integers](https://github.com/Slok9931/LeetCode/tree/main/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Slok9931/LeetCode/tree/main/0067-add-binary) |
 | [0078-subsets](https://github.com/Slok9931/LeetCode/tree/main/0078-subsets) |
@@ -441,8 +594,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Breadth-First Search
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0100-same-tree](https://github.com/Slok9931/LeetCode/tree/main/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Slok9931/LeetCode/tree/main/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Slok9931/LeetCode/tree/main/0102-binary-tree-level-order-traversal) |
@@ -500,8 +653,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Counting
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0169-majority-element](https://github.com/Slok9931/LeetCode/tree/main/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Slok9931/LeetCode/tree/main/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Slok9931/LeetCode/tree/main/0347-top-k-frequent-elements) |
@@ -527,8 +680,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Depth-First Search
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0079-word-search](https://github.com/Slok9931/LeetCode/tree/main/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Slok9931/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Slok9931/LeetCode/tree/main/0098-validate-binary-search-tree) |
@@ -607,8 +760,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Directed Acyclic Graph
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0207-course-schedule](https://github.com/Slok9931/LeetCode/tree/main/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/Slok9931/LeetCode/tree/main/0797-all-paths-from-source-to-target) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Slok9931/LeetCode/tree/main/1203-sort-items-by-groups-respecting-dependencies) |
@@ -617,8 +770,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Dynamic Programming
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0005-longest-palindromic-substring](https://github.com/Slok9931/LeetCode/tree/main/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Slok9931/LeetCode/tree/main/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Slok9931/LeetCode/tree/main/0032-longest-valid-parentheses) |
@@ -672,8 +825,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Enumeration
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0204-count-primes](https://github.com/Slok9931/LeetCode/tree/main/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Slok9931/LeetCode/tree/main/1291-sequential-digits) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Slok9931/LeetCode/tree/main/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
@@ -687,8 +840,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Game Theory
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0486-predict-the-winner](https://github.com/Slok9931/LeetCode/tree/main/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Slok9931/LeetCode/tree/main/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Slok9931/LeetCode/tree/main/1140-stone-game-ii) |
@@ -699,14 +852,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Geometry
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [2101-detonate-the-maximum-bombs](https://github.com/Slok9931/LeetCode/tree/main/2101-detonate-the-maximum-bombs) |
 
 ## Graph Theory
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0207-course-schedule](https://github.com/Slok9931/LeetCode/tree/main/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Slok9931/LeetCode/tree/main/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Slok9931/LeetCode/tree/main/0399-evaluate-division) |
@@ -749,8 +902,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Greedy
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0011-container-with-most-water](https://github.com/Slok9931/LeetCode/tree/main/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Slok9931/LeetCode/tree/main/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Slok9931/LeetCode/tree/main/0055-jump-game) |
@@ -798,8 +951,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Hash Table
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0001-two-sum](https://github.com/Slok9931/LeetCode/tree/main/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Slok9931/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Slok9931/LeetCode/tree/main/0012-integer-to-roman) |
@@ -881,8 +1034,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Heap (Priority Queue)
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0023-merge-k-sorted-lists](https://github.com/Slok9931/LeetCode/tree/main/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Slok9931/LeetCode/tree/main/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Slok9931/LeetCode/tree/main/0239-sliding-window-maximum) |
@@ -912,8 +1065,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Linked List
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0002-add-two-numbers](https://github.com/Slok9931/LeetCode/tree/main/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Slok9931/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Slok9931/LeetCode/tree/main/0021-merge-two-sorted-lists) |
@@ -940,8 +1093,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Math
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0002-add-two-numbers](https://github.com/Slok9931/LeetCode/tree/main/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Slok9931/LeetCode/tree/main/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Slok9931/LeetCode/tree/main/0009-palindrome-number) |
@@ -1011,8 +1164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Matrix
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0037-sudoku-solver](https://github.com/Slok9931/LeetCode/tree/main/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Slok9931/LeetCode/tree/main/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Slok9931/LeetCode/tree/main/0054-spiral-matrix) |
@@ -1040,8 +1193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Minimax
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0486-predict-the-winner](https://github.com/Slok9931/LeetCode/tree/main/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Slok9931/LeetCode/tree/main/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Slok9931/LeetCode/tree/main/1140-stone-game-ii) |
@@ -1051,31 +1204,31 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Nim Game
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [1510-stone-game-iv](https://github.com/Slok9931/LeetCode/tree/main/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Slok9931/LeetCode/tree/main/2029-stone-game-ix) |
 
 ## Ordered Set
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0220-contains-duplicate-iii](https://github.com/Slok9931/LeetCode/tree/main/0220-contains-duplicate-iii) |
 | [0493-reverse-pairs](https://github.com/Slok9931/LeetCode/tree/main/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Slok9931/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character) |
 
 ## Segment Tree
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0493-reverse-pairs](https://github.com/Slok9931/LeetCode/tree/main/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Slok9931/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Slok9931/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii) |
 
 ## Sliding Window
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Slok9931/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Slok9931/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Slok9931/LeetCode/tree/main/0076-minimum-window-substring) |
@@ -1102,8 +1255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Sorting
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0015-3sum](https://github.com/Slok9931/LeetCode/tree/main/0015-3sum) |
 | [0018-4sum](https://github.com/Slok9931/LeetCode/tree/main/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Slok9931/LeetCode/tree/main/0049-group-anagrams) |
@@ -1157,14 +1310,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Sprague–Grundy Theorem
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [1510-stone-game-iv](https://github.com/Slok9931/LeetCode/tree/main/1510-stone-game-iv) |
 
 ## Stack
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0020-valid-parentheses](https://github.com/Slok9931/LeetCode/tree/main/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Slok9931/LeetCode/tree/main/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Slok9931/LeetCode/tree/main/0042-trapping-rain-water) |
@@ -1213,8 +1366,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## String
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Slok9931/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Slok9931/LeetCode/tree/main/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Slok9931/LeetCode/tree/main/0006-zigzag-conversion) |
@@ -1304,8 +1457,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Topological Sort
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0207-course-schedule](https://github.com/Slok9931/LeetCode/tree/main/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Slok9931/LeetCode/tree/main/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Slok9931/LeetCode/tree/main/0802-find-eventual-safe-states) |
@@ -1317,8 +1470,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Zero-Sum Game
 
-| |
-| --- |
+| **Problems** |
+| ------------ |
 | [0486-predict-the-winner](https://github.com/Slok9931/LeetCode/tree/main/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Slok9931/LeetCode/tree/main/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Slok9931/LeetCode/tree/main/1140-stone-game-ii) |

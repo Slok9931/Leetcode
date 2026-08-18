@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-18T07:30:10.482Z",
+  "updatedAt": "2026-08-18T07:30:49.572Z",
   "problems": [
     {
       "frontendId": "2285",
@@ -62,7 +62,7 @@
           "filename": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
           "sha": "6939740cd05cfe21f0278c3081f1279870c59ede",
-          "lastSyncedAt": "2026-08-18T03:38:56.053Z"
+          "lastSyncedAt": "2026-08-18T07:30:49.572Z"
         }
       ]
     }

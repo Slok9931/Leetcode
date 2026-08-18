@@ -78,3 +78,27 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [String](Topics/string/) | 2 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Slok9931/LeetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Slok9931/LeetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Graph Theory
+|  |
+| ------- |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Slok9931/LeetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Topological Sort
+|  |
+| ------- |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Slok9931/LeetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Slok9931/LeetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+<!---LeetCode Topics End-->

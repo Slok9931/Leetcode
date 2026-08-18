@@ -39,6 +39,10 @@ query problemsetQuestionListV2(
             difficulty
             paidOnly
             status
+            topicTags {
+                name
+                slug
+            }
         }
         totalLength
         hasMore

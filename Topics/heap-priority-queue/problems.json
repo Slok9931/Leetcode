@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-08-18T11:36:48.872Z",
+  "updatedAt": "2026-08-18T12:13:19.001Z",
   "problems": [
     {
       "frontendId": "23",
@@ -421,7 +421,7 @@
           "filename": "2497-maximum-star-sum-of-a-graph.cpp",
           "path": "2497-maximum-star-sum-of-a-graph/2497-maximum-star-sum-of-a-graph.cpp",
           "sha": "549822f20c8b8c2339469e4f9ee25ba577ab1826",
-          "lastSyncedAt": "2026-08-18T11:36:22.232Z",
+          "lastSyncedAt": "2026-08-18T12:13:19.001Z",
           "submissionTimestamp": 1786598578
         }
       ]

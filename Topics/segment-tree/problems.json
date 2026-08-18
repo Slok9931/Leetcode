@@ -4,28 +4,8 @@
     "slug": "segment-tree",
     "name": "Segment Tree"
   },
-  "updatedAt": "2026-08-18T11:24:11.970Z",
+  "updatedAt": "2026-08-18T11:36:34.752Z",
   "problems": [
-    {
-      "frontendId": "2213",
-      "title": "Longest Substring of One Repeating Character",
-      "slug": "longest-substring-of-one-repeating-character",
-      "problemName": "2213-longest-substring-of-one-repeating-character",
-      "difficulty": "Hard",
-      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
-      "folderPath": "2213-longest-substring-of-one-repeating-character/",
-      "readmePath": "2213-longest-substring-of-one-repeating-character/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "2213-longest-substring-of-one-repeating-character.cpp",
-          "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
-          "sha": "a330912da6bd550032010cf347c453ab4fcdae52",
-          "lastSyncedAt": "2026-08-18T10:35:38.390Z"
-        }
-      ]
-    },
     {
       "frontendId": "493",
       "title": "Reverse Pairs",
@@ -43,6 +23,26 @@
           "path": "0493-reverse-pairs/0493-reverse-pairs.cpp",
           "sha": "e6010eb7646160720e64ac2f7eb4859c9349e424",
           "lastSyncedAt": "2026-08-18T11:24:09.241Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2213",
+      "title": "Longest Substring of One Repeating Character",
+      "slug": "longest-substring-of-one-repeating-character",
+      "problemName": "2213-longest-substring-of-one-repeating-character",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
+      "folderPath": "2213-longest-substring-of-one-repeating-character/",
+      "readmePath": "2213-longest-substring-of-one-repeating-character/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2213-longest-substring-of-one-repeating-character.cpp",
+          "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
+          "sha": "a330912da6bd550032010cf347c453ab4fcdae52",
+          "lastSyncedAt": "2026-08-18T11:36:34.752Z"
         }
       ]
     },

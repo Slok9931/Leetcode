@@ -4,28 +4,8 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-08-18T11:24:11.972Z",
+  "updatedAt": "2026-08-18T11:37:02.090Z",
   "problems": [
-    {
-      "frontendId": "1761",
-      "title": "Minimum Degree of a Connected Trio in a Graph",
-      "slug": "minimum-degree-of-a-connected-trio-in-a-graph",
-      "problemName": "1761-minimum-degree-of-a-connected-trio-in-a-graph",
-      "difficulty": "Hard",
-      "leetcodeUrl": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/",
-      "folderPath": "1761-minimum-degree-of-a-connected-trio-in-a-graph/",
-      "readmePath": "1761-minimum-degree-of-a-connected-trio-in-a-graph/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp",
-          "path": "1761-minimum-degree-of-a-connected-trio-in-a-graph/1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp",
-          "sha": "fafd6ce7b5f7e968bb20238f67c973d2bb93f98d",
-          "lastSyncedAt": "2026-08-18T10:36:04.286Z"
-        }
-      ]
-    },
     {
       "frontendId": "204",
       "title": "Count Primes",
@@ -63,6 +43,26 @@
           "path": "1291-sequential-digits/1291-sequential-digits.cpp",
           "sha": "00edccd84992aa55a9047df3a1cfccf36802d744",
           "lastSyncedAt": "2026-08-18T11:24:10.291Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1761",
+      "title": "Minimum Degree of a Connected Trio in a Graph",
+      "slug": "minimum-degree-of-a-connected-trio-in-a-graph",
+      "problemName": "1761-minimum-degree-of-a-connected-trio-in-a-graph",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/",
+      "folderPath": "1761-minimum-degree-of-a-connected-trio-in-a-graph/",
+      "readmePath": "1761-minimum-degree-of-a-connected-trio-in-a-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp",
+          "path": "1761-minimum-degree-of-a-connected-trio-in-a-graph/1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp",
+          "sha": "fafd6ce7b5f7e968bb20238f67c973d2bb93f98d",
+          "lastSyncedAt": "2026-08-18T11:37:02.090Z"
         }
       ]
     },

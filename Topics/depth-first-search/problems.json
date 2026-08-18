@@ -4,68 +4,8 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-18T11:24:11.963Z",
+  "updatedAt": "2026-08-18T11:35:07.559Z",
   "problems": [
-    {
-      "frontendId": "797",
-      "title": "All Paths From Source to Target",
-      "slug": "all-paths-from-source-to-target",
-      "problemName": "0797-all-paths-from-source-to-target",
-      "difficulty": "Medium",
-      "leetcodeUrl": "https://leetcode.com/problems/all-paths-from-source-to-target/",
-      "folderPath": "0797-all-paths-from-source-to-target/",
-      "readmePath": "0797-all-paths-from-source-to-target/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "0797-all-paths-from-source-to-target.cpp",
-          "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
-          "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
-          "lastSyncedAt": "2026-08-18T10:35:12.844Z"
-        }
-      ]
-    },
-    {
-      "frontendId": "1203",
-      "title": "Sort Items by Groups Respecting Dependencies",
-      "slug": "sort-items-by-groups-respecting-dependencies",
-      "problemName": "1203-sort-items-by-groups-respecting-dependencies",
-      "difficulty": "Hard",
-      "leetcodeUrl": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/",
-      "folderPath": "1203-sort-items-by-groups-respecting-dependencies/",
-      "readmePath": "1203-sort-items-by-groups-respecting-dependencies/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "1203-sort-items-by-groups-respecting-dependencies.cpp",
-          "path": "1203-sort-items-by-groups-respecting-dependencies/1203-sort-items-by-groups-respecting-dependencies.cpp",
-          "sha": "7115a297006ec2c5367ee4fec504bdf651bcbc1b",
-          "lastSyncedAt": "2026-08-18T10:34:20.429Z"
-        }
-      ]
-    },
-    {
-      "frontendId": "2101",
-      "title": "Detonate the Maximum Bombs",
-      "slug": "detonate-the-maximum-bombs",
-      "problemName": "2101-detonate-the-maximum-bombs",
-      "difficulty": "Medium",
-      "leetcodeUrl": "https://leetcode.com/problems/detonate-the-maximum-bombs/",
-      "folderPath": "2101-detonate-the-maximum-bombs/",
-      "readmePath": "2101-detonate-the-maximum-bombs/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "2101-detonate-the-maximum-bombs.cpp",
-          "path": "2101-detonate-the-maximum-bombs/2101-detonate-the-maximum-bombs.cpp",
-          "sha": "c714cdaec4a2c030485f368547b61cd7dd592d5f",
-          "lastSyncedAt": "2026-08-18T10:36:22.533Z"
-        }
-      ]
-    },
     {
       "frontendId": "79",
       "title": "Word Search",
@@ -1027,6 +967,26 @@
       ]
     },
     {
+      "frontendId": "797",
+      "title": "All Paths From Source to Target",
+      "slug": "all-paths-from-source-to-target",
+      "problemName": "0797-all-paths-from-source-to-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/all-paths-from-source-to-target/",
+      "folderPath": "0797-all-paths-from-source-to-target/",
+      "readmePath": "0797-all-paths-from-source-to-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0797-all-paths-from-source-to-target.cpp",
+          "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
+          "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
+          "lastSyncedAt": "2026-08-18T10:35:12.844Z"
+        }
+      ]
+    },
+    {
       "frontendId": "802",
       "title": "Find Eventual Safe States",
       "slug": "find-eventual-safe-states",
@@ -1267,6 +1227,26 @@
       ]
     },
     {
+      "frontendId": "1203",
+      "title": "Sort Items by Groups Respecting Dependencies",
+      "slug": "sort-items-by-groups-respecting-dependencies",
+      "problemName": "1203-sort-items-by-groups-respecting-dependencies",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/",
+      "folderPath": "1203-sort-items-by-groups-respecting-dependencies/",
+      "readmePath": "1203-sort-items-by-groups-respecting-dependencies/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1203-sort-items-by-groups-respecting-dependencies.cpp",
+          "path": "1203-sort-items-by-groups-respecting-dependencies/1203-sort-items-by-groups-respecting-dependencies.cpp",
+          "sha": "7115a297006ec2c5367ee4fec504bdf651bcbc1b",
+          "lastSyncedAt": "2026-08-18T11:35:07.559Z"
+        }
+      ]
+    },
+    {
       "frontendId": "1319",
       "title": "Number of Operations to Make Network Connected",
       "slug": "number-of-operations-to-make-network-connected",
@@ -1363,6 +1343,26 @@
           "path": "2049-count-nodes-with-the-highest-score/2049-count-nodes-with-the-highest-score.cpp",
           "sha": "d804cf17b35a2f347b1ae1b13cb357ad32c35cb9",
           "lastSyncedAt": "2026-08-18T11:24:10.879Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2101",
+      "title": "Detonate the Maximum Bombs",
+      "slug": "detonate-the-maximum-bombs",
+      "problemName": "2101-detonate-the-maximum-bombs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/detonate-the-maximum-bombs/",
+      "folderPath": "2101-detonate-the-maximum-bombs/",
+      "readmePath": "2101-detonate-the-maximum-bombs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2101-detonate-the-maximum-bombs.cpp",
+          "path": "2101-detonate-the-maximum-bombs/2101-detonate-the-maximum-bombs.cpp",
+          "sha": "c714cdaec4a2c030485f368547b61cd7dd592d5f",
+          "lastSyncedAt": "2026-08-18T10:36:22.533Z"
         }
       ]
     },

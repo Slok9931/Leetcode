@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-18T07:30:34.206Z",
+  "updatedAt": "2026-08-18T07:30:39.159Z",
   "problems": [
     {
       "frontendId": "797",
@@ -122,7 +122,7 @@
           "filename": "2101-detonate-the-maximum-bombs.cpp",
           "path": "2101-detonate-the-maximum-bombs/2101-detonate-the-maximum-bombs.cpp",
           "sha": "c714cdaec4a2c030485f368547b61cd7dd592d5f",
-          "lastSyncedAt": "2026-08-18T03:38:42.049Z"
+          "lastSyncedAt": "2026-08-18T07:30:39.159Z"
         }
       ]
     },

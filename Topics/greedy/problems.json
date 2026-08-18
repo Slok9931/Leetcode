@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-18T11:35:35.492Z",
+  "updatedAt": "2026-08-18T11:36:22.232Z",
   "problems": [
     {
       "frontendId": "11",
@@ -622,7 +622,7 @@
           "filename": "2497-maximum-star-sum-of-a-graph.cpp",
           "path": "2497-maximum-star-sum-of-a-graph/2497-maximum-star-sum-of-a-graph.cpp",
           "sha": "549822f20c8b8c2339469e4f9ee25ba577ab1826",
-          "lastSyncedAt": "2026-08-18T10:35:28.328Z"
+          "lastSyncedAt": "2026-08-18T11:36:22.232Z"
         }
       ]
     },

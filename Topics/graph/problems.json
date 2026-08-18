@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-18T07:29:34.843Z",
+  "updatedAt": "2026-08-18T07:29:43.761Z",
   "problems": [
     {
       "frontendId": "797",
@@ -222,7 +222,7 @@
           "filename": "2924-find-champion-ii.cpp",
           "path": "2924-find-champion-ii/2924-find-champion-ii.cpp",
           "sha": "af1f7be24ecb15881db64b57654682f68619b8d1",
-          "lastSyncedAt": "2026-08-18T03:37:30.643Z"
+          "lastSyncedAt": "2026-08-18T07:29:43.761Z"
         }
       ]
     }

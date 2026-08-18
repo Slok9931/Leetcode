@@ -4,28 +4,8 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-18T11:24:11.984Z",
+  "updatedAt": "2026-08-18T11:35:50.424Z",
   "problems": [
-    {
-      "frontendId": "3702",
-      "title": "Longest Subsequence With Non-Zero Bitwise XOR",
-      "slug": "longest-subsequence-with-non-zero-bitwise-xor",
-      "problemName": "3702-longest-subsequence-with-non-zero-bitwise-xor",
-      "difficulty": "Medium",
-      "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/",
-      "folderPath": "3702-longest-subsequence-with-non-zero-bitwise-xor/",
-      "readmePath": "3702-longest-subsequence-with-non-zero-bitwise-xor/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
-          "path": "3702-longest-subsequence-with-non-zero-bitwise-xor/3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
-          "sha": "be8f33fc2a67e09eb1ee6858664ac0c547bf3e1c",
-          "lastSyncedAt": "2026-08-18T10:35:03.152Z"
-        }
-      ]
-    },
     {
       "frontendId": "29",
       "title": "Divide Two Integers",
@@ -403,6 +383,26 @@
           "path": "3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.cpp",
           "sha": "3de889736b57356b3b8c5ba99953e138c0477cd5",
           "lastSyncedAt": "2026-08-18T11:24:11.864Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3702",
+      "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+      "slug": "longest-subsequence-with-non-zero-bitwise-xor",
+      "problemName": "3702-longest-subsequence-with-non-zero-bitwise-xor",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/",
+      "folderPath": "3702-longest-subsequence-with-non-zero-bitwise-xor/",
+      "readmePath": "3702-longest-subsequence-with-non-zero-bitwise-xor/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
+          "path": "3702-longest-subsequence-with-non-zero-bitwise-xor/3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
+          "sha": "be8f33fc2a67e09eb1ee6858664ac0c547bf3e1c",
+          "lastSyncedAt": "2026-08-18T11:35:50.424Z"
         }
       ]
     }

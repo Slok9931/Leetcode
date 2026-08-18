@@ -6,43 +6,75 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 2 | 1 | 0 | 1 |
+| 20 | 5 | 10 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 1 |
+| 9 days | 9 days | 9 |
 
 | Date | Problems |
 | --- | ---: |
+| 2026-08-10 | 1 |
+| 2026-08-11 | 3 |
+| 2026-08-12 | 6 |
+| 2026-08-13 | 5 |
+| 2026-08-14 | 1 |
+| 2026-08-15 | 1 |
+| 2026-08-16 | 1 |
+| 2026-08-17 | 1 |
 | 2026-08-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 1 | 50% |
-| Hash Table | 1 | 50% |
+| Graph Theory | 11 | 55% |
+| Array | 10 | 50% |
+| Hash Table | 7 | 35% |
+| Math | 4 | 20% |
+| Game Theory | 3 | 15% |
+| Greedy | 3 | 15% |
+| Sorting | 3 | 15% |
+| Breadth-First Search | 2 | 10% |
+| Depth-First Search | 2 | 10% |
+| Dynamic Programming | 2 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 2 |
-| [Backtracking](Topics/backtracking/) | 0 |
+| [Array](Topics/array/) | 10 |
+| [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 0 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
+| [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
-| [Game Theory](Topics/game-theory/) | 1 |
-| [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 1 |
+| [Depth-First Search](Topics/depth-first-search/) | 2 |
+| [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Enumeration](Topics/enumeration/) | 1 |
+| [Game Theory](Topics/game-theory/) | 3 |
+| [Geometry](Topics/geometry/) | 1 |
+| [Graph Theory](Topics/graph/) | 11 |
+| [Greedy](Topics/greedy/) | 3 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 1 |
+| [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 0 |
-| [Sorting](Topics/sorting/) | 0 |
+| [Minimax](Topics/minimax-algorithm/) | 2 |
+| [Nim Game](Topics/nim-game/) | 2 |
+| [Ordered Set](Topics/ordered-set/) | 1 |
+| [Segment Tree](Topics/segment-tree/) | 1 |
+| [Sliding Window](Topics/sliding-window/) | 2 |
+| [Sorting](Topics/sorting/) | 3 |
+| [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 0 |
+| [String](Topics/string/) | 2 |
+| [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->

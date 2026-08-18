@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-18T11:35:55.788Z",
+  "updatedAt": "2026-08-18T11:36:16.892Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1242,7 +1242,7 @@
           "filename": "2508-add-edges-to-make-degrees-of-all-nodes-even.cpp",
           "path": "2508-add-edges-to-make-degrees-of-all-nodes-even/2508-add-edges-to-make-degrees-of-all-nodes-even.cpp",
           "sha": "c9d5e8395fe7e8af22442fbd2148ace86fc50786",
-          "lastSyncedAt": "2026-08-18T10:35:24.240Z"
+          "lastSyncedAt": "2026-08-18T11:36:16.892Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-18T10:36:12.106Z",
+  "updatedAt": "2026-08-18T11:24:11.965Z",
   "problems": [
     {
       "frontendId": "2958",
@@ -43,6 +43,426 @@
           "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.cpp",
           "sha": "cf32dc1a0ce10b270747e049cfa2a81119b7586b",
           "lastSyncedAt": "2026-08-18T10:35:06.925Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "problemName": "0003-longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "folderPath": "0003-longest-substring-without-repeating-characters/",
+      "readmePath": "0003-longest-substring-without-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0003-longest-substring-without-repeating-characters.cpp",
+          "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp",
+          "sha": "68d48e5e4f7d4f4b15c882771c546b9198d62b4e",
+          "lastSyncedAt": "2026-08-18T11:24:07.121Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "30",
+      "title": "Substring with Concatenation of All Words",
+      "slug": "substring-with-concatenation-of-all-words",
+      "problemName": "0030-substring-with-concatenation-of-all-words",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+      "folderPath": "0030-substring-with-concatenation-of-all-words/",
+      "readmePath": "0030-substring-with-concatenation-of-all-words/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0030-substring-with-concatenation-of-all-words.cpp",
+          "path": "0030-substring-with-concatenation-of-all-words/0030-substring-with-concatenation-of-all-words.cpp",
+          "sha": "ef06e6f9f5587ec97446ca6ff469ce3fa9b560c5",
+          "lastSyncedAt": "2026-08-18T11:24:07.407Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "76",
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "problemName": "0076-minimum-window-substring",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+      "folderPath": "0076-minimum-window-substring/",
+      "readmePath": "0076-minimum-window-substring/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0076-minimum-window-substring.cpp",
+          "path": "0076-minimum-window-substring/0076-minimum-window-substring.cpp",
+          "sha": "e7166d1a22f16b83b7933189c8dcb392da1f2e83",
+          "lastSyncedAt": "2026-08-18T11:24:07.809Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "209",
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "problemName": "0209-minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "folderPath": "0209-minimum-size-subarray-sum/",
+      "readmePath": "0209-minimum-size-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0209-minimum-size-subarray-sum.cpp",
+          "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.cpp",
+          "sha": "8fef2cffd93ff71d5e21fe00073978cfcf6f04a7",
+          "lastSyncedAt": "2026-08-18T11:24:08.595Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "problemName": "0219-contains-duplicate-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "folderPath": "0219-contains-duplicate-ii/",
+      "readmePath": "0219-contains-duplicate-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0219-contains-duplicate-ii.cpp",
+          "path": "0219-contains-duplicate-ii/0219-contains-duplicate-ii.cpp",
+          "sha": "55d9ca7376f377de512693134fcc8b9d1d5b3678",
+          "lastSyncedAt": "2026-08-18T11:24:08.641Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "220",
+      "title": "Contains Duplicate III",
+      "slug": "contains-duplicate-iii",
+      "problemName": "0220-contains-duplicate-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-iii/",
+      "folderPath": "0220-contains-duplicate-iii/",
+      "readmePath": "0220-contains-duplicate-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0220-contains-duplicate-iii.cpp",
+          "path": "0220-contains-duplicate-iii/0220-contains-duplicate-iii.cpp",
+          "sha": "a1617370da7b564b084553ebcb43b825dbaca29f",
+          "lastSyncedAt": "2026-08-18T11:24:08.652Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "0239-sliding-window-maximum/",
+      "readmePath": "0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0239-sliding-window-maximum.cpp",
+          "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.cpp",
+          "sha": "a227f5f7dab78918773ddc8688a3efe0a63ac13c",
+          "lastSyncedAt": "2026-08-18T11:24:08.828Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "424",
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "problemName": "0424-longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "folderPath": "0424-longest-repeating-character-replacement/",
+      "readmePath": "0424-longest-repeating-character-replacement/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0424-longest-repeating-character-replacement.cpp",
+          "path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.cpp",
+          "sha": "f4a4c27d753ce9a23743eb83df1e5f50b301402e",
+          "lastSyncedAt": "2026-08-18T11:24:09.128Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "problemName": "0904-fruit-into-baskets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+      "folderPath": "0904-fruit-into-baskets/",
+      "readmePath": "0904-fruit-into-baskets/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0904-fruit-into-baskets.cpp",
+          "path": "0904-fruit-into-baskets/0904-fruit-into-baskets.cpp",
+          "sha": "fcccc984f9859311fdad78a76c4c9b80e1dde2d9",
+          "lastSyncedAt": "2026-08-18T11:24:09.880Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "930",
+      "title": "Binary Subarrays With Sum",
+      "slug": "binary-subarrays-with-sum",
+      "problemName": "0930-binary-subarrays-with-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+      "folderPath": "0930-binary-subarrays-with-sum/",
+      "readmePath": "0930-binary-subarrays-with-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0930-binary-subarrays-with-sum.cpp",
+          "path": "0930-binary-subarrays-with-sum/0930-binary-subarrays-with-sum.cpp",
+          "sha": "2d10b27a56589ae98d4b13266cf949169246a032",
+          "lastSyncedAt": "2026-08-18T11:24:09.925Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "992",
+      "title": "Subarrays with K Different Integers",
+      "slug": "subarrays-with-k-different-integers",
+      "problemName": "0992-subarrays-with-k-different-integers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+      "folderPath": "0992-subarrays-with-k-different-integers/",
+      "readmePath": "0992-subarrays-with-k-different-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0992-subarrays-with-k-different-integers.cpp",
+          "path": "0992-subarrays-with-k-different-integers/0992-subarrays-with-k-different-integers.cpp",
+          "sha": "61444f40fcd64a5140d9c02b74449e17b3aa53d3",
+          "lastSyncedAt": "2026-08-18T11:24:10.009Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "1004-max-consecutive-ones-iii/",
+      "readmePath": "1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1004-max-consecutive-ones-iii.cpp",
+          "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.cpp",
+          "sha": "8bcbcc8b04a8166a6beade72398280fa457f3ce4",
+          "lastSyncedAt": "2026-08-18T11:24:10.067Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1248",
+      "title": "Count Number of Nice Subarrays",
+      "slug": "count-number-of-nice-subarrays",
+      "problemName": "1248-count-number-of-nice-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "folderPath": "1248-count-number-of-nice-subarrays/",
+      "readmePath": "1248-count-number-of-nice-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1248-count-number-of-nice-subarrays.cpp",
+          "path": "1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.cpp",
+          "sha": "60191bd85ff06bc37835b2a9c34ea9ef26f3d005",
+          "lastSyncedAt": "2026-08-18T11:24:10.232Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1358",
+      "title": "Number of Substrings Containing All Three Characters",
+      "slug": "number-of-substrings-containing-all-three-characters",
+      "problemName": "1358-number-of-substrings-containing-all-three-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+      "folderPath": "1358-number-of-substrings-containing-all-three-characters/",
+      "readmePath": "1358-number-of-substrings-containing-all-three-characters/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1358-number-of-substrings-containing-all-three-characters.cpp",
+          "path": "1358-number-of-substrings-containing-all-three-characters/1358-number-of-substrings-containing-all-three-characters.cpp",
+          "sha": "d7e50f3d477f5391c3bbfe4ecae57100800d06ee",
+          "lastSyncedAt": "2026-08-18T11:24:10.411Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1423",
+      "title": "Maximum Points You Can Obtain from Cards",
+      "slug": "maximum-points-you-can-obtain-from-cards",
+      "problemName": "1423-maximum-points-you-can-obtain-from-cards",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+      "folderPath": "1423-maximum-points-you-can-obtain-from-cards/",
+      "readmePath": "1423-maximum-points-you-can-obtain-from-cards/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1423-maximum-points-you-can-obtain-from-cards.cpp",
+          "path": "1423-maximum-points-you-can-obtain-from-cards/1423-maximum-points-you-can-obtain-from-cards.cpp",
+          "sha": "f885ce0ff07d9c3907f9af56c3fe0a59baa52e1d",
+          "lastSyncedAt": "2026-08-18T11:24:10.459Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1838",
+      "title": "Frequency of the Most Frequent Element",
+      "slug": "frequency-of-the-most-frequent-element",
+      "problemName": "1838-frequency-of-the-most-frequent-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+      "folderPath": "1838-frequency-of-the-most-frequent-element/",
+      "readmePath": "1838-frequency-of-the-most-frequent-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1838-frequency-of-the-most-frequent-element.cpp",
+          "path": "1838-frequency-of-the-most-frequent-element/1838-frequency-of-the-most-frequent-element.cpp",
+          "sha": "1837c62bb70274afee9dc3b18ba8267dba54d176",
+          "lastSyncedAt": "2026-08-18T11:24:10.685Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2302",
+      "title": "Count Subarrays With Score Less Than K",
+      "slug": "count-subarrays-with-score-less-than-k",
+      "problemName": "2302-count-subarrays-with-score-less-than-k",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-score-less-than-k/",
+      "folderPath": "2302-count-subarrays-with-score-less-than-k/",
+      "readmePath": "2302-count-subarrays-with-score-less-than-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2302-count-subarrays-with-score-less-than-k.cpp",
+          "path": "2302-count-subarrays-with-score-less-than-k/2302-count-subarrays-with-score-less-than-k.cpp",
+          "sha": "97a4281ee69596d700f4a4b14d15fbf4ee084499",
+          "lastSyncedAt": "2026-08-18T11:24:11.073Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2444",
+      "title": "Count Subarrays With Fixed Bounds",
+      "slug": "count-subarrays-with-fixed-bounds",
+      "problemName": "2444-count-subarrays-with-fixed-bounds",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds/",
+      "folderPath": "2444-count-subarrays-with-fixed-bounds/",
+      "readmePath": "2444-count-subarrays-with-fixed-bounds/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2444-count-subarrays-with-fixed-bounds.cpp",
+          "path": "2444-count-subarrays-with-fixed-bounds/2444-count-subarrays-with-fixed-bounds.cpp",
+          "sha": "e301ea3c0b0feb24c494fbe2a7d74e69192570e3",
+          "lastSyncedAt": "2026-08-18T11:24:11.143Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2799",
+      "title": "Count Complete Subarrays in an Array",
+      "slug": "count-complete-subarrays-in-an-array",
+      "problemName": "2799-count-complete-subarrays-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-complete-subarrays-in-an-array/",
+      "folderPath": "2799-count-complete-subarrays-in-an-array/",
+      "readmePath": "2799-count-complete-subarrays-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2799-count-complete-subarrays-in-an-array.cpp",
+          "path": "2799-count-complete-subarrays-in-an-array/2799-count-complete-subarrays-in-an-array.cpp",
+          "sha": "87c81c3aefb7e0739177acc92fea412300346d25",
+          "lastSyncedAt": "2026-08-18T11:24:11.255Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2962",
+      "title": "Count Subarrays Where Max Element Appears at Least K Times",
+      "slug": "count-subarrays-where-max-element-appears-at-least-k-times",
+      "problemName": "2962-count-subarrays-where-max-element-appears-at-least-k-times",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/",
+      "folderPath": "2962-count-subarrays-where-max-element-appears-at-least-k-times/",
+      "readmePath": "2962-count-subarrays-where-max-element-appears-at-least-k-times/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2962-count-subarrays-where-max-element-appears-at-least-k-times.cpp",
+          "path": "2962-count-subarrays-where-max-element-appears-at-least-k-times/2962-count-subarrays-where-max-element-appears-at-least-k-times.cpp",
+          "sha": "5729595984699f7f8c2ff3d2fdd345e730d44c58",
+          "lastSyncedAt": "2026-08-18T11:24:11.377Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3445",
+      "title": "Maximum Difference Between Even and Odd Frequency II",
+      "slug": "maximum-difference-between-even-and-odd-frequency-ii",
+      "problemName": "3445-maximum-difference-between-even-and-odd-frequency-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/",
+      "folderPath": "3445-maximum-difference-between-even-and-odd-frequency-ii/",
+      "readmePath": "3445-maximum-difference-between-even-and-odd-frequency-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3445-maximum-difference-between-even-and-odd-frequency-ii.cpp",
+          "path": "3445-maximum-difference-between-even-and-odd-frequency-ii/3445-maximum-difference-between-even-and-odd-frequency-ii.cpp",
+          "sha": "ba2fbd8b7c9815495cef38edcf402f640a0b4023",
+          "lastSyncedAt": "2026-08-18T11:24:11.752Z"
         }
       ]
     }

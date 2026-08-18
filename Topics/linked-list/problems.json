@@ -4,6 +4,467 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-17T15:10:31.733Z",
-  "problems": []
+  "updatedAt": "2026-08-18T11:24:11.962Z",
+  "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "0002-add-two-numbers/",
+      "readmePath": "0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0002-add-two-numbers.cpp",
+          "path": "0002-add-two-numbers/0002-add-two-numbers.cpp",
+          "sha": "132afdadbd799450812b47276285a7546d940868",
+          "lastSyncedAt": "2026-08-18T11:24:07.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "problemName": "0019-remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "folderPath": "0019-remove-nth-node-from-end-of-list/",
+      "readmePath": "0019-remove-nth-node-from-end-of-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0019-remove-nth-node-from-end-of-list.cpp",
+          "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.cpp",
+          "sha": "d6e6fc612ba7553b281dd87753d85c4a069f19c1",
+          "lastSyncedAt": "2026-08-18T11:24:07.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "0021-merge-two-sorted-lists/",
+      "readmePath": "0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0021-merge-two-sorted-lists.cpp",
+          "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
+          "sha": "a250c8de50e34603101e211fc4b671f8c35aea1c",
+          "lastSyncedAt": "2026-08-18T11:24:07.309Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "problemName": "0023-merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "folderPath": "0023-merge-k-sorted-lists/",
+      "readmePath": "0023-merge-k-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0023-merge-k-sorted-lists.cpp",
+          "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.cpp",
+          "sha": "7f70cecec158f7560313dce9753fcca4c72c520f",
+          "lastSyncedAt": "2026-08-18T11:24:07.332Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "25",
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "problemName": "0025-reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "folderPath": "0025-reverse-nodes-in-k-group/",
+      "readmePath": "0025-reverse-nodes-in-k-group/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0025-reverse-nodes-in-k-group.cpp",
+          "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.cpp",
+          "sha": "3258af9af54f83dcd9b9f454f211c5489eff8d87",
+          "lastSyncedAt": "2026-08-18T11:24:07.346Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "0061-rotate-list/",
+      "readmePath": "0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0061-rotate-list.cpp",
+          "path": "0061-rotate-list/0061-rotate-list.cpp",
+          "sha": "ab89059a8229ddfdc0277c50365a6e1dc2c7b9b6",
+          "lastSyncedAt": "2026-08-18T11:24:07.705Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "83",
+      "title": "Remove Duplicates from Sorted List",
+      "slug": "remove-duplicates-from-sorted-list",
+      "problemName": "0083-remove-duplicates-from-sorted-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+      "folderPath": "0083-remove-duplicates-from-sorted-list/",
+      "readmePath": "0083-remove-duplicates-from-sorted-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0083-remove-duplicates-from-sorted-list.cpp",
+          "path": "0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.cpp",
+          "sha": "a57acc3308c755e052c17db3fd33ff94df363931",
+          "lastSyncedAt": "2026-08-18T11:24:07.880Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "114",
+      "title": "Flatten Binary Tree to Linked List",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "problemName": "0114-flatten-binary-tree-to-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+      "folderPath": "0114-flatten-binary-tree-to-linked-list/",
+      "readmePath": "0114-flatten-binary-tree-to-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0114-flatten-binary-tree-to-linked-list.cpp",
+          "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.cpp",
+          "sha": "ae0433bef679c543eb3c72b0db5bd8e8474b9b5a",
+          "lastSyncedAt": "2026-08-18T11:24:08.088Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "117",
+      "title": "Populating Next Right Pointers in Each Node II",
+      "slug": "populating-next-right-pointers-in-each-node-ii",
+      "problemName": "0117-populating-next-right-pointers-in-each-node-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/",
+      "folderPath": "0117-populating-next-right-pointers-in-each-node-ii/",
+      "readmePath": "0117-populating-next-right-pointers-in-each-node-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0117-populating-next-right-pointers-in-each-node-ii.cpp",
+          "path": "0117-populating-next-right-pointers-in-each-node-ii/0117-populating-next-right-pointers-in-each-node-ii.cpp",
+          "sha": "61ed06208cdceb05c4c509c73d8a720c077b2207",
+          "lastSyncedAt": "2026-08-18T11:24:08.101Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "138",
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "problemName": "0138-copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "folderPath": "0138-copy-list-with-random-pointer/",
+      "readmePath": "0138-copy-list-with-random-pointer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0138-copy-list-with-random-pointer.cpp",
+          "path": "0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.cpp",
+          "sha": "1a3c2b9c1b46586f6344430cb7cd60d559bd00ab",
+          "lastSyncedAt": "2026-08-18T11:24:08.262Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "0141-linked-list-cycle/",
+      "readmePath": "0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0141-linked-list-cycle.cpp",
+          "path": "0141-linked-list-cycle/0141-linked-list-cycle.cpp",
+          "sha": "484459f4e4df525da5046286490c304a982ba2e2",
+          "lastSyncedAt": "2026-08-18T11:24:08.274Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "0142-linked-list-cycle-ii/",
+      "readmePath": "0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0142-linked-list-cycle-ii.cpp",
+          "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.cpp",
+          "sha": "47d2ce92a82fd430e734767bfd08190ec3eaff3a",
+          "lastSyncedAt": "2026-08-18T11:24:08.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0148-sort-list.cpp",
+          "path": "0148-sort-list/0148-sort-list.cpp",
+          "sha": "704e18034aa812c284ec4fbd754e00ad3e1807b4",
+          "lastSyncedAt": "2026-08-18T11:24:08.321Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "160",
+      "title": "Intersection of Two Linked Lists",
+      "slug": "intersection-of-two-linked-lists",
+      "problemName": "0160-intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "folderPath": "0160-intersection-of-two-linked-lists/",
+      "readmePath": "0160-intersection-of-two-linked-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0160-intersection-of-two-linked-lists.cpp",
+          "path": "0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
+          "sha": "9ffca0bcba62d444754f64a4559cfc2c3e958c02",
+          "lastSyncedAt": "2026-08-18T11:24:08.390Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "203",
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "problemName": "0203-remove-linked-list-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+      "folderPath": "0203-remove-linked-list-elements/",
+      "readmePath": "0203-remove-linked-list-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0203-remove-linked-list-elements.cpp",
+          "path": "0203-remove-linked-list-elements/0203-remove-linked-list-elements.cpp",
+          "sha": "5bf184e663be03292edf640b81a8723914234e43",
+          "lastSyncedAt": "2026-08-18T11:24:08.540Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "problemName": "0206-reverse-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+      "folderPath": "0206-reverse-linked-list/",
+      "readmePath": "0206-reverse-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0206-reverse-linked-list.cpp",
+          "path": "0206-reverse-linked-list/0206-reverse-linked-list.cpp",
+          "sha": "b0b26e988dcc0097fae1361658c32c3d14a78dd6",
+          "lastSyncedAt": "2026-08-18T11:24:08.574Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "0234-palindrome-linked-list/",
+      "readmePath": "0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0234-palindrome-linked-list.cpp",
+          "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
+          "sha": "7ece90c8c0bd9d0c32c63f704145c53218815044",
+          "lastSyncedAt": "2026-08-18T11:24:08.768Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "237",
+      "title": "Delete Node in a Linked List",
+      "slug": "delete-node-in-a-linked-list",
+      "problemName": "0237-delete-node-in-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+      "folderPath": "0237-delete-node-in-a-linked-list/",
+      "readmePath": "0237-delete-node-in-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0237-delete-node-in-a-linked-list.cpp",
+          "path": "0237-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.cpp",
+          "sha": "50ed7184d63d5c5c104454e1dcf62abd24a939a6",
+          "lastSyncedAt": "2026-08-18T11:24:08.805Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "328",
+      "title": "Odd Even Linked List",
+      "slug": "odd-even-linked-list",
+      "problemName": "0328-odd-even-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/odd-even-linked-list/",
+      "folderPath": "0328-odd-even-linked-list/",
+      "readmePath": "0328-odd-even-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0328-odd-even-linked-list.cpp",
+          "path": "0328-odd-even-linked-list/0328-odd-even-linked-list.cpp",
+          "sha": "eccad834e3ae17fcccda61db9f605f4d24f51ea4",
+          "lastSyncedAt": "2026-08-18T11:24:08.966Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "355",
+      "title": "Design Twitter",
+      "slug": "design-twitter",
+      "problemName": "0355-design-twitter",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-twitter/",
+      "folderPath": "0355-design-twitter/",
+      "readmePath": "0355-design-twitter/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0355-design-twitter.cpp",
+          "path": "0355-design-twitter/0355-design-twitter.cpp",
+          "sha": "18686a723c8b67b0cc812e1e5be505e676479b38",
+          "lastSyncedAt": "2026-08-18T11:24:08.989Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "problemName": "0876-middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "folderPath": "0876-middle-of-the-linked-list/",
+      "readmePath": "0876-middle-of-the-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0876-middle-of-the-linked-list.cpp",
+          "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.cpp",
+          "sha": "2deed0b68a3d73b4567b72128a51ea091b7053ec",
+          "lastSyncedAt": "2026-08-18T11:24:09.835Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1290",
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "slug": "convert-binary-number-in-a-linked-list-to-integer",
+      "problemName": "1290-convert-binary-number-in-a-linked-list-to-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+      "folderPath": "1290-convert-binary-number-in-a-linked-list-to-integer/",
+      "readmePath": "1290-convert-binary-number-in-a-linked-list-to-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1290-convert-binary-number-in-a-linked-list-to-integer.cpp",
+          "path": "1290-convert-binary-number-in-a-linked-list-to-integer/1290-convert-binary-number-in-a-linked-list-to-integer.cpp",
+          "sha": "3af374a5d35b8fb6aa77d5694690b27e36ef7fe8",
+          "lastSyncedAt": "2026-08-18T11:24:10.280Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2095",
+      "title": "Delete the Middle Node of a Linked List",
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "problemName": "2095-delete-the-middle-node-of-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+      "folderPath": "2095-delete-the-middle-node-of-a-linked-list/",
+      "readmePath": "2095-delete-the-middle-node-of-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2095-delete-the-middle-node-of-a-linked-list.cpp",
+          "path": "2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.cpp",
+          "sha": "126e4cec2d28e4f6b206fd658d317d6b3d9216bc",
+          "lastSyncedAt": "2026-08-18T11:24:10.939Z"
+        }
+      ]
+    }
+  ]
 }

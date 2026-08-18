@@ -4,7 +4,7 @@
     "slug": "segment-tree",
     "name": "Segment Tree"
   },
-  "updatedAt": "2026-08-18T10:35:38.390Z",
+  "updatedAt": "2026-08-18T11:24:11.970Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -23,6 +23,46 @@
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
           "sha": "a330912da6bd550032010cf347c453ab4fcdae52",
           "lastSyncedAt": "2026-08-18T10:35:38.390Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "493",
+      "title": "Reverse Pairs",
+      "slug": "reverse-pairs",
+      "problemName": "0493-reverse-pairs",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-pairs/",
+      "folderPath": "0493-reverse-pairs/",
+      "readmePath": "0493-reverse-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0493-reverse-pairs.cpp",
+          "path": "0493-reverse-pairs/0493-reverse-pairs.cpp",
+          "sha": "e6010eb7646160720e64ac2f7eb4859c9349e424",
+          "lastSyncedAt": "2026-08-18T11:24:09.241Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3501",
+      "title": "Maximize Active Section with Trade II",
+      "slug": "maximize-active-section-with-trade-ii",
+      "problemName": "3501-maximize-active-section-with-trade-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-active-section-with-trade-ii/",
+      "folderPath": "3501-maximize-active-section-with-trade-ii/",
+      "readmePath": "3501-maximize-active-section-with-trade-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3501-maximize-active-section-with-trade-ii.cpp",
+          "path": "3501-maximize-active-section-with-trade-ii/3501-maximize-active-section-with-trade-ii.cpp",
+          "sha": "e1cb202e7774a905bd7f16bdf84d56b9b185ab2d",
+          "lastSyncedAt": "2026-08-18T11:24:11.788Z"
         }
       ]
     }

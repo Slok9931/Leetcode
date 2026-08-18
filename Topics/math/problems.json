@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-18T10:36:22.533Z",
+  "updatedAt": "2026-08-18T11:24:11.974Z",
   "problems": [
     {
       "frontendId": "1510",
@@ -83,6 +83,1246 @@
           "path": "2101-detonate-the-maximum-bombs/2101-detonate-the-maximum-bombs.cpp",
           "sha": "c714cdaec4a2c030485f368547b61cd7dd592d5f",
           "lastSyncedAt": "2026-08-18T10:36:22.533Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "0002-add-two-numbers/",
+      "readmePath": "0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0002-add-two-numbers.cpp",
+          "path": "0002-add-two-numbers/0002-add-two-numbers.cpp",
+          "sha": "132afdadbd799450812b47276285a7546d940868",
+          "lastSyncedAt": "2026-08-18T11:24:07.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "0007-reverse-integer/",
+      "readmePath": "0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0007-reverse-integer.cpp",
+          "path": "0007-reverse-integer/0007-reverse-integer.cpp",
+          "sha": "e7d1e43eb1f557f65ea57c1c2e9f9fefc90d5981",
+          "lastSyncedAt": "2026-08-18T11:24:07.167Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "problemName": "0009-palindrome-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+      "folderPath": "0009-palindrome-number/",
+      "readmePath": "0009-palindrome-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0009-palindrome-number.cpp",
+          "path": "0009-palindrome-number/0009-palindrome-number.cpp",
+          "sha": "c523146f7fe2ff2138abe310456dbd3b2d9462a8",
+          "lastSyncedAt": "2026-08-18T11:24:07.190Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "12",
+      "title": "Integer to Roman",
+      "slug": "integer-to-roman",
+      "problemName": "0012-integer-to-roman",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman/",
+      "folderPath": "0012-integer-to-roman/",
+      "readmePath": "0012-integer-to-roman/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0012-integer-to-roman.cpp",
+          "path": "0012-integer-to-roman/0012-integer-to-roman.cpp",
+          "sha": "8585a4fb6eb07f1fe1a09e0e1869ded78c0adda7",
+          "lastSyncedAt": "2026-08-18T11:24:07.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "problemName": "0013-roman-to-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+      "folderPath": "0013-roman-to-integer/",
+      "readmePath": "0013-roman-to-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0013-roman-to-integer.cpp",
+          "path": "0013-roman-to-integer/0013-roman-to-integer.cpp",
+          "sha": "2ff259aab2a911d881a1f0eae5934202a32c1ca2",
+          "lastSyncedAt": "2026-08-18T11:24:07.226Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "29",
+      "title": "Divide Two Integers",
+      "slug": "divide-two-integers",
+      "problemName": "0029-divide-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+      "folderPath": "0029-divide-two-integers/",
+      "readmePath": "0029-divide-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0029-divide-two-integers.cpp",
+          "path": "0029-divide-two-integers/0029-divide-two-integers.cpp",
+          "sha": "0a17cd29c3a211870f359f522edb87cac2828d59",
+          "lastSyncedAt": "2026-08-18T11:24:07.395Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0048-rotate-image.cpp",
+          "path": "0048-rotate-image/0048-rotate-image.cpp",
+          "sha": "8a2f0eec37f3a0c3188caaf6daf85df27022033b",
+          "lastSyncedAt": "2026-08-18T11:24:07.577Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0050-powx-n.cpp",
+          "path": "0050-powx-n/0050-powx-n.cpp",
+          "sha": "4d9f2dd77b570086e9038c5a6b4a540ca75c1bbd",
+          "lastSyncedAt": "2026-08-18T11:24:07.599Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "0066-plus-one/",
+      "readmePath": "0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0066-plus-one.cpp",
+          "path": "0066-plus-one/0066-plus-one.cpp",
+          "sha": "12e166af990164cffdd4075ac33ba07312e9d4d1",
+          "lastSyncedAt": "2026-08-18T11:24:07.717Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0067-add-binary.cpp",
+          "path": "0067-add-binary/0067-add-binary.cpp",
+          "sha": "1589519f800171aa09ac40e8854cd75c04e5286d",
+          "lastSyncedAt": "2026-08-18T11:24:07.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "0069-sqrtx/",
+      "readmePath": "0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0069-sqrtx.cpp",
+          "path": "0069-sqrtx/0069-sqrtx.cpp",
+          "sha": "9bae39408e1451e6594d297c691f2f97e6776599",
+          "lastSyncedAt": "2026-08-18T11:24:07.750Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "0150-evaluate-reverse-polish-notation/",
+      "readmePath": "0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0150-evaluate-reverse-polish-notation.cpp",
+          "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.cpp",
+          "sha": "e9f74cbfdb85be7772c283f46b97f0e538ef79cb",
+          "lastSyncedAt": "2026-08-18T11:24:08.332Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "172",
+      "title": "Factorial Trailing Zeroes",
+      "slug": "factorial-trailing-zeroes",
+      "problemName": "0172-factorial-trailing-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+      "folderPath": "0172-factorial-trailing-zeroes/",
+      "readmePath": "0172-factorial-trailing-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0172-factorial-trailing-zeroes.cpp",
+          "path": "0172-factorial-trailing-zeroes/0172-factorial-trailing-zeroes.cpp",
+          "sha": "2a8d4c9971090e5fb8944394736f677bbaacd499",
+          "lastSyncedAt": "2026-08-18T11:24:08.436Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "0189-rotate-array/",
+      "readmePath": "0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0189-rotate-array.cpp",
+          "path": "0189-rotate-array/0189-rotate-array.cpp",
+          "sha": "c58028423ebc3898a6283a8f6bac0afe97a62211",
+          "lastSyncedAt": "2026-08-18T11:24:08.459Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "problemName": "0202-happy-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+      "folderPath": "0202-happy-number/",
+      "readmePath": "0202-happy-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0202-happy-number.cpp",
+          "path": "0202-happy-number/0202-happy-number.cpp",
+          "sha": "c46d9238b29fdbb04793878aad2d59440411fe30",
+          "lastSyncedAt": "2026-08-18T11:24:08.529Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "problemName": "0204-count-primes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+      "folderPath": "0204-count-primes/",
+      "readmePath": "0204-count-primes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0204-count-primes.cpp",
+          "path": "0204-count-primes/0204-count-primes.cpp",
+          "sha": "ee0938227060dffe968a87e3db20b4042483ad1b",
+          "lastSyncedAt": "2026-08-18T11:24:08.551Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "224",
+      "title": "Basic Calculator",
+      "slug": "basic-calculator",
+      "problemName": "0224-basic-calculator",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator/",
+      "folderPath": "0224-basic-calculator/",
+      "readmePath": "0224-basic-calculator/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0224-basic-calculator.cpp",
+          "path": "0224-basic-calculator/0224-basic-calculator.cpp",
+          "sha": "7a1fd944adf6b6db3bf3da3e6667f1217added65",
+          "lastSyncedAt": "2026-08-18T11:24:08.675Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "0231-power-of-two/",
+      "readmePath": "0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0231-power-of-two.cpp",
+          "path": "0231-power-of-two/0231-power-of-two.cpp",
+          "sha": "168ca1d79cf317ef2a3ce097aaf49df1f5477e09",
+          "lastSyncedAt": "2026-08-18T11:24:08.744Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0268-missing-number.cpp",
+          "path": "0268-missing-number/0268-missing-number.cpp",
+          "sha": "d0e5102e1197696957935575bd15ddc2e1db60c4",
+          "lastSyncedAt": "2026-08-18T11:24:08.885Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "273",
+      "title": "Integer to English Words",
+      "slug": "integer-to-english-words",
+      "problemName": "0273-integer-to-english-words",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-english-words/",
+      "folderPath": "0273-integer-to-english-words/",
+      "readmePath": "0273-integer-to-english-words/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0273-integer-to-english-words.cpp",
+          "path": "0273-integer-to-english-words/0273-integer-to-english-words.cpp",
+          "sha": "f529838a4b99c3e2e7b8ee94918ba44c37891984",
+          "lastSyncedAt": "2026-08-18T11:24:08.897Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "282",
+      "title": "Expression Add Operators",
+      "slug": "expression-add-operators",
+      "problemName": "0282-expression-add-operators",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/expression-add-operators/",
+      "folderPath": "0282-expression-add-operators/",
+      "readmePath": "0282-expression-add-operators/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0282-expression-add-operators.cpp",
+          "path": "0282-expression-add-operators/0282-expression-add-operators.cpp",
+          "sha": "37eec3c1d7e42f8f1d01d4e4bfa2ba7f7c27d7ec",
+          "lastSyncedAt": "2026-08-18T11:24:08.919Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "380",
+      "title": "Insert Delete GetRandom O(1)",
+      "slug": "insert-delete-getrandom-o1",
+      "problemName": "0380-insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+      "folderPath": "0380-insert-delete-getrandom-o1/",
+      "readmePath": "0380-insert-delete-getrandom-o1/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0380-insert-delete-getrandom-o1.cpp",
+          "path": "0380-insert-delete-getrandom-o1/0380-insert-delete-getrandom-o1.cpp",
+          "sha": "538a3edb223c743f35557f279b3671d05d90a690",
+          "lastSyncedAt": "2026-08-18T11:24:09.013Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "486",
+      "title": "Predict the Winner",
+      "slug": "predict-the-winner",
+      "problemName": "0486-predict-the-winner",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/predict-the-winner/",
+      "folderPath": "0486-predict-the-winner/",
+      "readmePath": "0486-predict-the-winner/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0486-predict-the-winner.cpp",
+          "path": "0486-predict-the-winner/0486-predict-the-winner.cpp",
+          "sha": "c3cbabd9b8f48deaa2d1e097933c7122a06fe529",
+          "lastSyncedAt": "2026-08-18T11:24:09.231Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0509-fibonacci-number.cpp",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.cpp",
+          "sha": "67121846da617116459c382f100219c1a3ddf6d6",
+          "lastSyncedAt": "2026-08-18T11:24:09.309Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "628",
+      "title": "Maximum Product of Three Numbers",
+      "slug": "maximum-product-of-three-numbers",
+      "problemName": "0628-maximum-product-of-three-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+      "folderPath": "0628-maximum-product-of-three-numbers/",
+      "readmePath": "0628-maximum-product-of-three-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0628-maximum-product-of-three-numbers.cpp",
+          "path": "0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.cpp",
+          "sha": "28a94e49494be64f1b35590d19e302b2ec2c4f37",
+          "lastSyncedAt": "2026-08-18T11:24:09.463Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "781",
+      "title": "Rabbits in Forest",
+      "slug": "rabbits-in-forest",
+      "problemName": "0781-rabbits-in-forest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rabbits-in-forest/",
+      "folderPath": "0781-rabbits-in-forest/",
+      "readmePath": "0781-rabbits-in-forest/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0781-rabbits-in-forest.cpp",
+          "path": "0781-rabbits-in-forest/0781-rabbits-in-forest.cpp",
+          "sha": "8a5de7feac1083ac7d1973ebe0ef77456c400f9c",
+          "lastSyncedAt": "2026-08-18T11:24:09.638Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "866",
+      "title": "Prime Palindrome",
+      "slug": "prime-palindrome",
+      "problemName": "0866-prime-palindrome",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/prime-palindrome/",
+      "folderPath": "0866-prime-palindrome/",
+      "readmePath": "0866-prime-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0866-prime-palindrome.cpp",
+          "path": "0866-prime-palindrome/0866-prime-palindrome.cpp",
+          "sha": "bb9823dc44f6e496dd081b71c7a8aadcd41609e2",
+          "lastSyncedAt": "2026-08-18T11:24:09.801Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "0877-stone-game/",
+      "readmePath": "0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0877-stone-game.cpp",
+          "path": "0877-stone-game/0877-stone-game.cpp",
+          "sha": "55ffc67c34b53720449799d9bdf5aa35b63d8285",
+          "lastSyncedAt": "2026-08-18T11:24:09.846Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "996",
+      "title": "Number of Squareful Arrays",
+      "slug": "number-of-squareful-arrays",
+      "problemName": "0996-number-of-squareful-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-squareful-arrays/",
+      "folderPath": "0996-number-of-squareful-arrays/",
+      "readmePath": "0996-number-of-squareful-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0996-number-of-squareful-arrays.cpp",
+          "path": "0996-number-of-squareful-arrays/0996-number-of-squareful-arrays.cpp",
+          "sha": "584898e28e8f32077ddff38ece724b6044a9d2e0",
+          "lastSyncedAt": "2026-08-18T11:24:10.042Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1140",
+      "title": "Stone Game II",
+      "slug": "stone-game-ii",
+      "problemName": "1140-stone-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ii/",
+      "folderPath": "1140-stone-game-ii/",
+      "readmePath": "1140-stone-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1140-stone-game-ii.cpp",
+          "path": "1140-stone-game-ii/1140-stone-game-ii.cpp",
+          "sha": "14854260098744ff4abcd8959a416900b0da702d",
+          "lastSyncedAt": "2026-08-18T11:24:10.207Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1248",
+      "title": "Count Number of Nice Subarrays",
+      "slug": "count-number-of-nice-subarrays",
+      "problemName": "1248-count-number-of-nice-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "folderPath": "1248-count-number-of-nice-subarrays/",
+      "readmePath": "1248-count-number-of-nice-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1248-count-number-of-nice-subarrays.cpp",
+          "path": "1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.cpp",
+          "sha": "60191bd85ff06bc37835b2a9c34ea9ef26f3d005",
+          "lastSyncedAt": "2026-08-18T11:24:10.232Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1290",
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "slug": "convert-binary-number-in-a-linked-list-to-integer",
+      "problemName": "1290-convert-binary-number-in-a-linked-list-to-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+      "folderPath": "1290-convert-binary-number-in-a-linked-list-to-integer/",
+      "readmePath": "1290-convert-binary-number-in-a-linked-list-to-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1290-convert-binary-number-in-a-linked-list-to-integer.cpp",
+          "path": "1290-convert-binary-number-in-a-linked-list-to-integer/1290-convert-binary-number-in-a-linked-list-to-integer.cpp",
+          "sha": "3af374a5d35b8fb6aa77d5694690b27e36ef7fe8",
+          "lastSyncedAt": "2026-08-18T11:24:10.280Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1295",
+      "title": "Find Numbers with Even Number of Digits",
+      "slug": "find-numbers-with-even-number-of-digits",
+      "problemName": "1295-find-numbers-with-even-number-of-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/",
+      "folderPath": "1295-find-numbers-with-even-number-of-digits/",
+      "readmePath": "1295-find-numbers-with-even-number-of-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1295-find-numbers-with-even-number-of-digits.cpp",
+          "path": "1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.cpp",
+          "sha": "531f40f9515d1877009f8f4a1a17772881e47c98",
+          "lastSyncedAt": "2026-08-18T11:24:10.303Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1399",
+      "title": "Count Largest Group",
+      "slug": "count-largest-group",
+      "problemName": "1399-count-largest-group",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-largest-group/",
+      "folderPath": "1399-count-largest-group/",
+      "readmePath": "1399-count-largest-group/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1399-count-largest-group.cpp",
+          "path": "1399-count-largest-group/1399-count-largest-group.cpp",
+          "sha": "760bc1772adf46089dcecc3e11caaed791a734c0",
+          "lastSyncedAt": "2026-08-18T11:24:10.436Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1406",
+      "title": "Stone Game III",
+      "slug": "stone-game-iii",
+      "problemName": "1406-stone-game-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iii/",
+      "folderPath": "1406-stone-game-iii/",
+      "readmePath": "1406-stone-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1406-stone-game-iii.cpp",
+          "path": "1406-stone-game-iii/1406-stone-game-iii.cpp",
+          "sha": "c90c811b515e8c6e1b04de611594dfd026f63b95",
+          "lastSyncedAt": "2026-08-18T11:24:10.448Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1432",
+      "title": "Max Difference You Can Get From Changing an Integer",
+      "slug": "max-difference-you-can-get-from-changing-an-integer",
+      "problemName": "1432-max-difference-you-can-get-from-changing-an-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/",
+      "folderPath": "1432-max-difference-you-can-get-from-changing-an-integer/",
+      "readmePath": "1432-max-difference-you-can-get-from-changing-an-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1432-max-difference-you-can-get-from-changing-an-integer.cpp",
+          "path": "1432-max-difference-you-can-get-from-changing-an-integer/1432-max-difference-you-can-get-from-changing-an-integer.cpp",
+          "sha": "7e96b3d77a4b1f3a9b62f07b1dc815206a7ee5fb",
+          "lastSyncedAt": "2026-08-18T11:24:10.471Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1903",
+      "title": "Largest Odd Number in String",
+      "slug": "largest-odd-number-in-string",
+      "problemName": "1903-largest-odd-number-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-odd-number-in-string/",
+      "folderPath": "1903-largest-odd-number-in-string/",
+      "readmePath": "1903-largest-odd-number-in-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1903-largest-odd-number-in-string.cpp",
+          "path": "1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.cpp",
+          "sha": "76f52b2ed9bd0b6577701cf069122f29616f64a4",
+          "lastSyncedAt": "2026-08-18T11:24:10.720Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1922",
+      "title": "Count Good Numbers",
+      "slug": "count-good-numbers",
+      "problemName": "1922-count-good-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-numbers/",
+      "folderPath": "1922-count-good-numbers/",
+      "readmePath": "1922-count-good-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1922-count-good-numbers.cpp",
+          "path": "1922-count-good-numbers/1922-count-good-numbers.cpp",
+          "sha": "b5e40505db7a1e3d6bfaf8abf4c0f46d45fdab44",
+          "lastSyncedAt": "2026-08-18T11:24:10.743Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1979",
+      "title": "Find Greatest Common Divisor of Array",
+      "slug": "find-greatest-common-divisor-of-array",
+      "problemName": "1979-find-greatest-common-divisor-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+      "folderPath": "1979-find-greatest-common-divisor-of-array/",
+      "readmePath": "1979-find-greatest-common-divisor-of-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1979-find-greatest-common-divisor-of-array.cpp",
+          "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.cpp",
+          "sha": "d2b4cf92a4bffd185a0f87a163852781a0463d80",
+          "lastSyncedAt": "2026-08-18T11:24:10.805Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2048",
+      "title": "Next Greater Numerically Balanced Number",
+      "slug": "next-greater-numerically-balanced-number",
+      "problemName": "2048-next-greater-numerically-balanced-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-numerically-balanced-number/",
+      "folderPath": "2048-next-greater-numerically-balanced-number/",
+      "readmePath": "2048-next-greater-numerically-balanced-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2048-next-greater-numerically-balanced-number.cpp",
+          "path": "2048-next-greater-numerically-balanced-number/2048-next-greater-numerically-balanced-number.cpp",
+          "sha": "5936891cb36ab75f66ffb2ea67f6deec664d0bfb",
+          "lastSyncedAt": "2026-08-18T11:24:10.867Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2338",
+      "title": "Count the Number of Ideal Arrays",
+      "slug": "count-the-number-of-ideal-arrays",
+      "problemName": "2338-count-the-number-of-ideal-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-ideal-arrays/",
+      "folderPath": "2338-count-the-number-of-ideal-arrays/",
+      "readmePath": "2338-count-the-number-of-ideal-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2338-count-the-number-of-ideal-arrays.cpp",
+          "path": "2338-count-the-number-of-ideal-arrays/2338-count-the-number-of-ideal-arrays.cpp",
+          "sha": "7988ec77bd307363767f5345f26234adf5067638",
+          "lastSyncedAt": "2026-08-18T11:24:11.096Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2566",
+      "title": "Maximum Difference by Remapping a Digit",
+      "slug": "maximum-difference-by-remapping-a-digit",
+      "problemName": "2566-maximum-difference-by-remapping-a-digit",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/",
+      "folderPath": "2566-maximum-difference-by-remapping-a-digit/",
+      "readmePath": "2566-maximum-difference-by-remapping-a-digit/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2566-maximum-difference-by-remapping-a-digit.cpp",
+          "path": "2566-maximum-difference-by-remapping-a-digit/2566-maximum-difference-by-remapping-a-digit.cpp",
+          "sha": "ff91b14780924f2de85f5d403db55ba8d0ec75a0",
+          "lastSyncedAt": "2026-08-18T11:24:11.204Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2894",
+      "title": "Divisible and Non-divisible Sums Difference",
+      "slug": "divisible-and-non-divisible-sums-difference",
+      "problemName": "2894-divisible-and-non-divisible-sums-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/",
+      "folderPath": "2894-divisible-and-non-divisible-sums-difference/",
+      "readmePath": "2894-divisible-and-non-divisible-sums-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2894-divisible-and-non-divisible-sums-difference.cpp",
+          "path": "2894-divisible-and-non-divisible-sums-difference/2894-divisible-and-non-divisible-sums-difference.cpp",
+          "sha": "46f5a28be183016d67aeab6d7da342e9bc321bea",
+          "lastSyncedAt": "2026-08-18T11:24:11.292Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3014",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "problemName": "3014-minimum-number-of-pushes-to-type-word-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+      "folderPath": "3014-minimum-number-of-pushes-to-type-word-i/",
+      "readmePath": "3014-minimum-number-of-pushes-to-type-word-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3014-minimum-number-of-pushes-to-type-word-i.cpp",
+          "path": "3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.cpp",
+          "sha": "af7dbede8dbe523360eaf501762116e2cd2c9dc4",
+          "lastSyncedAt": "2026-08-18T11:24:11.414Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "problemName": "3024-type-of-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+      "folderPath": "3024-type-of-triangle/",
+      "readmePath": "3024-type-of-triangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3024-type-of-triangle.cpp",
+          "path": "3024-type-of-triangle/3024-type-of-triangle.cpp",
+          "sha": "c45e038c0a9a54f60a351a80f07cd578351fb324",
+          "lastSyncedAt": "2026-08-18T11:24:11.438Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "slug": "sorted-gcd-pair-queries",
+      "problemName": "3312-sorted-gcd-pair-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "folderPath": "3312-sorted-gcd-pair-queries/",
+      "readmePath": "3312-sorted-gcd-pair-queries/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3312-sorted-gcd-pair-queries.cpp",
+          "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.cpp",
+          "sha": "d1355cb64362b53ca2b8709fa955db99f89ed8f0",
+          "lastSyncedAt": "2026-08-18T11:24:11.535Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3335",
+      "title": "Total Characters in String After Transformations I",
+      "slug": "total-characters-in-string-after-transformations-i",
+      "problemName": "3335-total-characters-in-string-after-transformations-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/total-characters-in-string-after-transformations-i/",
+      "folderPath": "3335-total-characters-in-string-after-transformations-i/",
+      "readmePath": "3335-total-characters-in-string-after-transformations-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3335-total-characters-in-string-after-transformations-i.cpp",
+          "path": "3335-total-characters-in-string-after-transformations-i/3335-total-characters-in-string-after-transformations-i.cpp",
+          "sha": "016d9e6ef686fca08df5918979556341bc00556d",
+          "lastSyncedAt": "2026-08-18T11:24:11.548Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3336",
+      "title": "Find the Number of Subsequences With Equal GCD",
+      "slug": "find-the-number-of-subsequences-with-equal-gcd",
+      "problemName": "3336-find-the-number-of-subsequences-with-equal-gcd",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/",
+      "folderPath": "3336-find-the-number-of-subsequences-with-equal-gcd/",
+      "readmePath": "3336-find-the-number-of-subsequences-with-equal-gcd/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3336-find-the-number-of-subsequences-with-equal-gcd.cpp",
+          "path": "3336-find-the-number-of-subsequences-with-equal-gcd/3336-find-the-number-of-subsequences-with-equal-gcd.cpp",
+          "sha": "b46e6c1d879e7f1f3ecabb7620d0e63466650d73",
+          "lastSyncedAt": "2026-08-18T11:24:11.560Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3337",
+      "title": "Total Characters in String After Transformations II",
+      "slug": "total-characters-in-string-after-transformations-ii",
+      "problemName": "3337-total-characters-in-string-after-transformations-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/",
+      "folderPath": "3337-total-characters-in-string-after-transformations-ii/",
+      "readmePath": "3337-total-characters-in-string-after-transformations-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3337-total-characters-in-string-after-transformations-ii.cpp",
+          "path": "3337-total-characters-in-string-after-transformations-ii/3337-total-characters-in-string-after-transformations-ii.cpp",
+          "sha": "91ca8dc83eaebf87832ab4d80a4d45e6a3128419",
+          "lastSyncedAt": "2026-08-18T11:24:11.572Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3343",
+      "title": "Count Number of Balanced Permutations",
+      "slug": "count-number-of-balanced-permutations",
+      "problemName": "3343-count-number-of-balanced-permutations",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-balanced-permutations/",
+      "folderPath": "3343-count-number-of-balanced-permutations/",
+      "readmePath": "3343-count-number-of-balanced-permutations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3343-count-number-of-balanced-permutations.cpp",
+          "path": "3343-count-number-of-balanced-permutations/3343-count-number-of-balanced-permutations.cpp",
+          "sha": "002b7121d3989779e1b13228511df7b9886194a0",
+          "lastSyncedAt": "2026-08-18T11:24:11.596Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3345",
+      "title": "Smallest Divisible Digit Product I",
+      "slug": "smallest-divisible-digit-product-i",
+      "problemName": "3345-smallest-divisible-digit-product-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-i/",
+      "folderPath": "3345-smallest-divisible-digit-product-i/",
+      "readmePath": "3345-smallest-divisible-digit-product-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3345-smallest-divisible-digit-product-i.cpp",
+          "path": "3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.cpp",
+          "sha": "094d6e2437dcf8f71421213447cdf61f4602bd1c",
+          "lastSyncedAt": "2026-08-18T11:24:11.608Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3348",
+      "title": "Smallest Divisible Digit Product II",
+      "slug": "smallest-divisible-digit-product-ii",
+      "problemName": "3348-smallest-divisible-digit-product-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
+      "folderPath": "3348-smallest-divisible-digit-product-ii/",
+      "readmePath": "3348-smallest-divisible-digit-product-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3348-smallest-divisible-digit-product-ii.cpp",
+          "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.cpp",
+          "sha": "dab452e2956fea8b2aad72a2ecfedf2dbca2bc89",
+          "lastSyncedAt": "2026-08-18T11:24:11.620Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3405",
+      "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+      "slug": "count-the-number-of-arrays-with-k-matching-adjacent-elements",
+      "problemName": "3405-count-the-number-of-arrays-with-k-matching-adjacent-elements",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/",
+      "folderPath": "3405-count-the-number-of-arrays-with-k-matching-adjacent-elements/",
+      "readmePath": "3405-count-the-number-of-arrays-with-k-matching-adjacent-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3405-count-the-number-of-arrays-with-k-matching-adjacent-elements.cpp",
+          "path": "3405-count-the-number-of-arrays-with-k-matching-adjacent-elements/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements.cpp",
+          "sha": "406803b8123e35467553b084876fd7eb0f139c6a",
+          "lastSyncedAt": "2026-08-18T11:24:11.704Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3443",
+      "title": "Maximum Manhattan Distance After K Changes",
+      "slug": "maximum-manhattan-distance-after-k-changes",
+      "problemName": "3443-maximum-manhattan-distance-after-k-changes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/",
+      "folderPath": "3443-maximum-manhattan-distance-after-k-changes/",
+      "readmePath": "3443-maximum-manhattan-distance-after-k-changes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3443-maximum-manhattan-distance-after-k-changes.cpp",
+          "path": "3443-maximum-manhattan-distance-after-k-changes/3443-maximum-manhattan-distance-after-k-changes.cpp",
+          "sha": "be1a3c44292364d904194616ca74cbdfbbe0d087",
+          "lastSyncedAt": "2026-08-18T11:24:11.740Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3513",
+      "title": "Number of Unique XOR Triplets I",
+      "slug": "number-of-unique-xor-triplets-i",
+      "problemName": "3513-number-of-unique-xor-triplets-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-i/",
+      "folderPath": "3513-number-of-unique-xor-triplets-i/",
+      "readmePath": "3513-number-of-unique-xor-triplets-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3513-number-of-unique-xor-triplets-i.cpp",
+          "path": "3513-number-of-unique-xor-triplets-i/3513-number-of-unique-xor-triplets-i.cpp",
+          "sha": "ff571c7757274b764df9b6a2a8f341309d69515a",
+          "lastSyncedAt": "2026-08-18T11:24:11.799Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3514",
+      "title": "Number of Unique XOR Triplets II",
+      "slug": "number-of-unique-xor-triplets-ii",
+      "problemName": "3514-number-of-unique-xor-triplets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii/",
+      "folderPath": "3514-number-of-unique-xor-triplets-ii/",
+      "readmePath": "3514-number-of-unique-xor-triplets-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3514-number-of-unique-xor-triplets-ii.cpp",
+          "path": "3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.cpp",
+          "sha": "2d8ccf32615551d2805f5627213a108c62b311d4",
+          "lastSyncedAt": "2026-08-18T11:24:11.814Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3518",
+      "title": "Smallest Palindromic Rearrangement II",
+      "slug": "smallest-palindromic-rearrangement-ii",
+      "problemName": "3518-smallest-palindromic-rearrangement-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/",
+      "folderPath": "3518-smallest-palindromic-rearrangement-ii/",
+      "readmePath": "3518-smallest-palindromic-rearrangement-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3518-smallest-palindromic-rearrangement-ii.cpp",
+          "path": "3518-smallest-palindromic-rearrangement-ii/3518-smallest-palindromic-rearrangement-ii.cpp",
+          "sha": "1ce4d3e0b3a1dbc85cf229da7fca5ac532c17d3a",
+          "lastSyncedAt": "2026-08-18T11:24:11.839Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3536",
+      "title": "Maximum Product of Two Digits",
+      "slug": "maximum-product-of-two-digits",
+      "problemName": "3536-maximum-product-of-two-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+      "folderPath": "3536-maximum-product-of-two-digits/",
+      "readmePath": "3536-maximum-product-of-two-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3536-maximum-product-of-two-digits.cpp",
+          "path": "3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.cpp",
+          "sha": "e2a536cc2f309e5f9c41393a817e803742333871",
+          "lastSyncedAt": "2026-08-18T11:24:11.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3658",
+      "title": "GCD of Odd and Even Sums",
+      "slug": "gcd-of-odd-and-even-sums",
+      "problemName": "3658-gcd-of-odd-and-even-sums",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+      "folderPath": "3658-gcd-of-odd-and-even-sums/",
+      "readmePath": "3658-gcd-of-odd-and-even-sums/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3658-gcd-of-odd-and-even-sums.cpp",
+          "path": "3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.cpp",
+          "sha": "cba8c425050011162d2ddce286c825e146116896",
+          "lastSyncedAt": "2026-08-18T11:24:11.899Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3754",
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+      "slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+      "problemName": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/",
+      "folderPath": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i/",
+      "readmePath": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i.cpp",
+          "path": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.cpp",
+          "sha": "234867f76a6d4940858a4fa42cead7e0b2fe896b",
+          "lastSyncedAt": "2026-08-18T11:24:11.936Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3756",
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+      "slug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
+      "problemName": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/",
+      "folderPath": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/",
+      "readmePath": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
+          "path": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
+          "sha": "33208a65bb6a01b91c141c20b9fb6b910888f843",
+          "lastSyncedAt": "2026-08-18T11:24:11.947Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3867",
+      "title": "Sum of GCD of Formed Pairs",
+      "slug": "sum-of-gcd-of-formed-pairs",
+      "problemName": "3867-sum-of-gcd-of-formed-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/",
+      "folderPath": "3867-sum-of-gcd-of-formed-pairs/",
+      "readmePath": "3867-sum-of-gcd-of-formed-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3867-sum-of-gcd-of-formed-pairs.cpp",
+          "path": "3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.cpp",
+          "sha": "708b9de393b63adf74b7c0e5e1e86cce8f43c294",
+          "lastSyncedAt": "2026-08-18T11:24:11.959Z"
         }
       ]
     }

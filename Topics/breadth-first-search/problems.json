@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-08-18T10:36:22.533Z",
+  "updatedAt": "2026-08-18T11:24:11.970Z",
   "problems": [
     {
       "frontendId": "797",
@@ -63,6 +63,1026 @@
           "path": "2101-detonate-the-maximum-bombs/2101-detonate-the-maximum-bombs.cpp",
           "sha": "c714cdaec4a2c030485f368547b61cd7dd592d5f",
           "lastSyncedAt": "2026-08-18T10:36:22.533Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0100-same-tree.cpp",
+          "path": "0100-same-tree/0100-same-tree.cpp",
+          "sha": "de5358af2b3ab0555873774c36413f01e700f425",
+          "lastSyncedAt": "2026-08-18T11:24:07.972Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "problemName": "0101-symmetric-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+      "folderPath": "0101-symmetric-tree/",
+      "readmePath": "0101-symmetric-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0101-symmetric-tree.cpp",
+          "path": "0101-symmetric-tree/0101-symmetric-tree.cpp",
+          "sha": "00cc0dfc47ffe443712ebc4ec71c501b73ff0bc0",
+          "lastSyncedAt": "2026-08-18T11:24:07.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "problemName": "0102-binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "folderPath": "0102-binary-tree-level-order-traversal/",
+      "readmePath": "0102-binary-tree-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0102-binary-tree-level-order-traversal.cpp",
+          "path": "0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.cpp",
+          "sha": "9acf321db0d777ae796d43f1de18bf9c0ad8f1cb",
+          "lastSyncedAt": "2026-08-18T11:24:07.995Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "103",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "slug": "binary-tree-zigzag-level-order-traversal",
+      "problemName": "0103-binary-tree-zigzag-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+      "folderPath": "0103-binary-tree-zigzag-level-order-traversal/",
+      "readmePath": "0103-binary-tree-zigzag-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0103-binary-tree-zigzag-level-order-traversal.cpp",
+          "path": "0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.cpp",
+          "sha": "945e19b294ffee93ff883b1c50a9a09e38c0a151",
+          "lastSyncedAt": "2026-08-18T11:24:08.006Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "problemName": "0104-maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "folderPath": "0104-maximum-depth-of-binary-tree/",
+      "readmePath": "0104-maximum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0104-maximum-depth-of-binary-tree.cpp",
+          "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.cpp",
+          "sha": "a9e17c99b785773aa6333002d9809aed27af8a8f",
+          "lastSyncedAt": "2026-08-18T11:24:08.018Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "111",
+      "title": "Minimum Depth of Binary Tree",
+      "slug": "minimum-depth-of-binary-tree",
+      "problemName": "0111-minimum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+      "folderPath": "0111-minimum-depth-of-binary-tree/",
+      "readmePath": "0111-minimum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0111-minimum-depth-of-binary-tree.cpp",
+          "path": "0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.cpp",
+          "sha": "3f392a22dd840ffc72333a9a145496d12136d37f",
+          "lastSyncedAt": "2026-08-18T11:24:08.066Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "112",
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "problemName": "0112-path-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
+      "folderPath": "0112-path-sum/",
+      "readmePath": "0112-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0112-path-sum.cpp",
+          "path": "0112-path-sum/0112-path-sum.cpp",
+          "sha": "9d44c8df5997fa63a29dd5a3f1ff1b6939d41288",
+          "lastSyncedAt": "2026-08-18T11:24:08.077Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "117",
+      "title": "Populating Next Right Pointers in Each Node II",
+      "slug": "populating-next-right-pointers-in-each-node-ii",
+      "problemName": "0117-populating-next-right-pointers-in-each-node-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/",
+      "folderPath": "0117-populating-next-right-pointers-in-each-node-ii/",
+      "readmePath": "0117-populating-next-right-pointers-in-each-node-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0117-populating-next-right-pointers-in-each-node-ii.cpp",
+          "path": "0117-populating-next-right-pointers-in-each-node-ii/0117-populating-next-right-pointers-in-each-node-ii.cpp",
+          "sha": "61ed06208cdceb05c4c509c73d8a720c077b2207",
+          "lastSyncedAt": "2026-08-18T11:24:08.101Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "130",
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "problemName": "0130-surrounded-regions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+      "folderPath": "0130-surrounded-regions/",
+      "readmePath": "0130-surrounded-regions/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0130-surrounded-regions.cpp",
+          "path": "0130-surrounded-regions/0130-surrounded-regions.cpp",
+          "sha": "5afce3e43fe51b47931cdf64c1b8279e34f3c3c8",
+          "lastSyncedAt": "2026-08-18T11:24:08.192Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "199",
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "problemName": "0199-binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "folderPath": "0199-binary-tree-right-side-view/",
+      "readmePath": "0199-binary-tree-right-side-view/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0199-binary-tree-right-side-view.cpp",
+          "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.cpp",
+          "sha": "df19644c0c525a1681c3d74d5647eb570336cc32",
+          "lastSyncedAt": "2026-08-18T11:24:08.494Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "0200-number-of-islands/",
+      "readmePath": "0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0200-number-of-islands.cpp",
+          "path": "0200-number-of-islands/0200-number-of-islands.cpp",
+          "sha": "296eeae50ffe1d2cd9f6859473110200b82d47ef",
+          "lastSyncedAt": "2026-08-18T11:24:08.505Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "207",
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "problemName": "0207-course-schedule",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
+      "folderPath": "0207-course-schedule/",
+      "readmePath": "0207-course-schedule/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0207-course-schedule.cpp",
+          "path": "0207-course-schedule/0207-course-schedule.cpp",
+          "sha": "cec89f130d58eda9e862592ba63dd6f849565153",
+          "lastSyncedAt": "2026-08-18T11:24:08.584Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "problemName": "0210-course-schedule-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+      "folderPath": "0210-course-schedule-ii/",
+      "readmePath": "0210-course-schedule-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0210-course-schedule-ii.cpp",
+          "path": "0210-course-schedule-ii/0210-course-schedule-ii.cpp",
+          "sha": "84de63bd74f914ebafba1de8df57081ac05276c2",
+          "lastSyncedAt": "2026-08-18T11:24:08.607Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "226",
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "problemName": "0226-invert-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+      "folderPath": "0226-invert-binary-tree/",
+      "readmePath": "0226-invert-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0226-invert-binary-tree.cpp",
+          "path": "0226-invert-binary-tree/0226-invert-binary-tree.cpp",
+          "sha": "2ade06706161ffd72a3479b24d60e65fe7dd97cc",
+          "lastSyncedAt": "2026-08-18T11:24:08.698Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "399",
+      "title": "Evaluate Division",
+      "slug": "evaluate-division",
+      "problemName": "0399-evaluate-division",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-division/",
+      "folderPath": "0399-evaluate-division/",
+      "readmePath": "0399-evaluate-division/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0399-evaluate-division.cpp",
+          "path": "0399-evaluate-division/0399-evaluate-division.cpp",
+          "sha": "ed5929f7f76fc9e2c0a81ab4bf9baa8a58fc030d",
+          "lastSyncedAt": "2026-08-18T11:24:09.070Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "404",
+      "title": "Sum of Left Leaves",
+      "slug": "sum-of-left-leaves",
+      "problemName": "0404-sum-of-left-leaves",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-left-leaves/",
+      "folderPath": "0404-sum-of-left-leaves/",
+      "readmePath": "0404-sum-of-left-leaves/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0404-sum-of-left-leaves.cpp",
+          "path": "0404-sum-of-left-leaves/0404-sum-of-left-leaves.cpp",
+          "sha": "d54eddb01ca4621ca1637ef34a1e6bcc1d5e0b28",
+          "lastSyncedAt": "2026-08-18T11:24:09.093Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "530",
+      "title": "Minimum Absolute Difference in BST",
+      "slug": "minimum-absolute-difference-in-bst",
+      "problemName": "0530-minimum-absolute-difference-in-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
+      "folderPath": "0530-minimum-absolute-difference-in-bst/",
+      "readmePath": "0530-minimum-absolute-difference-in-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0530-minimum-absolute-difference-in-bst.cpp",
+          "path": "0530-minimum-absolute-difference-in-bst/0530-minimum-absolute-difference-in-bst.cpp",
+          "sha": "a9de63a1ef52e2e0e308b98ea1294c659e2b0c13",
+          "lastSyncedAt": "2026-08-18T11:24:09.323Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "542",
+      "title": "01 Matrix",
+      "slug": "01-matrix",
+      "problemName": "0542-01-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+      "folderPath": "0542-01-matrix/",
+      "readmePath": "0542-01-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0542-01-matrix.cpp",
+          "path": "0542-01-matrix/0542-01-matrix.cpp",
+          "sha": "8f560a9da5a58861b890b27114419e0d218a161a",
+          "lastSyncedAt": "2026-08-18T11:24:09.347Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "547",
+      "title": "Number of Provinces",
+      "slug": "number-of-provinces",
+      "problemName": "0547-number-of-provinces",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+      "folderPath": "0547-number-of-provinces/",
+      "readmePath": "0547-number-of-provinces/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0547-number-of-provinces.cpp",
+          "path": "0547-number-of-provinces/0547-number-of-provinces.cpp",
+          "sha": "8b2f263ad21e01c7b3f90c0a4a82fa1be76b9306",
+          "lastSyncedAt": "2026-08-18T11:24:09.369Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "617",
+      "title": "Merge Two Binary Trees",
+      "slug": "merge-two-binary-trees",
+      "problemName": "0617-merge-two-binary-trees",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-binary-trees/",
+      "folderPath": "0617-merge-two-binary-trees/",
+      "readmePath": "0617-merge-two-binary-trees/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0617-merge-two-binary-trees.cpp",
+          "path": "0617-merge-two-binary-trees/0617-merge-two-binary-trees.cpp",
+          "sha": "567a97b8a1c2f4acb3fafb8c3d6cf6c8046f12a0",
+          "lastSyncedAt": "2026-08-18T11:24:09.439Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "637",
+      "title": "Average of Levels in Binary Tree",
+      "slug": "average-of-levels-in-binary-tree",
+      "problemName": "0637-average-of-levels-in-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/average-of-levels-in-binary-tree/",
+      "folderPath": "0637-average-of-levels-in-binary-tree/",
+      "readmePath": "0637-average-of-levels-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0637-average-of-levels-in-binary-tree.cpp",
+          "path": "0637-average-of-levels-in-binary-tree/0637-average-of-levels-in-binary-tree.cpp",
+          "sha": "95af86120508d3f02e5400ff12a52b977bb7ac05",
+          "lastSyncedAt": "2026-08-18T11:24:09.474Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "653",
+      "title": "Two Sum IV - Input is a BST",
+      "slug": "two-sum-iv-input-is-a-bst",
+      "problemName": "0653-two-sum-iv-input-is-a-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+      "folderPath": "0653-two-sum-iv-input-is-a-bst/",
+      "readmePath": "0653-two-sum-iv-input-is-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0653-two-sum-iv-input-is-a-bst.cpp",
+          "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.cpp",
+          "sha": "c910157efd796d82426e353529c7d648220ab0cb",
+          "lastSyncedAt": "2026-08-18T11:24:09.486Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "662",
+      "title": "Maximum Width of Binary Tree",
+      "slug": "maximum-width-of-binary-tree",
+      "problemName": "0662-maximum-width-of-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+      "folderPath": "0662-maximum-width-of-binary-tree/",
+      "readmePath": "0662-maximum-width-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0662-maximum-width-of-binary-tree.cpp",
+          "path": "0662-maximum-width-of-binary-tree/0662-maximum-width-of-binary-tree.cpp",
+          "sha": "b74f8d3d57816fe5a057ae12b2c82967213b9df7",
+          "lastSyncedAt": "2026-08-18T11:24:09.499Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "721",
+      "title": "Accounts Merge",
+      "slug": "accounts-merge",
+      "problemName": "0721-accounts-merge",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/accounts-merge/",
+      "folderPath": "0721-accounts-merge/",
+      "readmePath": "0721-accounts-merge/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0721-accounts-merge.cpp",
+          "path": "0721-accounts-merge/0721-accounts-merge.cpp",
+          "sha": "94faded838bafdecc590bf6a71796c8e8e429cec",
+          "lastSyncedAt": "2026-08-18T11:24:09.591Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "733",
+      "title": "Flood Fill",
+      "slug": "flood-fill",
+      "problemName": "0733-flood-fill",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/flood-fill/",
+      "folderPath": "0733-flood-fill/",
+      "readmePath": "0733-flood-fill/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0733-flood-fill.cpp",
+          "path": "0733-flood-fill/0733-flood-fill.cpp",
+          "sha": "8eaa1ac68285d69df01a1d24fbf791edb8161c81",
+          "lastSyncedAt": "2026-08-18T11:24:09.602Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "problemName": "0743-network-delay-time",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+      "folderPath": "0743-network-delay-time/",
+      "readmePath": "0743-network-delay-time/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0743-network-delay-time.cpp",
+          "path": "0743-network-delay-time/0743-network-delay-time.cpp",
+          "sha": "9dd203d37e744fdc89c8ad539cb50683e08a3c30",
+          "lastSyncedAt": "2026-08-18T11:24:09.626Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "783",
+      "title": "Minimum Distance Between BST Nodes",
+      "slug": "minimum-distance-between-bst-nodes",
+      "problemName": "0783-minimum-distance-between-bst-nodes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/",
+      "folderPath": "0783-minimum-distance-between-bst-nodes/",
+      "readmePath": "0783-minimum-distance-between-bst-nodes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0783-minimum-distance-between-bst-nodes.cpp",
+          "path": "0783-minimum-distance-between-bst-nodes/0783-minimum-distance-between-bst-nodes.cpp",
+          "sha": "f2765995fe7828c8fc4af07e07aa01a070d06229",
+          "lastSyncedAt": "2026-08-18T11:24:09.650Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "785",
+      "title": "Is Graph Bipartite?",
+      "slug": "is-graph-bipartite",
+      "problemName": "0785-is-graph-bipartite",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/is-graph-bipartite/",
+      "folderPath": "0785-is-graph-bipartite/",
+      "readmePath": "0785-is-graph-bipartite/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0785-is-graph-bipartite.cpp",
+          "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.cpp",
+          "sha": "0962903a5a091ff58ae34cd352b175cc13e1bbc5",
+          "lastSyncedAt": "2026-08-18T11:24:09.661Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "787",
+      "title": "Cheapest Flights Within K Stops",
+      "slug": "cheapest-flights-within-k-stops",
+      "problemName": "0787-cheapest-flights-within-k-stops",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+      "folderPath": "0787-cheapest-flights-within-k-stops/",
+      "readmePath": "0787-cheapest-flights-within-k-stops/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0787-cheapest-flights-within-k-stops.cpp",
+          "path": "0787-cheapest-flights-within-k-stops/0787-cheapest-flights-within-k-stops.cpp",
+          "sha": "73f46633b6f1a216edae74b607e47742eacdde3c",
+          "lastSyncedAt": "2026-08-18T11:24:09.673Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "802",
+      "title": "Find Eventual Safe States",
+      "slug": "find-eventual-safe-states",
+      "problemName": "0802-find-eventual-safe-states",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-eventual-safe-states/",
+      "folderPath": "0802-find-eventual-safe-states/",
+      "readmePath": "0802-find-eventual-safe-states/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0802-find-eventual-safe-states.cpp",
+          "path": "0802-find-eventual-safe-states/0802-find-eventual-safe-states.cpp",
+          "sha": "841712a12ff5750e70f7eef0808a38f7a6c7bde0",
+          "lastSyncedAt": "2026-08-18T11:24:09.720Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "841",
+      "title": "Keys and Rooms",
+      "slug": "keys-and-rooms",
+      "problemName": "0841-keys-and-rooms",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/keys-and-rooms/",
+      "folderPath": "0841-keys-and-rooms/",
+      "readmePath": "0841-keys-and-rooms/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0841-keys-and-rooms.cpp",
+          "path": "0841-keys-and-rooms/0841-keys-and-rooms.cpp",
+          "sha": "f3944ceffdc6780040ca3211201f85bb735d4122",
+          "lastSyncedAt": "2026-08-18T11:24:09.743Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "863",
+      "title": "All Nodes Distance K in Binary Tree",
+      "slug": "all-nodes-distance-k-in-binary-tree",
+      "problemName": "0863-all-nodes-distance-k-in-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+      "folderPath": "0863-all-nodes-distance-k-in-binary-tree/",
+      "readmePath": "0863-all-nodes-distance-k-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0863-all-nodes-distance-k-in-binary-tree.cpp",
+          "path": "0863-all-nodes-distance-k-in-binary-tree/0863-all-nodes-distance-k-in-binary-tree.cpp",
+          "sha": "daef271bb4a81cc65fb2d4d36bcded00b42365c8",
+          "lastSyncedAt": "2026-08-18T11:24:09.789Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "965",
+      "title": "Univalued Binary Tree",
+      "slug": "univalued-binary-tree",
+      "problemName": "0965-univalued-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/univalued-binary-tree/",
+      "folderPath": "0965-univalued-binary-tree/",
+      "readmePath": "0965-univalued-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0965-univalued-binary-tree.cpp",
+          "path": "0965-univalued-binary-tree/0965-univalued-binary-tree.cpp",
+          "sha": "346a40f23b1f62ab7507c2d806158f91dc2ef35e",
+          "lastSyncedAt": "2026-08-18T11:24:09.985Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "987",
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "slug": "vertical-order-traversal-of-a-binary-tree",
+      "problemName": "0987-vertical-order-traversal-of-a-binary-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+      "folderPath": "0987-vertical-order-traversal-of-a-binary-tree/",
+      "readmePath": "0987-vertical-order-traversal-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0987-vertical-order-traversal-of-a-binary-tree.cpp",
+          "path": "0987-vertical-order-traversal-of-a-binary-tree/0987-vertical-order-traversal-of-a-binary-tree.cpp",
+          "sha": "39b7e089031fdcac18982e706e9bdac8af8f8d98",
+          "lastSyncedAt": "2026-08-18T11:24:09.998Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "993",
+      "title": "Cousins in Binary Tree",
+      "slug": "cousins-in-binary-tree",
+      "problemName": "0993-cousins-in-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/cousins-in-binary-tree/",
+      "folderPath": "0993-cousins-in-binary-tree/",
+      "readmePath": "0993-cousins-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0993-cousins-in-binary-tree.cpp",
+          "path": "0993-cousins-in-binary-tree/0993-cousins-in-binary-tree.cpp",
+          "sha": "0251816616ca8d603cf186d26ef0ecf5bd2377e2",
+          "lastSyncedAt": "2026-08-18T11:24:10.021Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "0994-rotting-oranges/",
+      "readmePath": "0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0994-rotting-oranges.cpp",
+          "path": "0994-rotting-oranges/0994-rotting-oranges.cpp",
+          "sha": "a7a147948d59555355af51e51616f93e3cc8867d",
+          "lastSyncedAt": "2026-08-18T11:24:10.032Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1020",
+      "title": "Number of Enclaves",
+      "slug": "number-of-enclaves",
+      "problemName": "1020-number-of-enclaves",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-enclaves/",
+      "folderPath": "1020-number-of-enclaves/",
+      "readmePath": "1020-number-of-enclaves/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1020-number-of-enclaves.cpp",
+          "path": "1020-number-of-enclaves/1020-number-of-enclaves.cpp",
+          "sha": "61838bd5b15fa29fc580cce569efa2e1b988252a",
+          "lastSyncedAt": "2026-08-18T11:24:10.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1091",
+      "title": "Shortest Path in Binary Matrix",
+      "slug": "shortest-path-in-binary-matrix",
+      "problemName": "1091-shortest-path-in-binary-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+      "folderPath": "1091-shortest-path-in-binary-matrix/",
+      "readmePath": "1091-shortest-path-in-binary-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1091-shortest-path-in-binary-matrix.cpp",
+          "path": "1091-shortest-path-in-binary-matrix/1091-shortest-path-in-binary-matrix.cpp",
+          "sha": "4ab081b16c6f7beaf87f4f78f2c685a14aaca06a",
+          "lastSyncedAt": "2026-08-18T11:24:10.183Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1298",
+      "title": "Maximum Candies You Can Get from Boxes",
+      "slug": "maximum-candies-you-can-get-from-boxes",
+      "problemName": "1298-maximum-candies-you-can-get-from-boxes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/",
+      "folderPath": "1298-maximum-candies-you-can-get-from-boxes/",
+      "readmePath": "1298-maximum-candies-you-can-get-from-boxes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1298-maximum-candies-you-can-get-from-boxes.cpp",
+          "path": "1298-maximum-candies-you-can-get-from-boxes/1298-maximum-candies-you-can-get-from-boxes.cpp",
+          "sha": "3b3a6f44de16ae0071e1fee7f2bdcfd781caf432",
+          "lastSyncedAt": "2026-08-18T11:24:10.315Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1311",
+      "title": "Get Watched Videos by Your Friends",
+      "slug": "get-watched-videos-by-your-friends",
+      "problemName": "1311-get-watched-videos-by-your-friends",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/get-watched-videos-by-your-friends/",
+      "folderPath": "1311-get-watched-videos-by-your-friends/",
+      "readmePath": "1311-get-watched-videos-by-your-friends/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1311-get-watched-videos-by-your-friends.cpp",
+          "path": "1311-get-watched-videos-by-your-friends/1311-get-watched-videos-by-your-friends.cpp",
+          "sha": "e7f253cd4ec3a3a902c101b71eb1f3fadacd8df7",
+          "lastSyncedAt": "2026-08-18T11:24:10.339Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1319",
+      "title": "Number of Operations to Make Network Connected",
+      "slug": "number-of-operations-to-make-network-connected",
+      "problemName": "1319-number-of-operations-to-make-network-connected",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+      "folderPath": "1319-number-of-operations-to-make-network-connected/",
+      "readmePath": "1319-number-of-operations-to-make-network-connected/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1319-number-of-operations-to-make-network-connected.cpp",
+          "path": "1319-number-of-operations-to-make-network-connected/1319-number-of-operations-to-make-network-connected.cpp",
+          "sha": "e5a7b551e7ed3c41e321140b39c4d094f16a8b2e",
+          "lastSyncedAt": "2026-08-18T11:24:10.351Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1379",
+      "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+      "slug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+      "problemName": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/",
+      "folderPath": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/",
+      "readmePath": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.cpp",
+          "path": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.cpp",
+          "sha": "ba18849d7a752ee3a155469aca3f789421c715c5",
+          "lastSyncedAt": "2026-08-18T11:24:10.425Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "problemName": "1631-path-with-minimum-effort",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "folderPath": "1631-path-with-minimum-effort/",
+      "readmePath": "1631-path-with-minimum-effort/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1631-path-with-minimum-effort.cpp",
+          "path": "1631-path-with-minimum-effort/1631-path-with-minimum-effort.cpp",
+          "sha": "8464a5928b38435e486e40a509a049ff9d48e025",
+          "lastSyncedAt": "2026-08-18T11:24:10.611Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1971",
+      "title": "Find if Path Exists in Graph",
+      "slug": "find-if-path-exists-in-graph",
+      "problemName": "1971-find-if-path-exists-in-graph",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+      "folderPath": "1971-find-if-path-exists-in-graph/",
+      "readmePath": "1971-find-if-path-exists-in-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1971-find-if-path-exists-in-graph.cpp",
+          "path": "1971-find-if-path-exists-in-graph/1971-find-if-path-exists-in-graph.cpp",
+          "sha": "758c8fa6c548877af345014d8f27e876955e5e3c",
+          "lastSyncedAt": "2026-08-18T11:24:10.781Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2492",
+      "title": "Minimum Score of a Path Between Two Cities",
+      "slug": "minimum-score-of-a-path-between-two-cities",
+      "problemName": "2492-minimum-score-of-a-path-between-two-cities",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/",
+      "folderPath": "2492-minimum-score-of-a-path-between-two-cities/",
+      "readmePath": "2492-minimum-score-of-a-path-between-two-cities/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2492-minimum-score-of-a-path-between-two-cities.cpp",
+          "path": "2492-minimum-score-of-a-path-between-two-cities/2492-minimum-score-of-a-path-between-two-cities.cpp",
+          "sha": "57b3a526f29563712b780020c9e244f749d911ed",
+          "lastSyncedAt": "2026-08-18T11:24:11.156Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2685",
+      "title": "Count the Number of Complete Components",
+      "slug": "count-the-number-of-complete-components",
+      "problemName": "2685-count-the-number-of-complete-components",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-complete-components/",
+      "folderPath": "2685-count-the-number-of-complete-components/",
+      "readmePath": "2685-count-the-number-of-complete-components/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2685-count-the-number-of-complete-components.cpp",
+          "path": "2685-count-the-number-of-complete-components/2685-count-the-number-of-complete-components.cpp",
+          "sha": "2d3bef8e7400f67a5d800be057918f4fc84a528d",
+          "lastSyncedAt": "2026-08-18T11:24:11.229Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2812",
+      "title": "Find the Safest Path in a Grid",
+      "slug": "find-the-safest-path-in-a-grid",
+      "problemName": "2812-find-the-safest-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-safest-path-in-a-grid/",
+      "folderPath": "2812-find-the-safest-path-in-a-grid/",
+      "readmePath": "2812-find-the-safest-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2812-find-the-safest-path-in-a-grid.cpp",
+          "path": "2812-find-the-safest-path-in-a-grid/2812-find-the-safest-path-in-a-grid.cpp",
+          "sha": "7e39d713ea8c97cd196fcf18a6bc1a0a1ad636ad",
+          "lastSyncedAt": "2026-08-18T11:24:11.267Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3286",
+      "title": "Find a Safe Walk Through a Grid",
+      "slug": "find-a-safe-walk-through-a-grid",
+      "problemName": "3286-find-a-safe-walk-through-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/",
+      "folderPath": "3286-find-a-safe-walk-through-a-grid/",
+      "readmePath": "3286-find-a-safe-walk-through-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3286-find-a-safe-walk-through-a-grid.cpp",
+          "path": "3286-find-a-safe-walk-through-a-grid/3286-find-a-safe-walk-through-a-grid.cpp",
+          "sha": "34b73c37711ba5e3cbb9f68e8a45cddebb39125d",
+          "lastSyncedAt": "2026-08-18T11:24:11.501Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3310",
+      "title": "Remove Methods From Project",
+      "slug": "remove-methods-from-project",
+      "problemName": "3310-remove-methods-from-project",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-methods-from-project/",
+      "folderPath": "3310-remove-methods-from-project/",
+      "readmePath": "3310-remove-methods-from-project/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3310-remove-methods-from-project.cpp",
+          "path": "3310-remove-methods-from-project/3310-remove-methods-from-project.cpp",
+          "sha": "bd6ea0c7666281a35d2e03d19ec230d6f670b231",
+          "lastSyncedAt": "2026-08-18T11:24:11.525Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3372",
+      "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+      "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+      "problemName": "3372-maximize-the-number-of-target-nodes-after-connecting-trees-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/",
+      "folderPath": "3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/",
+      "readmePath": "3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3372-maximize-the-number-of-target-nodes-after-connecting-trees-i.cpp",
+          "path": "3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i.cpp",
+          "sha": "997a6d988e3340440d9e76e30326fa4664393983",
+          "lastSyncedAt": "2026-08-18T11:24:11.655Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3373",
+      "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+      "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+      "problemName": "3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/",
+      "folderPath": "3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/",
+      "readmePath": "3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii.cpp",
+          "path": "3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii.cpp",
+          "sha": "0a95a922b41dc4501e2c1ac336142e8bb965f187",
+          "lastSyncedAt": "2026-08-18T11:24:11.668Z"
         }
       ]
     }

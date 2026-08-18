@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-08-18T10:35:12.844Z",
+  "updatedAt": "2026-08-18T11:24:11.972Z",
   "problems": [
     {
       "frontendId": "797",
@@ -23,6 +23,386 @@
           "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
           "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
           "lastSyncedAt": "2026-08-18T10:35:12.844Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "17",
+      "title": "Letter Combinations of a Phone Number",
+      "slug": "letter-combinations-of-a-phone-number",
+      "problemName": "0017-letter-combinations-of-a-phone-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "folderPath": "0017-letter-combinations-of-a-phone-number/",
+      "readmePath": "0017-letter-combinations-of-a-phone-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0017-letter-combinations-of-a-phone-number.cpp",
+          "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.cpp",
+          "sha": "fb567efb2b5b0535b2a4b67fb3d42b22f0a4af6e",
+          "lastSyncedAt": "2026-08-18T11:24:07.262Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "0022-generate-parentheses/",
+      "readmePath": "0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0022-generate-parentheses.cpp",
+          "path": "0022-generate-parentheses/0022-generate-parentheses.cpp",
+          "sha": "0c9d422490c58032742492f23f1bc3e6062362b9",
+          "lastSyncedAt": "2026-08-18T11:24:07.321Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "37",
+      "title": "Sudoku Solver",
+      "slug": "sudoku-solver",
+      "problemName": "0037-sudoku-solver",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+      "folderPath": "0037-sudoku-solver/",
+      "readmePath": "0037-sudoku-solver/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0037-sudoku-solver.cpp",
+          "path": "0037-sudoku-solver/0037-sudoku-solver.cpp",
+          "sha": "1ca8d2dfe37ab9e8ace528dd2cf4d5da8ec1d7a2",
+          "lastSyncedAt": "2026-08-18T11:24:07.485Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "problemName": "0039-combination-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+      "folderPath": "0039-combination-sum/",
+      "readmePath": "0039-combination-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0039-combination-sum.cpp",
+          "path": "0039-combination-sum/0039-combination-sum.cpp",
+          "sha": "164dadaec148838de30836a191c31ef030fbef83",
+          "lastSyncedAt": "2026-08-18T11:24:07.507Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "40",
+      "title": "Combination Sum II",
+      "slug": "combination-sum-ii",
+      "problemName": "0040-combination-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-ii/",
+      "folderPath": "0040-combination-sum-ii/",
+      "readmePath": "0040-combination-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0040-combination-sum-ii.cpp",
+          "path": "0040-combination-sum-ii/0040-combination-sum-ii.cpp",
+          "sha": "8e4f8ecbced66fb5345f1fd618837faeaf1bc27f",
+          "lastSyncedAt": "2026-08-18T11:24:07.520Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "46",
+      "title": "Permutations",
+      "slug": "permutations",
+      "problemName": "0046-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+      "folderPath": "0046-permutations/",
+      "readmePath": "0046-permutations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0046-permutations.cpp",
+          "path": "0046-permutations/0046-permutations.cpp",
+          "sha": "7010779210c58c7ebe1439f44baf06cbe4c31b5a",
+          "lastSyncedAt": "2026-08-18T11:24:07.565Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "51",
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "problemName": "0051-n-queens",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+      "folderPath": "0051-n-queens/",
+      "readmePath": "0051-n-queens/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0051-n-queens.cpp",
+          "path": "0051-n-queens/0051-n-queens.cpp",
+          "sha": "661d3c071cda5a2da7aa2bb5678eb3ac552c4f55",
+          "lastSyncedAt": "2026-08-18T11:24:07.610Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "52",
+      "title": "N-Queens II",
+      "slug": "n-queens-ii",
+      "problemName": "0052-n-queens-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens-ii/",
+      "folderPath": "0052-n-queens-ii/",
+      "readmePath": "0052-n-queens-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0052-n-queens-ii.cpp",
+          "path": "0052-n-queens-ii/0052-n-queens-ii.cpp",
+          "sha": "207d9c1043064506ee573ef099cfd63d9456f729",
+          "lastSyncedAt": "2026-08-18T11:24:07.622Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "77",
+      "title": "Combinations",
+      "slug": "combinations",
+      "problemName": "0077-combinations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combinations/",
+      "folderPath": "0077-combinations/",
+      "readmePath": "0077-combinations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0077-combinations.cpp",
+          "path": "0077-combinations/0077-combinations.cpp",
+          "sha": "6d7e0964af773fc7c2eecfcaf7517a33aa86b83f",
+          "lastSyncedAt": "2026-08-18T11:24:07.822Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "0078-subsets/",
+      "readmePath": "0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0078-subsets.cpp",
+          "path": "0078-subsets/0078-subsets.cpp",
+          "sha": "3228c82fc3333e5204e43047683e94b4dfd2a599",
+          "lastSyncedAt": "2026-08-18T11:24:07.833Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "problemName": "0079-word-search",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+      "folderPath": "0079-word-search/",
+      "readmePath": "0079-word-search/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0079-word-search.cpp",
+          "path": "0079-word-search/0079-word-search.cpp",
+          "sha": "accbb396ba666a93a446288d98095fa6126dc147",
+          "lastSyncedAt": "2026-08-18T11:24:07.845Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "90",
+      "title": "Subsets II",
+      "slug": "subsets-ii",
+      "problemName": "0090-subsets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets-ii/",
+      "folderPath": "0090-subsets-ii/",
+      "readmePath": "0090-subsets-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0090-subsets-ii.cpp",
+          "path": "0090-subsets-ii/0090-subsets-ii.cpp",
+          "sha": "8eb054c6cd052b74e698c45c3f595daebab17307",
+          "lastSyncedAt": "2026-08-18T11:24:07.927Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "131",
+      "title": "Palindrome Partitioning",
+      "slug": "palindrome-partitioning",
+      "problemName": "0131-palindrome-partitioning",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning/",
+      "folderPath": "0131-palindrome-partitioning/",
+      "readmePath": "0131-palindrome-partitioning/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0131-palindrome-partitioning.cpp",
+          "path": "0131-palindrome-partitioning/0131-palindrome-partitioning.cpp",
+          "sha": "cb995ceceb0d23ea086ce5324a6c8f32d4f03532",
+          "lastSyncedAt": "2026-08-18T11:24:08.204Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "216",
+      "title": "Combination Sum III",
+      "slug": "combination-sum-iii",
+      "problemName": "0216-combination-sum-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iii/",
+      "folderPath": "0216-combination-sum-iii/",
+      "readmePath": "0216-combination-sum-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0216-combination-sum-iii.cpp",
+          "path": "0216-combination-sum-iii/0216-combination-sum-iii.cpp",
+          "sha": "78904f8737786ec6a1bc5682a8cceced4b74cb88",
+          "lastSyncedAt": "2026-08-18T11:24:08.629Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "257",
+      "title": "Binary Tree Paths",
+      "slug": "binary-tree-paths",
+      "problemName": "0257-binary-tree-paths",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+      "folderPath": "0257-binary-tree-paths/",
+      "readmePath": "0257-binary-tree-paths/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0257-binary-tree-paths.cpp",
+          "path": "0257-binary-tree-paths/0257-binary-tree-paths.cpp",
+          "sha": "b7aef520bebfa3cd19f4ac44aec3088885107bc4",
+          "lastSyncedAt": "2026-08-18T11:24:08.863Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "282",
+      "title": "Expression Add Operators",
+      "slug": "expression-add-operators",
+      "problemName": "0282-expression-add-operators",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/expression-add-operators/",
+      "folderPath": "0282-expression-add-operators/",
+      "readmePath": "0282-expression-add-operators/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0282-expression-add-operators.cpp",
+          "path": "0282-expression-add-operators/0282-expression-add-operators.cpp",
+          "sha": "37eec3c1d7e42f8f1d01d4e4bfa2ba7f7c27d7ec",
+          "lastSyncedAt": "2026-08-18T11:24:08.919Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "996",
+      "title": "Number of Squareful Arrays",
+      "slug": "number-of-squareful-arrays",
+      "problemName": "0996-number-of-squareful-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-squareful-arrays/",
+      "folderPath": "0996-number-of-squareful-arrays/",
+      "readmePath": "0996-number-of-squareful-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0996-number-of-squareful-arrays.cpp",
+          "path": "0996-number-of-squareful-arrays/0996-number-of-squareful-arrays.cpp",
+          "sha": "584898e28e8f32077ddff38ece724b6044a9d2e0",
+          "lastSyncedAt": "2026-08-18T11:24:10.042Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2048",
+      "title": "Next Greater Numerically Balanced Number",
+      "slug": "next-greater-numerically-balanced-number",
+      "problemName": "2048-next-greater-numerically-balanced-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-numerically-balanced-number/",
+      "folderPath": "2048-next-greater-numerically-balanced-number/",
+      "readmePath": "2048-next-greater-numerically-balanced-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2048-next-greater-numerically-balanced-number.cpp",
+          "path": "2048-next-greater-numerically-balanced-number/2048-next-greater-numerically-balanced-number.cpp",
+          "sha": "5936891cb36ab75f66ffb2ea67f6deec664d0bfb",
+          "lastSyncedAt": "2026-08-18T11:24:10.867Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3348",
+      "title": "Smallest Divisible Digit Product II",
+      "slug": "smallest-divisible-digit-product-ii",
+      "problemName": "3348-smallest-divisible-digit-product-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
+      "folderPath": "3348-smallest-divisible-digit-product-ii/",
+      "readmePath": "3348-smallest-divisible-digit-product-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3348-smallest-divisible-digit-product-ii.cpp",
+          "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.cpp",
+          "sha": "dab452e2956fea8b2aad72a2ecfedf2dbca2bc89",
+          "lastSyncedAt": "2026-08-18T11:24:11.620Z"
         }
       ]
     }

@@ -4,7 +4,7 @@
     "slug": "minimax-algorithm",
     "name": "Minimax"
   },
-  "updatedAt": "2026-08-18T10:34:47.662Z",
+  "updatedAt": "2026-08-18T11:24:11.969Z",
   "problems": [
     {
       "frontendId": "1510",
@@ -43,6 +43,86 @@
           "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
           "sha": "a33250fe100c48c604387d910c1e1c1ab028cac0",
           "lastSyncedAt": "2026-08-18T10:34:47.662Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "486",
+      "title": "Predict the Winner",
+      "slug": "predict-the-winner",
+      "problemName": "0486-predict-the-winner",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/predict-the-winner/",
+      "folderPath": "0486-predict-the-winner/",
+      "readmePath": "0486-predict-the-winner/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0486-predict-the-winner.cpp",
+          "path": "0486-predict-the-winner/0486-predict-the-winner.cpp",
+          "sha": "c3cbabd9b8f48deaa2d1e097933c7122a06fe529",
+          "lastSyncedAt": "2026-08-18T11:24:09.231Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "0877-stone-game/",
+      "readmePath": "0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0877-stone-game.cpp",
+          "path": "0877-stone-game/0877-stone-game.cpp",
+          "sha": "55ffc67c34b53720449799d9bdf5aa35b63d8285",
+          "lastSyncedAt": "2026-08-18T11:24:09.846Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1140",
+      "title": "Stone Game II",
+      "slug": "stone-game-ii",
+      "problemName": "1140-stone-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ii/",
+      "folderPath": "1140-stone-game-ii/",
+      "readmePath": "1140-stone-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1140-stone-game-ii.cpp",
+          "path": "1140-stone-game-ii/1140-stone-game-ii.cpp",
+          "sha": "14854260098744ff4abcd8959a416900b0da702d",
+          "lastSyncedAt": "2026-08-18T11:24:10.207Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1406",
+      "title": "Stone Game III",
+      "slug": "stone-game-iii",
+      "problemName": "1406-stone-game-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iii/",
+      "folderPath": "1406-stone-game-iii/",
+      "readmePath": "1406-stone-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1406-stone-game-iii.cpp",
+          "path": "1406-stone-game-iii/1406-stone-game-iii.cpp",
+          "sha": "c90c811b515e8c6e1b04de611594dfd026f63b95",
+          "lastSyncedAt": "2026-08-18T11:24:10.448Z"
         }
       ]
     }

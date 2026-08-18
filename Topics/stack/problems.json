@@ -4,6 +4,907 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-08-17T15:10:31.733Z",
-  "problems": []
+  "updatedAt": "2026-08-18T11:24:11.981Z",
+  "problems": [
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "0020-valid-parentheses/",
+      "readmePath": "0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0020-valid-parentheses.cpp",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.cpp",
+          "sha": "cc9f94f06da1e5cbbf2bb61dc1662fa529b5088f",
+          "lastSyncedAt": "2026-08-18T11:24:07.297Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "32",
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "problemName": "0032-longest-valid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+      "folderPath": "0032-longest-valid-parentheses/",
+      "readmePath": "0032-longest-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0032-longest-valid-parentheses.cpp",
+          "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.cpp",
+          "sha": "d478560e735f33bfbdfd2075881c5d17747540d9",
+          "lastSyncedAt": "2026-08-18T11:24:07.433Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "0042-trapping-rain-water/",
+      "readmePath": "0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0042-trapping-rain-water.cpp",
+          "path": "0042-trapping-rain-water/0042-trapping-rain-water.cpp",
+          "sha": "a4bb396562043fe5871e4457f54ea82c74462462",
+          "lastSyncedAt": "2026-08-18T11:24:07.544Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "71",
+      "title": "Simplify Path",
+      "slug": "simplify-path",
+      "problemName": "0071-simplify-path",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/simplify-path/",
+      "folderPath": "0071-simplify-path/",
+      "readmePath": "0071-simplify-path/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0071-simplify-path.cpp",
+          "path": "0071-simplify-path/0071-simplify-path.cpp",
+          "sha": "479b0badb5fe18055ddb18dbfe416bdbb98eb5a0",
+          "lastSyncedAt": "2026-08-18T11:24:07.762Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "84",
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "problemName": "0084-largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "folderPath": "0084-largest-rectangle-in-histogram/",
+      "readmePath": "0084-largest-rectangle-in-histogram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0084-largest-rectangle-in-histogram.cpp",
+          "path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.cpp",
+          "sha": "7965b097360e25be325d753ecb9c29da39a548a4",
+          "lastSyncedAt": "2026-08-18T11:24:07.892Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "85",
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "problemName": "0085-maximal-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+      "folderPath": "0085-maximal-rectangle/",
+      "readmePath": "0085-maximal-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0085-maximal-rectangle.cpp",
+          "path": "0085-maximal-rectangle/0085-maximal-rectangle.cpp",
+          "sha": "1c9d79385b354195da1d6fdf897804db7f1516c8",
+          "lastSyncedAt": "2026-08-18T11:24:07.904Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "problemName": "0094-binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "folderPath": "0094-binary-tree-inorder-traversal/",
+      "readmePath": "0094-binary-tree-inorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0094-binary-tree-inorder-traversal.cpp",
+          "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.cpp",
+          "sha": "bcaa2857ae5da887a56d292d25776b3c6373feba",
+          "lastSyncedAt": "2026-08-18T11:24:07.938Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "114",
+      "title": "Flatten Binary Tree to Linked List",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "problemName": "0114-flatten-binary-tree-to-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+      "folderPath": "0114-flatten-binary-tree-to-linked-list/",
+      "readmePath": "0114-flatten-binary-tree-to-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0114-flatten-binary-tree-to-linked-list.cpp",
+          "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.cpp",
+          "sha": "ae0433bef679c543eb3c72b0db5bd8e8474b9b5a",
+          "lastSyncedAt": "2026-08-18T11:24:08.088Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "144",
+      "title": "Binary Tree Preorder Traversal",
+      "slug": "binary-tree-preorder-traversal",
+      "problemName": "0144-binary-tree-preorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+      "folderPath": "0144-binary-tree-preorder-traversal/",
+      "readmePath": "0144-binary-tree-preorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0144-binary-tree-preorder-traversal.cpp",
+          "path": "0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.cpp",
+          "sha": "ec40f3d69765bcca90a59cd486b208d892d23a38",
+          "lastSyncedAt": "2026-08-18T11:24:08.298Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "145",
+      "title": "Binary Tree Postorder Traversal",
+      "slug": "binary-tree-postorder-traversal",
+      "problemName": "0145-binary-tree-postorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+      "folderPath": "0145-binary-tree-postorder-traversal/",
+      "readmePath": "0145-binary-tree-postorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0145-binary-tree-postorder-traversal.cpp",
+          "path": "0145-binary-tree-postorder-traversal/0145-binary-tree-postorder-traversal.cpp",
+          "sha": "b37f7c85f09a6db354c551e388110e7386612a8a",
+          "lastSyncedAt": "2026-08-18T11:24:08.309Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "0150-evaluate-reverse-polish-notation/",
+      "readmePath": "0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0150-evaluate-reverse-polish-notation.cpp",
+          "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.cpp",
+          "sha": "e9f74cbfdb85be7772c283f46b97f0e538ef79cb",
+          "lastSyncedAt": "2026-08-18T11:24:08.332Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "problemName": "0155-min-stack",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+      "folderPath": "0155-min-stack/",
+      "readmePath": "0155-min-stack/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0155-min-stack.cpp",
+          "path": "0155-min-stack/0155-min-stack.cpp",
+          "sha": "a9b19e00226d99902ec5389f0c0df6a007a3e3da",
+          "lastSyncedAt": "2026-08-18T11:24:08.379Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "173",
+      "title": "Binary Search Tree Iterator",
+      "slug": "binary-search-tree-iterator",
+      "problemName": "0173-binary-search-tree-iterator",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-iterator/",
+      "folderPath": "0173-binary-search-tree-iterator/",
+      "readmePath": "0173-binary-search-tree-iterator/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0173-binary-search-tree-iterator.cpp",
+          "path": "0173-binary-search-tree-iterator/0173-binary-search-tree-iterator.cpp",
+          "sha": "cf472e2a2b817a6225da84a3c235c3ed5d7ab724",
+          "lastSyncedAt": "2026-08-18T11:24:08.448Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "224",
+      "title": "Basic Calculator",
+      "slug": "basic-calculator",
+      "problemName": "0224-basic-calculator",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator/",
+      "folderPath": "0224-basic-calculator/",
+      "readmePath": "0224-basic-calculator/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0224-basic-calculator.cpp",
+          "path": "0224-basic-calculator/0224-basic-calculator.cpp",
+          "sha": "7a1fd944adf6b6db3bf3da3e6667f1217added65",
+          "lastSyncedAt": "2026-08-18T11:24:08.675Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "225",
+      "title": "Implement Stack using Queues",
+      "slug": "implement-stack-using-queues",
+      "problemName": "0225-implement-stack-using-queues",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-stack-using-queues/",
+      "folderPath": "0225-implement-stack-using-queues/",
+      "readmePath": "0225-implement-stack-using-queues/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0225-implement-stack-using-queues.cpp",
+          "path": "0225-implement-stack-using-queues/0225-implement-stack-using-queues.cpp",
+          "sha": "cb743db200b6179662964120ca600b5210d2f311",
+          "lastSyncedAt": "2026-08-18T11:24:08.687Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "232",
+      "title": "Implement Queue using Stacks",
+      "slug": "implement-queue-using-stacks",
+      "problemName": "0232-implement-queue-using-stacks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+      "folderPath": "0232-implement-queue-using-stacks/",
+      "readmePath": "0232-implement-queue-using-stacks/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0232-implement-queue-using-stacks.cpp",
+          "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.cpp",
+          "sha": "230bea64216ea3dc2b8ec80a8464cc12edc3b629",
+          "lastSyncedAt": "2026-08-18T11:24:08.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "0234-palindrome-linked-list/",
+      "readmePath": "0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0234-palindrome-linked-list.cpp",
+          "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
+          "sha": "7ece90c8c0bd9d0c32c63f704145c53218815044",
+          "lastSyncedAt": "2026-08-18T11:24:08.768Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "402",
+      "title": "Remove K Digits",
+      "slug": "remove-k-digits",
+      "problemName": "0402-remove-k-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
+      "folderPath": "0402-remove-k-digits/",
+      "readmePath": "0402-remove-k-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0402-remove-k-digits.cpp",
+          "path": "0402-remove-k-digits/0402-remove-k-digits.cpp",
+          "sha": "45a823bd6b92559dc0a3551510788ad3353b3f47",
+          "lastSyncedAt": "2026-08-18T11:24:09.082Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "0496-next-greater-element-i/",
+      "readmePath": "0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0496-next-greater-element-i.cpp",
+          "path": "0496-next-greater-element-i/0496-next-greater-element-i.cpp",
+          "sha": "19b17f96262b9f8c7e83c05534f7aa9bf87ac520",
+          "lastSyncedAt": "2026-08-18T11:24:09.253Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "503",
+      "title": "Next Greater Element II",
+      "slug": "next-greater-element-ii",
+      "problemName": "0503-next-greater-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii/",
+      "folderPath": "0503-next-greater-element-ii/",
+      "readmePath": "0503-next-greater-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0503-next-greater-element-ii.cpp",
+          "path": "0503-next-greater-element-ii/0503-next-greater-element-ii.cpp",
+          "sha": "d771c29f8a7a778216658784445679b23ee42a8e",
+          "lastSyncedAt": "2026-08-18T11:24:09.287Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "589",
+      "title": "N-ary Tree Preorder Traversal",
+      "slug": "n-ary-tree-preorder-traversal",
+      "problemName": "0589-n-ary-tree-preorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/n-ary-tree-preorder-traversal/",
+      "folderPath": "0589-n-ary-tree-preorder-traversal/",
+      "readmePath": "0589-n-ary-tree-preorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0589-n-ary-tree-preorder-traversal.cpp",
+          "path": "0589-n-ary-tree-preorder-traversal/0589-n-ary-tree-preorder-traversal.cpp",
+          "sha": "341e201832cd618ace6b2904e051d60b202bbfec",
+          "lastSyncedAt": "2026-08-18T11:24:09.416Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "590",
+      "title": "N-ary Tree Postorder Traversal",
+      "slug": "n-ary-tree-postorder-traversal",
+      "problemName": "0590-n-ary-tree-postorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/n-ary-tree-postorder-traversal/",
+      "folderPath": "0590-n-ary-tree-postorder-traversal/",
+      "readmePath": "0590-n-ary-tree-postorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0590-n-ary-tree-postorder-traversal.cpp",
+          "path": "0590-n-ary-tree-postorder-traversal/0590-n-ary-tree-postorder-traversal.cpp",
+          "sha": "021a4cfe9674e7d878e78cc26310d3cd97c89038",
+          "lastSyncedAt": "2026-08-18T11:24:09.428Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "0678-valid-parenthesis-string/",
+      "readmePath": "0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0678-valid-parenthesis-string.cpp",
+          "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.cpp",
+          "sha": "a24dde6f64ce3a2c1402a5895e8af23dbd2a9fb8",
+          "lastSyncedAt": "2026-08-18T11:24:09.522Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "problemName": "0682-baseball-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+      "folderPath": "0682-baseball-game/",
+      "readmePath": "0682-baseball-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0682-baseball-game.cpp",
+          "path": "0682-baseball-game/0682-baseball-game.cpp",
+          "sha": "24a12fbc44b0cecdaae659c180a0f11cff914d39",
+          "lastSyncedAt": "2026-08-18T11:24:09.534Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "735",
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "problemName": "0735-asteroid-collision",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision/",
+      "folderPath": "0735-asteroid-collision/",
+      "readmePath": "0735-asteroid-collision/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0735-asteroid-collision.cpp",
+          "path": "0735-asteroid-collision/0735-asteroid-collision.cpp",
+          "sha": "a6d4ac21216f7055c93f3071c7c3b604738a86e0",
+          "lastSyncedAt": "2026-08-18T11:24:09.614Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "844",
+      "title": "Backspace String Compare",
+      "slug": "backspace-string-compare",
+      "problemName": "0844-backspace-string-compare",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare/",
+      "folderPath": "0844-backspace-string-compare/",
+      "readmePath": "0844-backspace-string-compare/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0844-backspace-string-compare.cpp",
+          "path": "0844-backspace-string-compare/0844-backspace-string-compare.cpp",
+          "sha": "2906a958a17e15b2797c03c8bf04b38ab3d11aea",
+          "lastSyncedAt": "2026-08-18T11:24:09.754Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "897",
+      "title": "Increasing Order Search Tree",
+      "slug": "increasing-order-search-tree",
+      "problemName": "0897-increasing-order-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/increasing-order-search-tree/",
+      "folderPath": "0897-increasing-order-search-tree/",
+      "readmePath": "0897-increasing-order-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0897-increasing-order-search-tree.cpp",
+          "path": "0897-increasing-order-search-tree/0897-increasing-order-search-tree.cpp",
+          "sha": "794c21f8c3d15356570710ace30586b800c7957a",
+          "lastSyncedAt": "2026-08-18T11:24:09.857Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "problemName": "0901-online-stock-span",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+      "folderPath": "0901-online-stock-span/",
+      "readmePath": "0901-online-stock-span/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0901-online-stock-span.cpp",
+          "path": "0901-online-stock-span/0901-online-stock-span.cpp",
+          "sha": "571472b820618a5eba58526d5725b8c8a48c2236",
+          "lastSyncedAt": "2026-08-18T11:24:09.869Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "907",
+      "title": "Sum of Subarray Minimums",
+      "slug": "sum-of-subarray-minimums",
+      "problemName": "0907-sum-of-subarray-minimums",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+      "folderPath": "0907-sum-of-subarray-minimums/",
+      "readmePath": "0907-sum-of-subarray-minimums/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0907-sum-of-subarray-minimums.cpp",
+          "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.cpp",
+          "sha": "1ad0c0bcca564905778e591cecb6fe248d6a5d11",
+          "lastSyncedAt": "2026-08-18T11:24:09.891Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "problemName": "0921-minimum-add-to-make-parentheses-valid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+      "folderPath": "0921-minimum-add-to-make-parentheses-valid/",
+      "readmePath": "0921-minimum-add-to-make-parentheses-valid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0921-minimum-add-to-make-parentheses-valid.cpp",
+          "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp",
+          "sha": "2862e02e8c9e7f538dd0a51761d8cc1f07d79494",
+          "lastSyncedAt": "2026-08-18T11:24:09.912Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1008",
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "slug": "construct-binary-search-tree-from-preorder-traversal",
+      "problemName": "1008-construct-binary-search-tree-from-preorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+      "folderPath": "1008-construct-binary-search-tree-from-preorder-traversal/",
+      "readmePath": "1008-construct-binary-search-tree-from-preorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1008-construct-binary-search-tree-from-preorder-traversal.cpp",
+          "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.cpp",
+          "sha": "19e1e655f32287f1af900082ace9a35509016b26",
+          "lastSyncedAt": "2026-08-18T11:24:10.089Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "problemName": "1021-remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "folderPath": "1021-remove-outermost-parentheses/",
+      "readmePath": "1021-remove-outermost-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1021-remove-outermost-parentheses.cpp",
+          "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
+          "sha": "9f319311ae25935fde56fd9b98adc8aab7f19763",
+          "lastSyncedAt": "2026-08-18T11:24:10.123Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1047",
+      "title": "Remove All Adjacent Duplicates In String",
+      "slug": "remove-all-adjacent-duplicates-in-string",
+      "problemName": "1047-remove-all-adjacent-duplicates-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/",
+      "folderPath": "1047-remove-all-adjacent-duplicates-in-string/",
+      "readmePath": "1047-remove-all-adjacent-duplicates-in-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1047-remove-all-adjacent-duplicates-in-string.cpp",
+          "path": "1047-remove-all-adjacent-duplicates-in-string/1047-remove-all-adjacent-duplicates-in-string.cpp",
+          "sha": "f93e3256c1d67885ee35e8eaeebe1fd95a6e2226",
+          "lastSyncedAt": "2026-08-18T11:24:10.148Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1081",
+      "title": "Smallest Subsequence of Distinct Characters",
+      "slug": "smallest-subsequence-of-distinct-characters",
+      "problemName": "1081-smallest-subsequence-of-distinct-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/",
+      "folderPath": "1081-smallest-subsequence-of-distinct-characters/",
+      "readmePath": "1081-smallest-subsequence-of-distinct-characters/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1081-smallest-subsequence-of-distinct-characters.cpp",
+          "path": "1081-smallest-subsequence-of-distinct-characters/1081-smallest-subsequence-of-distinct-characters.cpp",
+          "sha": "d7e67a1db511b06db8435ebbace097a2ca8b28b3",
+          "lastSyncedAt": "2026-08-18T11:24:10.171Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1475",
+      "title": "Final Prices With a Special Discount in a Shop",
+      "slug": "final-prices-with-a-special-discount-in-a-shop",
+      "problemName": "1475-final-prices-with-a-special-discount-in-a-shop",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/",
+      "folderPath": "1475-final-prices-with-a-special-discount-in-a-shop/",
+      "readmePath": "1475-final-prices-with-a-special-discount-in-a-shop/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1475-final-prices-with-a-special-discount-in-a-shop.cpp",
+          "path": "1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.cpp",
+          "sha": "96cf3568aca37ca180685398ae5d608884540307",
+          "lastSyncedAt": "2026-08-18T11:24:10.496Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1544",
+      "title": "Make The String Great",
+      "slug": "make-the-string-great",
+      "problemName": "1544-make-the-string-great",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/make-the-string-great/",
+      "folderPath": "1544-make-the-string-great/",
+      "readmePath": "1544-make-the-string-great/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1544-make-the-string-great.cpp",
+          "path": "1544-make-the-string-great/1544-make-the-string-great.cpp",
+          "sha": "ac2e7eeaf4e7a73bf2a62ade88528a6e917b64a7",
+          "lastSyncedAt": "2026-08-18T11:24:10.544Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1598",
+      "title": "Crawler Log Folder",
+      "slug": "crawler-log-folder",
+      "problemName": "1598-crawler-log-folder",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/crawler-log-folder/",
+      "folderPath": "1598-crawler-log-folder/",
+      "readmePath": "1598-crawler-log-folder/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1598-crawler-log-folder.cpp",
+          "path": "1598-crawler-log-folder/1598-crawler-log-folder.cpp",
+          "sha": "a703fab811be456e7325cdfeee3ab8e0f3c51967",
+          "lastSyncedAt": "2026-08-18T11:24:10.578Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1614",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "problemName": "1614-maximum-nesting-depth-of-the-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+      "folderPath": "1614-maximum-nesting-depth-of-the-parentheses/",
+      "readmePath": "1614-maximum-nesting-depth-of-the-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1614-maximum-nesting-depth-of-the-parentheses.cpp",
+          "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp",
+          "sha": "74747147d7fa802f79b078d5c78229c73cbbc339",
+          "lastSyncedAt": "2026-08-18T11:24:10.590Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1700",
+      "title": "Number of Students Unable to Eat Lunch",
+      "slug": "number-of-students-unable-to-eat-lunch",
+      "problemName": "1700-number-of-students-unable-to-eat-lunch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/",
+      "folderPath": "1700-number-of-students-unable-to-eat-lunch/",
+      "readmePath": "1700-number-of-students-unable-to-eat-lunch/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1700-number-of-students-unable-to-eat-lunch.cpp",
+          "path": "1700-number-of-students-unable-to-eat-lunch/1700-number-of-students-unable-to-eat-lunch.cpp",
+          "sha": "bae41e5c1a2550d887e7a77595e2b9ccf28c3e9e",
+          "lastSyncedAt": "2026-08-18T11:24:10.624Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2000",
+      "title": "Reverse Prefix of Word",
+      "slug": "reverse-prefix-of-word",
+      "problemName": "2000-reverse-prefix-of-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-prefix-of-word/",
+      "folderPath": "2000-reverse-prefix-of-word/",
+      "readmePath": "2000-reverse-prefix-of-word/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2000-reverse-prefix-of-word.cpp",
+          "path": "2000-reverse-prefix-of-word/2000-reverse-prefix-of-word.cpp",
+          "sha": "a954effb2ba1c1333c582d44a8a2301b6c5b5792",
+          "lastSyncedAt": "2026-08-18T11:24:10.818Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2104",
+      "title": "Sum of Subarray Ranges",
+      "slug": "sum-of-subarray-ranges",
+      "problemName": "2104-sum-of-subarray-ranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-ranges/",
+      "folderPath": "2104-sum-of-subarray-ranges/",
+      "readmePath": "2104-sum-of-subarray-ranges/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2104-sum-of-subarray-ranges.cpp",
+          "path": "2104-sum-of-subarray-ranges/2104-sum-of-subarray-ranges.cpp",
+          "sha": "4e8bf40db08a97bcd78bf57a602efc167b58f21c",
+          "lastSyncedAt": "2026-08-18T11:24:10.962Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2434",
+      "title": "Using a Robot to Print the Lexicographically Smallest String",
+      "slug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+      "problemName": "2434-using-a-robot-to-print-the-lexicographically-smallest-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/",
+      "folderPath": "2434-using-a-robot-to-print-the-lexicographically-smallest-string/",
+      "readmePath": "2434-using-a-robot-to-print-the-lexicographically-smallest-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2434-using-a-robot-to-print-the-lexicographically-smallest-string.cpp",
+          "path": "2434-using-a-robot-to-print-the-lexicographically-smallest-string/2434-using-a-robot-to-print-the-lexicographically-smallest-string.cpp",
+          "sha": "a44ce40c9b18d61596f75ea8bdd2fdf68c3160c0",
+          "lastSyncedAt": "2026-08-18T11:24:11.131Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2696",
+      "title": "Minimum String Length After Removing Substrings",
+      "slug": "minimum-string-length-after-removing-substrings",
+      "problemName": "2696-minimum-string-length-after-removing-substrings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/",
+      "folderPath": "2696-minimum-string-length-after-removing-substrings/",
+      "readmePath": "2696-minimum-string-length-after-removing-substrings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2696-minimum-string-length-after-removing-substrings.cpp",
+          "path": "2696-minimum-string-length-after-removing-substrings/2696-minimum-string-length-after-removing-substrings.cpp",
+          "sha": "939243099c402814c50a253e20718fd22ba39f86",
+          "lastSyncedAt": "2026-08-18T11:24:11.242Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3170",
+      "title": "Lexicographically Minimum String After Removing Stars",
+      "slug": "lexicographically-minimum-string-after-removing-stars",
+      "problemName": "3170-lexicographically-minimum-string-after-removing-stars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/",
+      "folderPath": "3170-lexicographically-minimum-string-after-removing-stars/",
+      "readmePath": "3170-lexicographically-minimum-string-after-removing-stars/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3170-lexicographically-minimum-string-after-removing-stars.cpp",
+          "path": "3170-lexicographically-minimum-string-after-removing-stars/3170-lexicographically-minimum-string-after-removing-stars.cpp",
+          "sha": "4451c038600085e10e9aa075da877d380f388ea9",
+          "lastSyncedAt": "2026-08-18T11:24:11.476Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3174",
+      "title": "Clear Digits",
+      "slug": "clear-digits",
+      "problemName": "3174-clear-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/clear-digits/",
+      "folderPath": "3174-clear-digits/",
+      "readmePath": "3174-clear-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3174-clear-digits.cpp",
+          "path": "3174-clear-digits/3174-clear-digits.cpp",
+          "sha": "8dda69ab371db8d3245034fb00ebf4dd9f2aafa5",
+          "lastSyncedAt": "2026-08-18T11:24:11.487Z"
+        }
+      ]
+    }
+  ]
 }

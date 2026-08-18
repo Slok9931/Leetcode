@@ -4,7 +4,7 @@
     "slug": "directed-acyclic-graph",
     "name": "Directed Acyclic Graph"
   },
-  "updatedAt": "2026-08-18T10:35:12.844Z",
+  "updatedAt": "2026-08-18T11:24:11.979Z",
   "problems": [
     {
       "frontendId": "797",
@@ -43,6 +43,66 @@
           "path": "1203-sort-items-by-groups-respecting-dependencies/1203-sort-items-by-groups-respecting-dependencies.cpp",
           "sha": "7115a297006ec2c5367ee4fec504bdf651bcbc1b",
           "lastSyncedAt": "2026-08-18T10:34:20.429Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "207",
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "problemName": "0207-course-schedule",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
+      "folderPath": "0207-course-schedule/",
+      "readmePath": "0207-course-schedule/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0207-course-schedule.cpp",
+          "path": "0207-course-schedule/0207-course-schedule.cpp",
+          "sha": "cec89f130d58eda9e862592ba63dd6f849565153",
+          "lastSyncedAt": "2026-08-18T11:24:08.584Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1857",
+      "title": "Largest Color Value in a Directed Graph",
+      "slug": "largest-color-value-in-a-directed-graph",
+      "problemName": "1857-largest-color-value-in-a-directed-graph",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph/",
+      "folderPath": "1857-largest-color-value-in-a-directed-graph/",
+      "readmePath": "1857-largest-color-value-in-a-directed-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1857-largest-color-value-in-a-directed-graph.cpp",
+          "path": "1857-largest-color-value-in-a-directed-graph/1857-largest-color-value-in-a-directed-graph.cpp",
+          "sha": "1896e34ee9aaf3375fdc5dac14a43c8cc02f5ead",
+          "lastSyncedAt": "2026-08-18T11:24:10.696Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2050",
+      "title": "Parallel Courses III",
+      "slug": "parallel-courses-iii",
+      "problemName": "2050-parallel-courses-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/parallel-courses-iii/",
+      "folderPath": "2050-parallel-courses-iii/",
+      "readmePath": "2050-parallel-courses-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2050-parallel-courses-iii.cpp",
+          "path": "2050-parallel-courses-iii/2050-parallel-courses-iii.cpp",
+          "sha": "9d156cff6fee94700babd6fe66c2ed0f07eb73ce",
+          "lastSyncedAt": "2026-08-18T11:24:10.891Z"
         }
       ]
     }

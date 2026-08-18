@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-08-18T10:34:47.662Z",
+  "updatedAt": "2026-08-18T11:24:11.961Z",
   "problems": [
     {
       "frontendId": "2029",
@@ -23,6 +23,426 @@
           "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
           "sha": "a33250fe100c48c604387d910c1e1c1ab028cac0",
           "lastSyncedAt": "2026-08-18T10:34:47.662Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0169-majority-element.cpp",
+          "path": "0169-majority-element/0169-majority-element.cpp",
+          "sha": "3b48202c810cdfba167b43be97e60c3a0094f119",
+          "lastSyncedAt": "2026-08-18T11:24:08.424Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "229",
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "problemName": "0229-majority-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+      "folderPath": "0229-majority-element-ii/",
+      "readmePath": "0229-majority-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0229-majority-element-ii.cpp",
+          "path": "0229-majority-element-ii/0229-majority-element-ii.cpp",
+          "sha": "641ce01cbd539a10cc830015ea2f9e0f5c9c7d65",
+          "lastSyncedAt": "2026-08-18T11:24:08.721Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0347-top-k-frequent-elements.cpp",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
+          "sha": "657375bd69aabcd294bad0383f69956d630900fa",
+          "lastSyncedAt": "2026-08-18T11:24:08.977Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "0383-ransom-note/",
+      "readmePath": "0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0383-ransom-note.cpp",
+          "path": "0383-ransom-note/0383-ransom-note.cpp",
+          "sha": "4bfa5ae555fa1b2d67ac1179eff36e2808e69ffd",
+          "lastSyncedAt": "2026-08-18T11:24:09.024Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "387",
+      "title": "First Unique Character in a String",
+      "slug": "first-unique-character-in-a-string",
+      "problemName": "0387-first-unique-character-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+      "folderPath": "0387-first-unique-character-in-a-string/",
+      "readmePath": "0387-first-unique-character-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0387-first-unique-character-in-a-string.cpp",
+          "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.cpp",
+          "sha": "18d31cae61aa818469c0649033bd6fe1ee6eda06",
+          "lastSyncedAt": "2026-08-18T11:24:09.048Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "0451-sort-characters-by-frequency/",
+      "readmePath": "0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0451-sort-characters-by-frequency.cpp",
+          "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
+          "sha": "79bff9d871814cb496f57c7900005c733d0d6aa4",
+          "lastSyncedAt": "2026-08-18T11:24:09.185Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "621",
+      "title": "Task Scheduler",
+      "slug": "task-scheduler",
+      "problemName": "0621-task-scheduler",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
+      "folderPath": "0621-task-scheduler/",
+      "readmePath": "0621-task-scheduler/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0621-task-scheduler.cpp",
+          "path": "0621-task-scheduler/0621-task-scheduler.cpp",
+          "sha": "553bb30dbf177ca9df7cff0ebf1769a1cea0d101",
+          "lastSyncedAt": "2026-08-18T11:24:09.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "992",
+      "title": "Subarrays with K Different Integers",
+      "slug": "subarrays-with-k-different-integers",
+      "problemName": "0992-subarrays-with-k-different-integers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+      "folderPath": "0992-subarrays-with-k-different-integers/",
+      "readmePath": "0992-subarrays-with-k-different-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0992-subarrays-with-k-different-integers.cpp",
+          "path": "0992-subarrays-with-k-different-integers/0992-subarrays-with-k-different-integers.cpp",
+          "sha": "61444f40fcd64a5140d9c02b74449e17b3aa53d3",
+          "lastSyncedAt": "2026-08-18T11:24:10.009Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1128",
+      "title": "Number of Equivalent Domino Pairs",
+      "slug": "number-of-equivalent-domino-pairs",
+      "problemName": "1128-number-of-equivalent-domino-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-equivalent-domino-pairs/",
+      "folderPath": "1128-number-of-equivalent-domino-pairs/",
+      "readmePath": "1128-number-of-equivalent-domino-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1128-number-of-equivalent-domino-pairs.cpp",
+          "path": "1128-number-of-equivalent-domino-pairs/1128-number-of-equivalent-domino-pairs.cpp",
+          "sha": "ddf157b8c4beda002aef89ca1d3ef507cf2447f1",
+          "lastSyncedAt": "2026-08-18T11:24:10.195Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1399",
+      "title": "Count Largest Group",
+      "slug": "count-largest-group",
+      "problemName": "1399-count-largest-group",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-largest-group/",
+      "folderPath": "1399-count-largest-group/",
+      "readmePath": "1399-count-largest-group/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1399-count-largest-group.cpp",
+          "path": "1399-count-largest-group/1399-count-largest-group.cpp",
+          "sha": "760bc1772adf46089dcecc3e11caaed791a734c0",
+          "lastSyncedAt": "2026-08-18T11:24:10.436Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1781",
+      "title": "Sum of Beauty of All Substrings",
+      "slug": "sum-of-beauty-of-all-substrings",
+      "problemName": "1781-sum-of-beauty-of-all-substrings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
+      "folderPath": "1781-sum-of-beauty-of-all-substrings/",
+      "readmePath": "1781-sum-of-beauty-of-all-substrings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1781-sum-of-beauty-of-all-substrings.cpp",
+          "path": "1781-sum-of-beauty-of-all-substrings/1781-sum-of-beauty-of-all-substrings.cpp",
+          "sha": "5514be9832069bbb6f637dbf9c714450a358a92b",
+          "lastSyncedAt": "2026-08-18T11:24:10.661Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1857",
+      "title": "Largest Color Value in a Directed Graph",
+      "slug": "largest-color-value-in-a-directed-graph",
+      "problemName": "1857-largest-color-value-in-a-directed-graph",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph/",
+      "folderPath": "1857-largest-color-value-in-a-directed-graph/",
+      "readmePath": "1857-largest-color-value-in-a-directed-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1857-largest-color-value-in-a-directed-graph.cpp",
+          "path": "1857-largest-color-value-in-a-directed-graph/1857-largest-color-value-in-a-directed-graph.cpp",
+          "sha": "1896e34ee9aaf3375fdc5dac14a43c8cc02f5ead",
+          "lastSyncedAt": "2026-08-18T11:24:10.696Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2048",
+      "title": "Next Greater Numerically Balanced Number",
+      "slug": "next-greater-numerically-balanced-number",
+      "problemName": "2048-next-greater-numerically-balanced-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-numerically-balanced-number/",
+      "folderPath": "2048-next-greater-numerically-balanced-number/",
+      "readmePath": "2048-next-greater-numerically-balanced-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2048-next-greater-numerically-balanced-number.cpp",
+          "path": "2048-next-greater-numerically-balanced-number/2048-next-greater-numerically-balanced-number.cpp",
+          "sha": "5936891cb36ab75f66ffb2ea67f6deec664d0bfb",
+          "lastSyncedAt": "2026-08-18T11:24:10.867Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2131",
+      "title": "Longest Palindrome by Concatenating Two Letter Words",
+      "slug": "longest-palindrome-by-concatenating-two-letter-words",
+      "problemName": "2131-longest-palindrome-by-concatenating-two-letter-words",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/",
+      "folderPath": "2131-longest-palindrome-by-concatenating-two-letter-words/",
+      "readmePath": "2131-longest-palindrome-by-concatenating-two-letter-words/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2131-longest-palindrome-by-concatenating-two-letter-words.cpp",
+          "path": "2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.cpp",
+          "sha": "1c6d9c11cbec3620c52e8ec20aec6b8b3eecfc89",
+          "lastSyncedAt": "2026-08-18T11:24:10.975Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3016",
+      "title": "Minimum Number of Pushes to Type Word II",
+      "slug": "minimum-number-of-pushes-to-type-word-ii",
+      "problemName": "3016-minimum-number-of-pushes-to-type-word-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
+      "folderPath": "3016-minimum-number-of-pushes-to-type-word-ii/",
+      "readmePath": "3016-minimum-number-of-pushes-to-type-word-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3016-minimum-number-of-pushes-to-type-word-ii.cpp",
+          "path": "3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.cpp",
+          "sha": "f72c42ab39df4b1a37ece138aa92b04d240bd135",
+          "lastSyncedAt": "2026-08-18T11:24:11.426Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "slug": "sorted-gcd-pair-queries",
+      "problemName": "3312-sorted-gcd-pair-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "folderPath": "3312-sorted-gcd-pair-queries/",
+      "readmePath": "3312-sorted-gcd-pair-queries/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3312-sorted-gcd-pair-queries.cpp",
+          "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.cpp",
+          "sha": "d1355cb64362b53ca2b8709fa955db99f89ed8f0",
+          "lastSyncedAt": "2026-08-18T11:24:11.535Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3335",
+      "title": "Total Characters in String After Transformations I",
+      "slug": "total-characters-in-string-after-transformations-i",
+      "problemName": "3335-total-characters-in-string-after-transformations-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/total-characters-in-string-after-transformations-i/",
+      "folderPath": "3335-total-characters-in-string-after-transformations-i/",
+      "readmePath": "3335-total-characters-in-string-after-transformations-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3335-total-characters-in-string-after-transformations-i.cpp",
+          "path": "3335-total-characters-in-string-after-transformations-i/3335-total-characters-in-string-after-transformations-i.cpp",
+          "sha": "016d9e6ef686fca08df5918979556341bc00556d",
+          "lastSyncedAt": "2026-08-18T11:24:11.548Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3337",
+      "title": "Total Characters in String After Transformations II",
+      "slug": "total-characters-in-string-after-transformations-ii",
+      "problemName": "3337-total-characters-in-string-after-transformations-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/",
+      "folderPath": "3337-total-characters-in-string-after-transformations-ii/",
+      "readmePath": "3337-total-characters-in-string-after-transformations-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3337-total-characters-in-string-after-transformations-ii.cpp",
+          "path": "3337-total-characters-in-string-after-transformations-ii/3337-total-characters-in-string-after-transformations-ii.cpp",
+          "sha": "91ca8dc83eaebf87832ab4d80a4d45e6a3128419",
+          "lastSyncedAt": "2026-08-18T11:24:11.572Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3442",
+      "title": "Maximum Difference Between Even and Odd Frequency I",
+      "slug": "maximum-difference-between-even-and-odd-frequency-i",
+      "problemName": "3442-maximum-difference-between-even-and-odd-frequency-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/",
+      "folderPath": "3442-maximum-difference-between-even-and-odd-frequency-i/",
+      "readmePath": "3442-maximum-difference-between-even-and-odd-frequency-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3442-maximum-difference-between-even-and-odd-frequency-i.cpp",
+          "path": "3442-maximum-difference-between-even-and-odd-frequency-i/3442-maximum-difference-between-even-and-odd-frequency-i.cpp",
+          "sha": "1703252a607489ace757dded9fe05c9e14bd0f29",
+          "lastSyncedAt": "2026-08-18T11:24:11.728Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3443",
+      "title": "Maximum Manhattan Distance After K Changes",
+      "slug": "maximum-manhattan-distance-after-k-changes",
+      "problemName": "3443-maximum-manhattan-distance-after-k-changes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/",
+      "folderPath": "3443-maximum-manhattan-distance-after-k-changes/",
+      "readmePath": "3443-maximum-manhattan-distance-after-k-changes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3443-maximum-manhattan-distance-after-k-changes.cpp",
+          "path": "3443-maximum-manhattan-distance-after-k-changes/3443-maximum-manhattan-distance-after-k-changes.cpp",
+          "sha": "be1a3c44292364d904194616ca74cbdfbbe0d087",
+          "lastSyncedAt": "2026-08-18T11:24:11.740Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3518",
+      "title": "Smallest Palindromic Rearrangement II",
+      "slug": "smallest-palindromic-rearrangement-ii",
+      "problemName": "3518-smallest-palindromic-rearrangement-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/",
+      "folderPath": "3518-smallest-palindromic-rearrangement-ii/",
+      "readmePath": "3518-smallest-palindromic-rearrangement-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3518-smallest-palindromic-rearrangement-ii.cpp",
+          "path": "3518-smallest-palindromic-rearrangement-ii/3518-smallest-palindromic-rearrangement-ii.cpp",
+          "sha": "1ce4d3e0b3a1dbc85cf229da7fca5ac532c17d3a",
+          "lastSyncedAt": "2026-08-18T11:24:11.839Z"
         }
       ]
     }

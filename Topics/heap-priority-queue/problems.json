@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-08-18T10:35:54.862Z",
+  "updatedAt": "2026-08-18T11:24:11.975Z",
   "problems": [
     {
       "frontendId": "2285",
@@ -43,6 +43,486 @@
           "path": "2497-maximum-star-sum-of-a-graph/2497-maximum-star-sum-of-a-graph.cpp",
           "sha": "549822f20c8b8c2339469e4f9ee25ba577ab1826",
           "lastSyncedAt": "2026-08-18T10:35:28.328Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "problemName": "0023-merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "folderPath": "0023-merge-k-sorted-lists/",
+      "readmePath": "0023-merge-k-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0023-merge-k-sorted-lists.cpp",
+          "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.cpp",
+          "sha": "7f70cecec158f7560313dce9753fcca4c72c520f",
+          "lastSyncedAt": "2026-08-18T11:24:07.332Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "0215-kth-largest-element-in-an-array/",
+      "readmePath": "0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0215-kth-largest-element-in-an-array.cpp",
+          "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
+          "sha": "4aca8d0ce25808a0afcaea711449181d84836437",
+          "lastSyncedAt": "2026-08-18T11:24:08.618Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "0239-sliding-window-maximum/",
+      "readmePath": "0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0239-sliding-window-maximum.cpp",
+          "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.cpp",
+          "sha": "a227f5f7dab78918773ddc8688a3efe0a63ac13c",
+          "lastSyncedAt": "2026-08-18T11:24:08.828Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "295",
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "problemName": "0295-find-median-from-data-stream",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "folderPath": "0295-find-median-from-data-stream/",
+      "readmePath": "0295-find-median-from-data-stream/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0295-find-median-from-data-stream.cpp",
+          "path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.cpp",
+          "sha": "1098cca9181b2935732bd43cf7e8667512e6b3a4",
+          "lastSyncedAt": "2026-08-18T11:24:08.954Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0347-top-k-frequent-elements.cpp",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
+          "sha": "657375bd69aabcd294bad0383f69956d630900fa",
+          "lastSyncedAt": "2026-08-18T11:24:08.977Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "355",
+      "title": "Design Twitter",
+      "slug": "design-twitter",
+      "problemName": "0355-design-twitter",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-twitter/",
+      "folderPath": "0355-design-twitter/",
+      "readmePath": "0355-design-twitter/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0355-design-twitter.cpp",
+          "path": "0355-design-twitter/0355-design-twitter.cpp",
+          "sha": "18686a723c8b67b0cc812e1e5be505e676479b38",
+          "lastSyncedAt": "2026-08-18T11:24:08.989Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "373",
+      "title": "Find K Pairs with Smallest Sums",
+      "slug": "find-k-pairs-with-smallest-sums",
+      "problemName": "0373-find-k-pairs-with-smallest-sums",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/",
+      "folderPath": "0373-find-k-pairs-with-smallest-sums/",
+      "readmePath": "0373-find-k-pairs-with-smallest-sums/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0373-find-k-pairs-with-smallest-sums.cpp",
+          "path": "0373-find-k-pairs-with-smallest-sums/0373-find-k-pairs-with-smallest-sums.cpp",
+          "sha": "c2955f79f8d4ec8853aa90092bdb166634c6bc26",
+          "lastSyncedAt": "2026-08-18T11:24:09.001Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "0451-sort-characters-by-frequency/",
+      "readmePath": "0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0451-sort-characters-by-frequency.cpp",
+          "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
+          "sha": "79bff9d871814cb496f57c7900005c733d0d6aa4",
+          "lastSyncedAt": "2026-08-18T11:24:09.185Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "502",
+      "title": "IPO",
+      "slug": "ipo",
+      "problemName": "0502-ipo",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/ipo/",
+      "folderPath": "0502-ipo/",
+      "readmePath": "0502-ipo/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0502-ipo.cpp",
+          "path": "0502-ipo/0502-ipo.cpp",
+          "sha": "268b022d30e26443cac4ad3683723691ea71059f",
+          "lastSyncedAt": "2026-08-18T11:24:09.275Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "506",
+      "title": "Relative Ranks",
+      "slug": "relative-ranks",
+      "problemName": "0506-relative-ranks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/relative-ranks/",
+      "folderPath": "0506-relative-ranks/",
+      "readmePath": "0506-relative-ranks/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0506-relative-ranks.cpp",
+          "path": "0506-relative-ranks/0506-relative-ranks.cpp",
+          "sha": "87d67e3e67ddd1c899745aec89e983552d61a900",
+          "lastSyncedAt": "2026-08-18T11:24:09.298Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "621",
+      "title": "Task Scheduler",
+      "slug": "task-scheduler",
+      "problemName": "0621-task-scheduler",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
+      "folderPath": "0621-task-scheduler/",
+      "readmePath": "0621-task-scheduler/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0621-task-scheduler.cpp",
+          "path": "0621-task-scheduler/0621-task-scheduler.cpp",
+          "sha": "553bb30dbf177ca9df7cff0ebf1769a1cea0d101",
+          "lastSyncedAt": "2026-08-18T11:24:09.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "703",
+      "title": "Kth Largest Element in a Stream",
+      "slug": "kth-largest-element-in-a-stream",
+      "problemName": "0703-kth-largest-element-in-a-stream",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+      "folderPath": "0703-kth-largest-element-in-a-stream/",
+      "readmePath": "0703-kth-largest-element-in-a-stream/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0703-kth-largest-element-in-a-stream.cpp",
+          "path": "0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.cpp",
+          "sha": "dea3871548bcae2e02a70b3a7d712cd448594ca6",
+          "lastSyncedAt": "2026-08-18T11:24:09.569Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "problemName": "0743-network-delay-time",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+      "folderPath": "0743-network-delay-time/",
+      "readmePath": "0743-network-delay-time/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0743-network-delay-time.cpp",
+          "path": "0743-network-delay-time/0743-network-delay-time.cpp",
+          "sha": "9dd203d37e744fdc89c8ad539cb50683e08a3c30",
+          "lastSyncedAt": "2026-08-18T11:24:09.626Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "787",
+      "title": "Cheapest Flights Within K Stops",
+      "slug": "cheapest-flights-within-k-stops",
+      "problemName": "0787-cheapest-flights-within-k-stops",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+      "folderPath": "0787-cheapest-flights-within-k-stops/",
+      "readmePath": "0787-cheapest-flights-within-k-stops/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0787-cheapest-flights-within-k-stops.cpp",
+          "path": "0787-cheapest-flights-within-k-stops/0787-cheapest-flights-within-k-stops.cpp",
+          "sha": "73f46633b6f1a216edae74b607e47742eacdde3c",
+          "lastSyncedAt": "2026-08-18T11:24:09.673Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1337",
+      "title": "The K Weakest Rows in a Matrix",
+      "slug": "the-k-weakest-rows-in-a-matrix",
+      "problemName": "1337-the-k-weakest-rows-in-a-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/",
+      "folderPath": "1337-the-k-weakest-rows-in-a-matrix/",
+      "readmePath": "1337-the-k-weakest-rows-in-a-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1337-the-k-weakest-rows-in-a-matrix.cpp",
+          "path": "1337-the-k-weakest-rows-in-a-matrix/1337-the-k-weakest-rows-in-a-matrix.cpp",
+          "sha": "78212e3cdeaf8bf11f114a3ad478cdb3e2bac39d",
+          "lastSyncedAt": "2026-08-18T11:24:10.387Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1354",
+      "title": "Construct Target Array With Multiple Sums",
+      "slug": "construct-target-array-with-multiple-sums",
+      "problemName": "1354-construct-target-array-with-multiple-sums",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-target-array-with-multiple-sums/",
+      "folderPath": "1354-construct-target-array-with-multiple-sums/",
+      "readmePath": "1354-construct-target-array-with-multiple-sums/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1354-construct-target-array-with-multiple-sums.cpp",
+          "path": "1354-construct-target-array-with-multiple-sums/1354-construct-target-array-with-multiple-sums.cpp",
+          "sha": "a7f4e63b202828270d39183e848e9a8fc68fabb8",
+          "lastSyncedAt": "2026-08-18T11:24:10.399Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1464",
+      "title": "Maximum Product of Two Elements in an Array",
+      "slug": "maximum-product-of-two-elements-in-an-array",
+      "problemName": "1464-maximum-product-of-two-elements-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+      "folderPath": "1464-maximum-product-of-two-elements-in-an-array/",
+      "readmePath": "1464-maximum-product-of-two-elements-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1464-maximum-product-of-two-elements-in-an-array.cpp",
+          "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.cpp",
+          "sha": "f40c8070574570d24d2ab24bb3874c1cc3a20c49",
+          "lastSyncedAt": "2026-08-18T11:24:10.484Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "problemName": "1631-path-with-minimum-effort",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "folderPath": "1631-path-with-minimum-effort/",
+      "readmePath": "1631-path-with-minimum-effort/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1631-path-with-minimum-effort.cpp",
+          "path": "1631-path-with-minimum-effort/1631-path-with-minimum-effort.cpp",
+          "sha": "8464a5928b38435e486e40a509a049ff9d48e025",
+          "lastSyncedAt": "2026-08-18T11:24:10.611Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2812",
+      "title": "Find the Safest Path in a Grid",
+      "slug": "find-the-safest-path-in-a-grid",
+      "problemName": "2812-find-the-safest-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-safest-path-in-a-grid/",
+      "folderPath": "2812-find-the-safest-path-in-a-grid/",
+      "readmePath": "2812-find-the-safest-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2812-find-the-safest-path-in-a-grid.cpp",
+          "path": "2812-find-the-safest-path-in-a-grid/2812-find-the-safest-path-in-a-grid.cpp",
+          "sha": "7e39d713ea8c97cd196fcf18a6bc1a0a1ad636ad",
+          "lastSyncedAt": "2026-08-18T11:24:11.267Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3170",
+      "title": "Lexicographically Minimum String After Removing Stars",
+      "slug": "lexicographically-minimum-string-after-removing-stars",
+      "problemName": "3170-lexicographically-minimum-string-after-removing-stars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/",
+      "folderPath": "3170-lexicographically-minimum-string-after-removing-stars/",
+      "readmePath": "3170-lexicographically-minimum-string-after-removing-stars/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3170-lexicographically-minimum-string-after-removing-stars.cpp",
+          "path": "3170-lexicographically-minimum-string-after-removing-stars/3170-lexicographically-minimum-string-after-removing-stars.cpp",
+          "sha": "4451c038600085e10e9aa075da877d380f388ea9",
+          "lastSyncedAt": "2026-08-18T11:24:11.476Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3286",
+      "title": "Find a Safe Walk Through a Grid",
+      "slug": "find-a-safe-walk-through-a-grid",
+      "problemName": "3286-find-a-safe-walk-through-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/",
+      "folderPath": "3286-find-a-safe-walk-through-a-grid/",
+      "readmePath": "3286-find-a-safe-walk-through-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3286-find-a-safe-walk-through-a-grid.cpp",
+          "path": "3286-find-a-safe-walk-through-a-grid/3286-find-a-safe-walk-through-a-grid.cpp",
+          "sha": "34b73c37711ba5e3cbb9f68e8a45cddebb39125d",
+          "lastSyncedAt": "2026-08-18T11:24:11.501Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3341",
+      "title": "Find Minimum Time to Reach Last Room I",
+      "slug": "find-minimum-time-to-reach-last-room-i",
+      "problemName": "3341-find-minimum-time-to-reach-last-room-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/",
+      "folderPath": "3341-find-minimum-time-to-reach-last-room-i/",
+      "readmePath": "3341-find-minimum-time-to-reach-last-room-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3341-find-minimum-time-to-reach-last-room-i.cpp",
+          "path": "3341-find-minimum-time-to-reach-last-room-i/3341-find-minimum-time-to-reach-last-room-i.cpp",
+          "sha": "6a207eac592b5632edf77a2611a7acc8c4eba4a5",
+          "lastSyncedAt": "2026-08-18T11:24:11.584Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3362",
+      "title": "Zero Array Transformation III",
+      "slug": "zero-array-transformation-iii",
+      "problemName": "3362-zero-array-transformation-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zero-array-transformation-iii/",
+      "folderPath": "3362-zero-array-transformation-iii/",
+      "readmePath": "3362-zero-array-transformation-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3362-zero-array-transformation-iii.cpp",
+          "path": "3362-zero-array-transformation-iii/3362-zero-array-transformation-iii.cpp",
+          "sha": "45b6ea0a6c62c5c53ab94b4c094ee54b082b8bb6",
+          "lastSyncedAt": "2026-08-18T11:24:11.643Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3620",
+      "title": "Network Recovery Pathways",
+      "slug": "network-recovery-pathways",
+      "problemName": "3620-network-recovery-pathways",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/network-recovery-pathways/",
+      "folderPath": "3620-network-recovery-pathways/",
+      "readmePath": "3620-network-recovery-pathways/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3620-network-recovery-pathways.cpp",
+          "path": "3620-network-recovery-pathways/3620-network-recovery-pathways.cpp",
+          "sha": "fd414ffebf61b4e0e6941e56f8eda87ac9676d4d",
+          "lastSyncedAt": "2026-08-18T11:24:11.887Z"
         }
       ]
     }

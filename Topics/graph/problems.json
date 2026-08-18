@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-18T10:36:22.533Z",
+  "updatedAt": "2026-08-18T11:24:11.973Z",
   "problems": [
     {
       "frontendId": "797",
@@ -243,6 +243,546 @@
           "path": "2924-find-champion-ii/2924-find-champion-ii.cpp",
           "sha": "af1f7be24ecb15881db64b57654682f68619b8d1",
           "lastSyncedAt": "2026-08-18T10:35:21.205Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "207",
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "problemName": "0207-course-schedule",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
+      "folderPath": "0207-course-schedule/",
+      "readmePath": "0207-course-schedule/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0207-course-schedule.cpp",
+          "path": "0207-course-schedule/0207-course-schedule.cpp",
+          "sha": "cec89f130d58eda9e862592ba63dd6f849565153",
+          "lastSyncedAt": "2026-08-18T11:24:08.584Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "problemName": "0210-course-schedule-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+      "folderPath": "0210-course-schedule-ii/",
+      "readmePath": "0210-course-schedule-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0210-course-schedule-ii.cpp",
+          "path": "0210-course-schedule-ii/0210-course-schedule-ii.cpp",
+          "sha": "84de63bd74f914ebafba1de8df57081ac05276c2",
+          "lastSyncedAt": "2026-08-18T11:24:08.607Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "399",
+      "title": "Evaluate Division",
+      "slug": "evaluate-division",
+      "problemName": "0399-evaluate-division",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-division/",
+      "folderPath": "0399-evaluate-division/",
+      "readmePath": "0399-evaluate-division/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0399-evaluate-division.cpp",
+          "path": "0399-evaluate-division/0399-evaluate-division.cpp",
+          "sha": "ed5929f7f76fc9e2c0a81ab4bf9baa8a58fc030d",
+          "lastSyncedAt": "2026-08-18T11:24:09.070Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "547",
+      "title": "Number of Provinces",
+      "slug": "number-of-provinces",
+      "problemName": "0547-number-of-provinces",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+      "folderPath": "0547-number-of-provinces/",
+      "readmePath": "0547-number-of-provinces/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0547-number-of-provinces.cpp",
+          "path": "0547-number-of-provinces/0547-number-of-provinces.cpp",
+          "sha": "8b2f263ad21e01c7b3f90c0a4a82fa1be76b9306",
+          "lastSyncedAt": "2026-08-18T11:24:09.369Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "problemName": "0743-network-delay-time",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+      "folderPath": "0743-network-delay-time/",
+      "readmePath": "0743-network-delay-time/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0743-network-delay-time.cpp",
+          "path": "0743-network-delay-time/0743-network-delay-time.cpp",
+          "sha": "9dd203d37e744fdc89c8ad539cb50683e08a3c30",
+          "lastSyncedAt": "2026-08-18T11:24:09.626Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "785",
+      "title": "Is Graph Bipartite?",
+      "slug": "is-graph-bipartite",
+      "problemName": "0785-is-graph-bipartite",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/is-graph-bipartite/",
+      "folderPath": "0785-is-graph-bipartite/",
+      "readmePath": "0785-is-graph-bipartite/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0785-is-graph-bipartite.cpp",
+          "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.cpp",
+          "sha": "0962903a5a091ff58ae34cd352b175cc13e1bbc5",
+          "lastSyncedAt": "2026-08-18T11:24:09.661Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "787",
+      "title": "Cheapest Flights Within K Stops",
+      "slug": "cheapest-flights-within-k-stops",
+      "problemName": "0787-cheapest-flights-within-k-stops",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+      "folderPath": "0787-cheapest-flights-within-k-stops/",
+      "readmePath": "0787-cheapest-flights-within-k-stops/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0787-cheapest-flights-within-k-stops.cpp",
+          "path": "0787-cheapest-flights-within-k-stops/0787-cheapest-flights-within-k-stops.cpp",
+          "sha": "73f46633b6f1a216edae74b607e47742eacdde3c",
+          "lastSyncedAt": "2026-08-18T11:24:09.673Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "802",
+      "title": "Find Eventual Safe States",
+      "slug": "find-eventual-safe-states",
+      "problemName": "0802-find-eventual-safe-states",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-eventual-safe-states/",
+      "folderPath": "0802-find-eventual-safe-states/",
+      "readmePath": "0802-find-eventual-safe-states/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0802-find-eventual-safe-states.cpp",
+          "path": "0802-find-eventual-safe-states/0802-find-eventual-safe-states.cpp",
+          "sha": "841712a12ff5750e70f7eef0808a38f7a6c7bde0",
+          "lastSyncedAt": "2026-08-18T11:24:09.720Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "841",
+      "title": "Keys and Rooms",
+      "slug": "keys-and-rooms",
+      "problemName": "0841-keys-and-rooms",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/keys-and-rooms/",
+      "folderPath": "0841-keys-and-rooms/",
+      "readmePath": "0841-keys-and-rooms/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0841-keys-and-rooms.cpp",
+          "path": "0841-keys-and-rooms/0841-keys-and-rooms.cpp",
+          "sha": "f3944ceffdc6780040ca3211201f85bb735d4122",
+          "lastSyncedAt": "2026-08-18T11:24:09.743Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "947",
+      "title": "Most Stones Removed with Same Row or Column",
+      "slug": "most-stones-removed-with-same-row-or-column",
+      "problemName": "0947-most-stones-removed-with-same-row-or-column",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+      "folderPath": "0947-most-stones-removed-with-same-row-or-column/",
+      "readmePath": "0947-most-stones-removed-with-same-row-or-column/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0947-most-stones-removed-with-same-row-or-column.cpp",
+          "path": "0947-most-stones-removed-with-same-row-or-column/0947-most-stones-removed-with-same-row-or-column.cpp",
+          "sha": "704d1e92621fe6010b2b614088b21088c0c66bf9",
+          "lastSyncedAt": "2026-08-18T11:24:09.973Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1298",
+      "title": "Maximum Candies You Can Get from Boxes",
+      "slug": "maximum-candies-you-can-get-from-boxes",
+      "problemName": "1298-maximum-candies-you-can-get-from-boxes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/",
+      "folderPath": "1298-maximum-candies-you-can-get-from-boxes/",
+      "readmePath": "1298-maximum-candies-you-can-get-from-boxes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1298-maximum-candies-you-can-get-from-boxes.cpp",
+          "path": "1298-maximum-candies-you-can-get-from-boxes/1298-maximum-candies-you-can-get-from-boxes.cpp",
+          "sha": "3b3a6f44de16ae0071e1fee7f2bdcfd781caf432",
+          "lastSyncedAt": "2026-08-18T11:24:10.315Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1311",
+      "title": "Get Watched Videos by Your Friends",
+      "slug": "get-watched-videos-by-your-friends",
+      "problemName": "1311-get-watched-videos-by-your-friends",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/get-watched-videos-by-your-friends/",
+      "folderPath": "1311-get-watched-videos-by-your-friends/",
+      "readmePath": "1311-get-watched-videos-by-your-friends/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1311-get-watched-videos-by-your-friends.cpp",
+          "path": "1311-get-watched-videos-by-your-friends/1311-get-watched-videos-by-your-friends.cpp",
+          "sha": "e7f253cd4ec3a3a902c101b71eb1f3fadacd8df7",
+          "lastSyncedAt": "2026-08-18T11:24:10.339Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1319",
+      "title": "Number of Operations to Make Network Connected",
+      "slug": "number-of-operations-to-make-network-connected",
+      "problemName": "1319-number-of-operations-to-make-network-connected",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+      "folderPath": "1319-number-of-operations-to-make-network-connected/",
+      "readmePath": "1319-number-of-operations-to-make-network-connected/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1319-number-of-operations-to-make-network-connected.cpp",
+          "path": "1319-number-of-operations-to-make-network-connected/1319-number-of-operations-to-make-network-connected.cpp",
+          "sha": "e5a7b551e7ed3c41e321140b39c4d094f16a8b2e",
+          "lastSyncedAt": "2026-08-18T11:24:10.351Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1334",
+      "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+      "slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+      "problemName": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+      "folderPath": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+      "readmePath": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.cpp",
+          "path": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.cpp",
+          "sha": "594cb42f5c7f77e2fc00f1660ce8f04b598cd508",
+          "lastSyncedAt": "2026-08-18T11:24:10.375Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1857",
+      "title": "Largest Color Value in a Directed Graph",
+      "slug": "largest-color-value-in-a-directed-graph",
+      "problemName": "1857-largest-color-value-in-a-directed-graph",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph/",
+      "folderPath": "1857-largest-color-value-in-a-directed-graph/",
+      "readmePath": "1857-largest-color-value-in-a-directed-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1857-largest-color-value-in-a-directed-graph.cpp",
+          "path": "1857-largest-color-value-in-a-directed-graph/1857-largest-color-value-in-a-directed-graph.cpp",
+          "sha": "1896e34ee9aaf3375fdc5dac14a43c8cc02f5ead",
+          "lastSyncedAt": "2026-08-18T11:24:10.696Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1971",
+      "title": "Find if Path Exists in Graph",
+      "slug": "find-if-path-exists-in-graph",
+      "problemName": "1971-find-if-path-exists-in-graph",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+      "folderPath": "1971-find-if-path-exists-in-graph/",
+      "readmePath": "1971-find-if-path-exists-in-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1971-find-if-path-exists-in-graph.cpp",
+          "path": "1971-find-if-path-exists-in-graph/1971-find-if-path-exists-in-graph.cpp",
+          "sha": "758c8fa6c548877af345014d8f27e876955e5e3c",
+          "lastSyncedAt": "2026-08-18T11:24:10.781Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1976",
+      "title": "Number of Ways to Arrive at Destination",
+      "slug": "number-of-ways-to-arrive-at-destination",
+      "problemName": "1976-number-of-ways-to-arrive-at-destination",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
+      "folderPath": "1976-number-of-ways-to-arrive-at-destination/",
+      "readmePath": "1976-number-of-ways-to-arrive-at-destination/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1976-number-of-ways-to-arrive-at-destination.cpp",
+          "path": "1976-number-of-ways-to-arrive-at-destination/1976-number-of-ways-to-arrive-at-destination.cpp",
+          "sha": "d21c4b094f97b726dd63d79afa226735f17b06c8",
+          "lastSyncedAt": "2026-08-18T11:24:10.793Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2050",
+      "title": "Parallel Courses III",
+      "slug": "parallel-courses-iii",
+      "problemName": "2050-parallel-courses-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/parallel-courses-iii/",
+      "folderPath": "2050-parallel-courses-iii/",
+      "readmePath": "2050-parallel-courses-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2050-parallel-courses-iii.cpp",
+          "path": "2050-parallel-courses-iii/2050-parallel-courses-iii.cpp",
+          "sha": "9d156cff6fee94700babd6fe66c2ed0f07eb73ce",
+          "lastSyncedAt": "2026-08-18T11:24:10.891Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2359",
+      "title": "Find Closest Node to Given Two Nodes",
+      "slug": "find-closest-node-to-given-two-nodes",
+      "problemName": "2359-find-closest-node-to-given-two-nodes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes/",
+      "folderPath": "2359-find-closest-node-to-given-two-nodes/",
+      "readmePath": "2359-find-closest-node-to-given-two-nodes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2359-find-closest-node-to-given-two-nodes.cpp",
+          "path": "2359-find-closest-node-to-given-two-nodes/2359-find-closest-node-to-given-two-nodes.cpp",
+          "sha": "1bbe9a1b03e3386406ad6a50f3c625d18194629f",
+          "lastSyncedAt": "2026-08-18T11:24:11.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2492",
+      "title": "Minimum Score of a Path Between Two Cities",
+      "slug": "minimum-score-of-a-path-between-two-cities",
+      "problemName": "2492-minimum-score-of-a-path-between-two-cities",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/",
+      "folderPath": "2492-minimum-score-of-a-path-between-two-cities/",
+      "readmePath": "2492-minimum-score-of-a-path-between-two-cities/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2492-minimum-score-of-a-path-between-two-cities.cpp",
+          "path": "2492-minimum-score-of-a-path-between-two-cities/2492-minimum-score-of-a-path-between-two-cities.cpp",
+          "sha": "57b3a526f29563712b780020c9e244f749d911ed",
+          "lastSyncedAt": "2026-08-18T11:24:11.156Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2685",
+      "title": "Count the Number of Complete Components",
+      "slug": "count-the-number-of-complete-components",
+      "problemName": "2685-count-the-number-of-complete-components",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-complete-components/",
+      "folderPath": "2685-count-the-number-of-complete-components/",
+      "readmePath": "2685-count-the-number-of-complete-components/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2685-count-the-number-of-complete-components.cpp",
+          "path": "2685-count-the-number-of-complete-components/2685-count-the-number-of-complete-components.cpp",
+          "sha": "2d3bef8e7400f67a5d800be057918f4fc84a528d",
+          "lastSyncedAt": "2026-08-18T11:24:11.229Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3286",
+      "title": "Find a Safe Walk Through a Grid",
+      "slug": "find-a-safe-walk-through-a-grid",
+      "problemName": "3286-find-a-safe-walk-through-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/",
+      "folderPath": "3286-find-a-safe-walk-through-a-grid/",
+      "readmePath": "3286-find-a-safe-walk-through-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3286-find-a-safe-walk-through-a-grid.cpp",
+          "path": "3286-find-a-safe-walk-through-a-grid/3286-find-a-safe-walk-through-a-grid.cpp",
+          "sha": "34b73c37711ba5e3cbb9f68e8a45cddebb39125d",
+          "lastSyncedAt": "2026-08-18T11:24:11.501Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3310",
+      "title": "Remove Methods From Project",
+      "slug": "remove-methods-from-project",
+      "problemName": "3310-remove-methods-from-project",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-methods-from-project/",
+      "folderPath": "3310-remove-methods-from-project/",
+      "readmePath": "3310-remove-methods-from-project/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3310-remove-methods-from-project.cpp",
+          "path": "3310-remove-methods-from-project/3310-remove-methods-from-project.cpp",
+          "sha": "bd6ea0c7666281a35d2e03d19ec230d6f670b231",
+          "lastSyncedAt": "2026-08-18T11:24:11.525Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3341",
+      "title": "Find Minimum Time to Reach Last Room I",
+      "slug": "find-minimum-time-to-reach-last-room-i",
+      "problemName": "3341-find-minimum-time-to-reach-last-room-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/",
+      "folderPath": "3341-find-minimum-time-to-reach-last-room-i/",
+      "readmePath": "3341-find-minimum-time-to-reach-last-room-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3341-find-minimum-time-to-reach-last-room-i.cpp",
+          "path": "3341-find-minimum-time-to-reach-last-room-i/3341-find-minimum-time-to-reach-last-room-i.cpp",
+          "sha": "6a207eac592b5632edf77a2611a7acc8c4eba4a5",
+          "lastSyncedAt": "2026-08-18T11:24:11.584Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3532",
+      "title": "Path Existence Queries in a Graph I",
+      "slug": "path-existence-queries-in-a-graph-i",
+      "problemName": "3532-path-existence-queries-in-a-graph-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i/",
+      "folderPath": "3532-path-existence-queries-in-a-graph-i/",
+      "readmePath": "3532-path-existence-queries-in-a-graph-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3532-path-existence-queries-in-a-graph-i.cpp",
+          "path": "3532-path-existence-queries-in-a-graph-i/3532-path-existence-queries-in-a-graph-i.cpp",
+          "sha": "7a572815f454d4c150ad3f0bd8441f0a143bda7e",
+          "lastSyncedAt": "2026-08-18T11:24:11.852Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3534",
+      "title": "Path Existence Queries in a Graph II",
+      "slug": "path-existence-queries-in-a-graph-ii",
+      "problemName": "3534-path-existence-queries-in-a-graph-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/",
+      "folderPath": "3534-path-existence-queries-in-a-graph-ii/",
+      "readmePath": "3534-path-existence-queries-in-a-graph-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3534-path-existence-queries-in-a-graph-ii.cpp",
+          "path": "3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.cpp",
+          "sha": "3de889736b57356b3b8c5ba99953e138c0477cd5",
+          "lastSyncedAt": "2026-08-18T11:24:11.864Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3620",
+      "title": "Network Recovery Pathways",
+      "slug": "network-recovery-pathways",
+      "problemName": "3620-network-recovery-pathways",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/network-recovery-pathways/",
+      "folderPath": "3620-network-recovery-pathways/",
+      "readmePath": "3620-network-recovery-pathways/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3620-network-recovery-pathways.cpp",
+          "path": "3620-network-recovery-pathways/3620-network-recovery-pathways.cpp",
+          "sha": "fd414ffebf61b4e0e6941e56f8eda87ac9676d4d",
+          "lastSyncedAt": "2026-08-18T11:24:11.887Z"
         }
       ]
     }

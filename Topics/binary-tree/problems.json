@@ -4,6 +4,1127 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-08-17T15:10:31.733Z",
-  "problems": []
+  "updatedAt": "2026-08-18T11:24:11.971Z",
+  "problems": [
+    {
+      "frontendId": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "problemName": "0094-binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "folderPath": "0094-binary-tree-inorder-traversal/",
+      "readmePath": "0094-binary-tree-inorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0094-binary-tree-inorder-traversal.cpp",
+          "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.cpp",
+          "sha": "bcaa2857ae5da887a56d292d25776b3c6373feba",
+          "lastSyncedAt": "2026-08-18T11:24:07.938Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "problemName": "0098-validate-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "folderPath": "0098-validate-binary-search-tree/",
+      "readmePath": "0098-validate-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0098-validate-binary-search-tree.cpp",
+          "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.cpp",
+          "sha": "e597c4bec91ea20c7f69cbdc4b51143365f89e48",
+          "lastSyncedAt": "2026-08-18T11:24:07.950Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "99",
+      "title": "Recover Binary Search Tree",
+      "slug": "recover-binary-search-tree",
+      "problemName": "0099-recover-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
+      "folderPath": "0099-recover-binary-search-tree/",
+      "readmePath": "0099-recover-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0099-recover-binary-search-tree.cpp",
+          "path": "0099-recover-binary-search-tree/0099-recover-binary-search-tree.cpp",
+          "sha": "70f3a85eb9500e307f742bab7a2bb6374977483c",
+          "lastSyncedAt": "2026-08-18T11:24:07.960Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0100-same-tree.cpp",
+          "path": "0100-same-tree/0100-same-tree.cpp",
+          "sha": "de5358af2b3ab0555873774c36413f01e700f425",
+          "lastSyncedAt": "2026-08-18T11:24:07.972Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "problemName": "0101-symmetric-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+      "folderPath": "0101-symmetric-tree/",
+      "readmePath": "0101-symmetric-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0101-symmetric-tree.cpp",
+          "path": "0101-symmetric-tree/0101-symmetric-tree.cpp",
+          "sha": "00cc0dfc47ffe443712ebc4ec71c501b73ff0bc0",
+          "lastSyncedAt": "2026-08-18T11:24:07.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "problemName": "0102-binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "folderPath": "0102-binary-tree-level-order-traversal/",
+      "readmePath": "0102-binary-tree-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0102-binary-tree-level-order-traversal.cpp",
+          "path": "0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.cpp",
+          "sha": "9acf321db0d777ae796d43f1de18bf9c0ad8f1cb",
+          "lastSyncedAt": "2026-08-18T11:24:07.995Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "103",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "slug": "binary-tree-zigzag-level-order-traversal",
+      "problemName": "0103-binary-tree-zigzag-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+      "folderPath": "0103-binary-tree-zigzag-level-order-traversal/",
+      "readmePath": "0103-binary-tree-zigzag-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0103-binary-tree-zigzag-level-order-traversal.cpp",
+          "path": "0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.cpp",
+          "sha": "945e19b294ffee93ff883b1c50a9a09e38c0a151",
+          "lastSyncedAt": "2026-08-18T11:24:08.006Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "problemName": "0104-maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "folderPath": "0104-maximum-depth-of-binary-tree/",
+      "readmePath": "0104-maximum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0104-maximum-depth-of-binary-tree.cpp",
+          "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.cpp",
+          "sha": "a9e17c99b785773aa6333002d9809aed27af8a8f",
+          "lastSyncedAt": "2026-08-18T11:24:08.018Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "105",
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "problemName": "0105-construct-binary-tree-from-preorder-and-inorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "folderPath": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "readmePath": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
+          "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
+          "sha": "56912cb203d1f7ebf00bdb46aff98ae8cc23c426",
+          "lastSyncedAt": "2026-08-18T11:24:08.030Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "108",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "slug": "convert-sorted-array-to-binary-search-tree",
+      "problemName": "0108-convert-sorted-array-to-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+      "folderPath": "0108-convert-sorted-array-to-binary-search-tree/",
+      "readmePath": "0108-convert-sorted-array-to-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0108-convert-sorted-array-to-binary-search-tree.cpp",
+          "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.cpp",
+          "sha": "803e9bc651e8690f9857be58adeec39966fbd4f4",
+          "lastSyncedAt": "2026-08-18T11:24:08.042Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "problemName": "0110-balanced-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+      "folderPath": "0110-balanced-binary-tree/",
+      "readmePath": "0110-balanced-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0110-balanced-binary-tree.cpp",
+          "path": "0110-balanced-binary-tree/0110-balanced-binary-tree.cpp",
+          "sha": "83553e9748c12ad12c8415d4300256ec5be42ffe",
+          "lastSyncedAt": "2026-08-18T11:24:08.053Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "111",
+      "title": "Minimum Depth of Binary Tree",
+      "slug": "minimum-depth-of-binary-tree",
+      "problemName": "0111-minimum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+      "folderPath": "0111-minimum-depth-of-binary-tree/",
+      "readmePath": "0111-minimum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0111-minimum-depth-of-binary-tree.cpp",
+          "path": "0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.cpp",
+          "sha": "3f392a22dd840ffc72333a9a145496d12136d37f",
+          "lastSyncedAt": "2026-08-18T11:24:08.066Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "112",
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "problemName": "0112-path-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
+      "folderPath": "0112-path-sum/",
+      "readmePath": "0112-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0112-path-sum.cpp",
+          "path": "0112-path-sum/0112-path-sum.cpp",
+          "sha": "9d44c8df5997fa63a29dd5a3f1ff1b6939d41288",
+          "lastSyncedAt": "2026-08-18T11:24:08.077Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "114",
+      "title": "Flatten Binary Tree to Linked List",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "problemName": "0114-flatten-binary-tree-to-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+      "folderPath": "0114-flatten-binary-tree-to-linked-list/",
+      "readmePath": "0114-flatten-binary-tree-to-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0114-flatten-binary-tree-to-linked-list.cpp",
+          "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.cpp",
+          "sha": "ae0433bef679c543eb3c72b0db5bd8e8474b9b5a",
+          "lastSyncedAt": "2026-08-18T11:24:08.088Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "117",
+      "title": "Populating Next Right Pointers in Each Node II",
+      "slug": "populating-next-right-pointers-in-each-node-ii",
+      "problemName": "0117-populating-next-right-pointers-in-each-node-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/",
+      "folderPath": "0117-populating-next-right-pointers-in-each-node-ii/",
+      "readmePath": "0117-populating-next-right-pointers-in-each-node-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0117-populating-next-right-pointers-in-each-node-ii.cpp",
+          "path": "0117-populating-next-right-pointers-in-each-node-ii/0117-populating-next-right-pointers-in-each-node-ii.cpp",
+          "sha": "61ed06208cdceb05c4c509c73d8a720c077b2207",
+          "lastSyncedAt": "2026-08-18T11:24:08.101Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "124",
+      "title": "Binary Tree Maximum Path Sum",
+      "slug": "binary-tree-maximum-path-sum",
+      "problemName": "0124-binary-tree-maximum-path-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+      "folderPath": "0124-binary-tree-maximum-path-sum/",
+      "readmePath": "0124-binary-tree-maximum-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0124-binary-tree-maximum-path-sum.cpp",
+          "path": "0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.cpp",
+          "sha": "72c844fce8faf034a3015f497b423e2c4d270f03",
+          "lastSyncedAt": "2026-08-18T11:24:08.147Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "129",
+      "title": "Sum Root to Leaf Numbers",
+      "slug": "sum-root-to-leaf-numbers",
+      "problemName": "0129-sum-root-to-leaf-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-root-to-leaf-numbers/",
+      "folderPath": "0129-sum-root-to-leaf-numbers/",
+      "readmePath": "0129-sum-root-to-leaf-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0129-sum-root-to-leaf-numbers.cpp",
+          "path": "0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.cpp",
+          "sha": "876f478d32786902212923315826d94591ca379e",
+          "lastSyncedAt": "2026-08-18T11:24:08.181Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "144",
+      "title": "Binary Tree Preorder Traversal",
+      "slug": "binary-tree-preorder-traversal",
+      "problemName": "0144-binary-tree-preorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+      "folderPath": "0144-binary-tree-preorder-traversal/",
+      "readmePath": "0144-binary-tree-preorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0144-binary-tree-preorder-traversal.cpp",
+          "path": "0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.cpp",
+          "sha": "ec40f3d69765bcca90a59cd486b208d892d23a38",
+          "lastSyncedAt": "2026-08-18T11:24:08.298Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "145",
+      "title": "Binary Tree Postorder Traversal",
+      "slug": "binary-tree-postorder-traversal",
+      "problemName": "0145-binary-tree-postorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+      "folderPath": "0145-binary-tree-postorder-traversal/",
+      "readmePath": "0145-binary-tree-postorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0145-binary-tree-postorder-traversal.cpp",
+          "path": "0145-binary-tree-postorder-traversal/0145-binary-tree-postorder-traversal.cpp",
+          "sha": "b37f7c85f09a6db354c551e388110e7386612a8a",
+          "lastSyncedAt": "2026-08-18T11:24:08.309Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "173",
+      "title": "Binary Search Tree Iterator",
+      "slug": "binary-search-tree-iterator",
+      "problemName": "0173-binary-search-tree-iterator",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-iterator/",
+      "folderPath": "0173-binary-search-tree-iterator/",
+      "readmePath": "0173-binary-search-tree-iterator/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0173-binary-search-tree-iterator.cpp",
+          "path": "0173-binary-search-tree-iterator/0173-binary-search-tree-iterator.cpp",
+          "sha": "cf472e2a2b817a6225da84a3c235c3ed5d7ab724",
+          "lastSyncedAt": "2026-08-18T11:24:08.448Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "199",
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "problemName": "0199-binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "folderPath": "0199-binary-tree-right-side-view/",
+      "readmePath": "0199-binary-tree-right-side-view/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0199-binary-tree-right-side-view.cpp",
+          "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.cpp",
+          "sha": "df19644c0c525a1681c3d74d5647eb570336cc32",
+          "lastSyncedAt": "2026-08-18T11:24:08.494Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "222",
+      "title": "Count Complete Tree Nodes",
+      "slug": "count-complete-tree-nodes",
+      "problemName": "0222-count-complete-tree-nodes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-complete-tree-nodes/",
+      "folderPath": "0222-count-complete-tree-nodes/",
+      "readmePath": "0222-count-complete-tree-nodes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0222-count-complete-tree-nodes.cpp",
+          "path": "0222-count-complete-tree-nodes/0222-count-complete-tree-nodes.cpp",
+          "sha": "73bcd179caae2cd76a96933e4552b39b6e85265a",
+          "lastSyncedAt": "2026-08-18T11:24:08.663Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "226",
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "problemName": "0226-invert-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+      "folderPath": "0226-invert-binary-tree/",
+      "readmePath": "0226-invert-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0226-invert-binary-tree.cpp",
+          "path": "0226-invert-binary-tree/0226-invert-binary-tree.cpp",
+          "sha": "2ade06706161ffd72a3479b24d60e65fe7dd97cc",
+          "lastSyncedAt": "2026-08-18T11:24:08.698Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "230",
+      "title": "Kth Smallest Element in a BST",
+      "slug": "kth-smallest-element-in-a-bst",
+      "problemName": "0230-kth-smallest-element-in-a-bst",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+      "folderPath": "0230-kth-smallest-element-in-a-bst/",
+      "readmePath": "0230-kth-smallest-element-in-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0230-kth-smallest-element-in-a-bst.cpp",
+          "path": "0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.cpp",
+          "sha": "31bc1b7731f0fbb17b6ac3b792eb17872a3d0cc5",
+          "lastSyncedAt": "2026-08-18T11:24:08.733Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "235",
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+      "problemName": "0235-lowest-common-ancestor-of-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+      "folderPath": "0235-lowest-common-ancestor-of-a-binary-search-tree/",
+      "readmePath": "0235-lowest-common-ancestor-of-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0235-lowest-common-ancestor-of-a-binary-search-tree.cpp",
+          "path": "0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.cpp",
+          "sha": "e6ba7d663a1c62020c91f29a1e6b6dc60d70a61f",
+          "lastSyncedAt": "2026-08-18T11:24:08.779Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "236",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-tree",
+      "problemName": "0236-lowest-common-ancestor-of-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+      "folderPath": "0236-lowest-common-ancestor-of-a-binary-tree/",
+      "readmePath": "0236-lowest-common-ancestor-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0236-lowest-common-ancestor-of-a-binary-tree.cpp",
+          "path": "0236-lowest-common-ancestor-of-a-binary-tree/0236-lowest-common-ancestor-of-a-binary-tree.cpp",
+          "sha": "e40e935f12b289f298b904b529e68e21510f96e7",
+          "lastSyncedAt": "2026-08-18T11:24:08.792Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "257",
+      "title": "Binary Tree Paths",
+      "slug": "binary-tree-paths",
+      "problemName": "0257-binary-tree-paths",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+      "folderPath": "0257-binary-tree-paths/",
+      "readmePath": "0257-binary-tree-paths/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0257-binary-tree-paths.cpp",
+          "path": "0257-binary-tree-paths/0257-binary-tree-paths.cpp",
+          "sha": "b7aef520bebfa3cd19f4ac44aec3088885107bc4",
+          "lastSyncedAt": "2026-08-18T11:24:08.863Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "404",
+      "title": "Sum of Left Leaves",
+      "slug": "sum-of-left-leaves",
+      "problemName": "0404-sum-of-left-leaves",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-left-leaves/",
+      "folderPath": "0404-sum-of-left-leaves/",
+      "readmePath": "0404-sum-of-left-leaves/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0404-sum-of-left-leaves.cpp",
+          "path": "0404-sum-of-left-leaves/0404-sum-of-left-leaves.cpp",
+          "sha": "d54eddb01ca4621ca1637ef34a1e6bcc1d5e0b28",
+          "lastSyncedAt": "2026-08-18T11:24:09.093Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "450",
+      "title": "Delete Node in a BST",
+      "slug": "delete-node-in-a-bst",
+      "problemName": "0450-delete-node-in-a-bst",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-bst/",
+      "folderPath": "0450-delete-node-in-a-bst/",
+      "readmePath": "0450-delete-node-in-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0450-delete-node-in-a-bst.cpp",
+          "path": "0450-delete-node-in-a-bst/0450-delete-node-in-a-bst.cpp",
+          "sha": "be6574150eda68dd423a2d475c9b416e738af6ac",
+          "lastSyncedAt": "2026-08-18T11:24:09.174Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "501",
+      "title": "Find Mode in Binary Search Tree",
+      "slug": "find-mode-in-binary-search-tree",
+      "problemName": "0501-find-mode-in-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-mode-in-binary-search-tree/",
+      "folderPath": "0501-find-mode-in-binary-search-tree/",
+      "readmePath": "0501-find-mode-in-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0501-find-mode-in-binary-search-tree.cpp",
+          "path": "0501-find-mode-in-binary-search-tree/0501-find-mode-in-binary-search-tree.cpp",
+          "sha": "3c786d86d8efe519453455eb822352afd3ff9223",
+          "lastSyncedAt": "2026-08-18T11:24:09.264Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "530",
+      "title": "Minimum Absolute Difference in BST",
+      "slug": "minimum-absolute-difference-in-bst",
+      "problemName": "0530-minimum-absolute-difference-in-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
+      "folderPath": "0530-minimum-absolute-difference-in-bst/",
+      "readmePath": "0530-minimum-absolute-difference-in-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0530-minimum-absolute-difference-in-bst.cpp",
+          "path": "0530-minimum-absolute-difference-in-bst/0530-minimum-absolute-difference-in-bst.cpp",
+          "sha": "a9de63a1ef52e2e0e308b98ea1294c659e2b0c13",
+          "lastSyncedAt": "2026-08-18T11:24:09.323Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "543",
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "problemName": "0543-diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "folderPath": "0543-diameter-of-binary-tree/",
+      "readmePath": "0543-diameter-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0543-diameter-of-binary-tree.cpp",
+          "path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.cpp",
+          "sha": "be484d0e22a90022831ac6a22a78a150eeb62b94",
+          "lastSyncedAt": "2026-08-18T11:24:09.358Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "563",
+      "title": "Binary Tree Tilt",
+      "slug": "binary-tree-tilt",
+      "problemName": "0563-binary-tree-tilt",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-tilt/",
+      "folderPath": "0563-binary-tree-tilt/",
+      "readmePath": "0563-binary-tree-tilt/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0563-binary-tree-tilt.cpp",
+          "path": "0563-binary-tree-tilt/0563-binary-tree-tilt.cpp",
+          "sha": "4598abcc0422583bd43fc86415c40fbb6a309a1b",
+          "lastSyncedAt": "2026-08-18T11:24:09.391Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "572",
+      "title": "Subtree of Another Tree",
+      "slug": "subtree-of-another-tree",
+      "problemName": "0572-subtree-of-another-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+      "folderPath": "0572-subtree-of-another-tree/",
+      "readmePath": "0572-subtree-of-another-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0572-subtree-of-another-tree.cpp",
+          "path": "0572-subtree-of-another-tree/0572-subtree-of-another-tree.cpp",
+          "sha": "71c6e9a2de6fb816be97b58ae35428482243bc99",
+          "lastSyncedAt": "2026-08-18T11:24:09.404Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "617",
+      "title": "Merge Two Binary Trees",
+      "slug": "merge-two-binary-trees",
+      "problemName": "0617-merge-two-binary-trees",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-binary-trees/",
+      "folderPath": "0617-merge-two-binary-trees/",
+      "readmePath": "0617-merge-two-binary-trees/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0617-merge-two-binary-trees.cpp",
+          "path": "0617-merge-two-binary-trees/0617-merge-two-binary-trees.cpp",
+          "sha": "567a97b8a1c2f4acb3fafb8c3d6cf6c8046f12a0",
+          "lastSyncedAt": "2026-08-18T11:24:09.439Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "637",
+      "title": "Average of Levels in Binary Tree",
+      "slug": "average-of-levels-in-binary-tree",
+      "problemName": "0637-average-of-levels-in-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/average-of-levels-in-binary-tree/",
+      "folderPath": "0637-average-of-levels-in-binary-tree/",
+      "readmePath": "0637-average-of-levels-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0637-average-of-levels-in-binary-tree.cpp",
+          "path": "0637-average-of-levels-in-binary-tree/0637-average-of-levels-in-binary-tree.cpp",
+          "sha": "95af86120508d3f02e5400ff12a52b977bb7ac05",
+          "lastSyncedAt": "2026-08-18T11:24:09.474Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "653",
+      "title": "Two Sum IV - Input is a BST",
+      "slug": "two-sum-iv-input-is-a-bst",
+      "problemName": "0653-two-sum-iv-input-is-a-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+      "folderPath": "0653-two-sum-iv-input-is-a-bst/",
+      "readmePath": "0653-two-sum-iv-input-is-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0653-two-sum-iv-input-is-a-bst.cpp",
+          "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.cpp",
+          "sha": "c910157efd796d82426e353529c7d648220ab0cb",
+          "lastSyncedAt": "2026-08-18T11:24:09.486Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "662",
+      "title": "Maximum Width of Binary Tree",
+      "slug": "maximum-width-of-binary-tree",
+      "problemName": "0662-maximum-width-of-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+      "folderPath": "0662-maximum-width-of-binary-tree/",
+      "readmePath": "0662-maximum-width-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0662-maximum-width-of-binary-tree.cpp",
+          "path": "0662-maximum-width-of-binary-tree/0662-maximum-width-of-binary-tree.cpp",
+          "sha": "b74f8d3d57816fe5a057ae12b2c82967213b9df7",
+          "lastSyncedAt": "2026-08-18T11:24:09.499Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "671",
+      "title": "Second Minimum Node In a Binary Tree",
+      "slug": "second-minimum-node-in-a-binary-tree",
+      "problemName": "0671-second-minimum-node-in-a-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/",
+      "folderPath": "0671-second-minimum-node-in-a-binary-tree/",
+      "readmePath": "0671-second-minimum-node-in-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0671-second-minimum-node-in-a-binary-tree.cpp",
+          "path": "0671-second-minimum-node-in-a-binary-tree/0671-second-minimum-node-in-a-binary-tree.cpp",
+          "sha": "0ee34336a40fb8ee492d69799b994f53dd2a7328",
+          "lastSyncedAt": "2026-08-18T11:24:09.510Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "700",
+      "title": "Search in a Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "problemName": "0700-search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+      "folderPath": "0700-search-in-a-binary-search-tree/",
+      "readmePath": "0700-search-in-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0700-search-in-a-binary-search-tree.cpp",
+          "path": "0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.cpp",
+          "sha": "581d54352a3b00c6e16a88144e4c9a3597c5416a",
+          "lastSyncedAt": "2026-08-18T11:24:09.546Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "701",
+      "title": "Insert into a Binary Search Tree",
+      "slug": "insert-into-a-binary-search-tree",
+      "problemName": "0701-insert-into-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+      "folderPath": "0701-insert-into-a-binary-search-tree/",
+      "readmePath": "0701-insert-into-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0701-insert-into-a-binary-search-tree.cpp",
+          "path": "0701-insert-into-a-binary-search-tree/0701-insert-into-a-binary-search-tree.cpp",
+          "sha": "addf768b6fc1fdc2413e13843cb8db1b9f644d51",
+          "lastSyncedAt": "2026-08-18T11:24:09.558Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "703",
+      "title": "Kth Largest Element in a Stream",
+      "slug": "kth-largest-element-in-a-stream",
+      "problemName": "0703-kth-largest-element-in-a-stream",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+      "folderPath": "0703-kth-largest-element-in-a-stream/",
+      "readmePath": "0703-kth-largest-element-in-a-stream/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0703-kth-largest-element-in-a-stream.cpp",
+          "path": "0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.cpp",
+          "sha": "dea3871548bcae2e02a70b3a7d712cd448594ca6",
+          "lastSyncedAt": "2026-08-18T11:24:09.569Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "783",
+      "title": "Minimum Distance Between BST Nodes",
+      "slug": "minimum-distance-between-bst-nodes",
+      "problemName": "0783-minimum-distance-between-bst-nodes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/",
+      "folderPath": "0783-minimum-distance-between-bst-nodes/",
+      "readmePath": "0783-minimum-distance-between-bst-nodes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0783-minimum-distance-between-bst-nodes.cpp",
+          "path": "0783-minimum-distance-between-bst-nodes/0783-minimum-distance-between-bst-nodes.cpp",
+          "sha": "f2765995fe7828c8fc4af07e07aa01a070d06229",
+          "lastSyncedAt": "2026-08-18T11:24:09.650Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "863",
+      "title": "All Nodes Distance K in Binary Tree",
+      "slug": "all-nodes-distance-k-in-binary-tree",
+      "problemName": "0863-all-nodes-distance-k-in-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+      "folderPath": "0863-all-nodes-distance-k-in-binary-tree/",
+      "readmePath": "0863-all-nodes-distance-k-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0863-all-nodes-distance-k-in-binary-tree.cpp",
+          "path": "0863-all-nodes-distance-k-in-binary-tree/0863-all-nodes-distance-k-in-binary-tree.cpp",
+          "sha": "daef271bb4a81cc65fb2d4d36bcded00b42365c8",
+          "lastSyncedAt": "2026-08-18T11:24:09.789Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "872",
+      "title": "Leaf-Similar Trees",
+      "slug": "leaf-similar-trees",
+      "problemName": "0872-leaf-similar-trees",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/leaf-similar-trees/",
+      "folderPath": "0872-leaf-similar-trees/",
+      "readmePath": "0872-leaf-similar-trees/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0872-leaf-similar-trees.cpp",
+          "path": "0872-leaf-similar-trees/0872-leaf-similar-trees.cpp",
+          "sha": "d13f597b3d01061fe412a9c24c73b604e97a134b",
+          "lastSyncedAt": "2026-08-18T11:24:09.812Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "897",
+      "title": "Increasing Order Search Tree",
+      "slug": "increasing-order-search-tree",
+      "problemName": "0897-increasing-order-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/increasing-order-search-tree/",
+      "folderPath": "0897-increasing-order-search-tree/",
+      "readmePath": "0897-increasing-order-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0897-increasing-order-search-tree.cpp",
+          "path": "0897-increasing-order-search-tree/0897-increasing-order-search-tree.cpp",
+          "sha": "794c21f8c3d15356570710ace30586b800c7957a",
+          "lastSyncedAt": "2026-08-18T11:24:09.857Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "938",
+      "title": "Range Sum of BST",
+      "slug": "range-sum-of-bst",
+      "problemName": "0938-range-sum-of-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-of-bst/",
+      "folderPath": "0938-range-sum-of-bst/",
+      "readmePath": "0938-range-sum-of-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0938-range-sum-of-bst.cpp",
+          "path": "0938-range-sum-of-bst/0938-range-sum-of-bst.cpp",
+          "sha": "4fb2167736df9547a4320a80282bae6daa7f8b83",
+          "lastSyncedAt": "2026-08-18T11:24:09.951Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "965",
+      "title": "Univalued Binary Tree",
+      "slug": "univalued-binary-tree",
+      "problemName": "0965-univalued-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/univalued-binary-tree/",
+      "folderPath": "0965-univalued-binary-tree/",
+      "readmePath": "0965-univalued-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0965-univalued-binary-tree.cpp",
+          "path": "0965-univalued-binary-tree/0965-univalued-binary-tree.cpp",
+          "sha": "346a40f23b1f62ab7507c2d806158f91dc2ef35e",
+          "lastSyncedAt": "2026-08-18T11:24:09.985Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "987",
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "slug": "vertical-order-traversal-of-a-binary-tree",
+      "problemName": "0987-vertical-order-traversal-of-a-binary-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+      "folderPath": "0987-vertical-order-traversal-of-a-binary-tree/",
+      "readmePath": "0987-vertical-order-traversal-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0987-vertical-order-traversal-of-a-binary-tree.cpp",
+          "path": "0987-vertical-order-traversal-of-a-binary-tree/0987-vertical-order-traversal-of-a-binary-tree.cpp",
+          "sha": "39b7e089031fdcac18982e706e9bdac8af8f8d98",
+          "lastSyncedAt": "2026-08-18T11:24:09.998Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "993",
+      "title": "Cousins in Binary Tree",
+      "slug": "cousins-in-binary-tree",
+      "problemName": "0993-cousins-in-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/cousins-in-binary-tree/",
+      "folderPath": "0993-cousins-in-binary-tree/",
+      "readmePath": "0993-cousins-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0993-cousins-in-binary-tree.cpp",
+          "path": "0993-cousins-in-binary-tree/0993-cousins-in-binary-tree.cpp",
+          "sha": "0251816616ca8d603cf186d26ef0ecf5bd2377e2",
+          "lastSyncedAt": "2026-08-18T11:24:10.021Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1008",
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "slug": "construct-binary-search-tree-from-preorder-traversal",
+      "problemName": "1008-construct-binary-search-tree-from-preorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+      "folderPath": "1008-construct-binary-search-tree-from-preorder-traversal/",
+      "readmePath": "1008-construct-binary-search-tree-from-preorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1008-construct-binary-search-tree-from-preorder-traversal.cpp",
+          "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.cpp",
+          "sha": "19e1e655f32287f1af900082ace9a35509016b26",
+          "lastSyncedAt": "2026-08-18T11:24:10.089Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1022",
+      "title": "Sum of Root To Leaf Binary Numbers",
+      "slug": "sum-of-root-to-leaf-binary-numbers",
+      "problemName": "1022-sum-of-root-to-leaf-binary-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/",
+      "folderPath": "1022-sum-of-root-to-leaf-binary-numbers/",
+      "readmePath": "1022-sum-of-root-to-leaf-binary-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1022-sum-of-root-to-leaf-binary-numbers.cpp",
+          "path": "1022-sum-of-root-to-leaf-binary-numbers/1022-sum-of-root-to-leaf-binary-numbers.cpp",
+          "sha": "8c22fc4c46a6900f8410a686414f8941f35a75c8",
+          "lastSyncedAt": "2026-08-18T11:24:10.135Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1379",
+      "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+      "slug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+      "problemName": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/",
+      "folderPath": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/",
+      "readmePath": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.cpp",
+          "path": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.cpp",
+          "sha": "ba18849d7a752ee3a155469aca3f789421c715c5",
+          "lastSyncedAt": "2026-08-18T11:24:10.425Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2049",
+      "title": "Count Nodes With the Highest Score",
+      "slug": "count-nodes-with-the-highest-score",
+      "problemName": "2049-count-nodes-with-the-highest-score",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-nodes-with-the-highest-score/",
+      "folderPath": "2049-count-nodes-with-the-highest-score/",
+      "readmePath": "2049-count-nodes-with-the-highest-score/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2049-count-nodes-with-the-highest-score.cpp",
+          "path": "2049-count-nodes-with-the-highest-score/2049-count-nodes-with-the-highest-score.cpp",
+          "sha": "d804cf17b35a2f347b1ae1b13cb357ad32c35cb9",
+          "lastSyncedAt": "2026-08-18T11:24:10.879Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2236",
+      "title": "Root Equals Sum of Children",
+      "slug": "root-equals-sum-of-children",
+      "problemName": "2236-root-equals-sum-of-children",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/root-equals-sum-of-children/",
+      "folderPath": "2236-root-equals-sum-of-children/",
+      "readmePath": "2236-root-equals-sum-of-children/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2236-root-equals-sum-of-children.cpp",
+          "path": "2236-root-equals-sum-of-children/2236-root-equals-sum-of-children.cpp",
+          "sha": "1b9200fc979e8963e127c94ad3b8bdda2b5d1b7d",
+          "lastSyncedAt": "2026-08-18T11:24:11.048Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2331",
+      "title": "Evaluate Boolean Binary Tree",
+      "slug": "evaluate-boolean-binary-tree",
+      "problemName": "2331-evaluate-boolean-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-boolean-binary-tree/",
+      "folderPath": "2331-evaluate-boolean-binary-tree/",
+      "readmePath": "2331-evaluate-boolean-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2331-evaluate-boolean-binary-tree.cpp",
+          "path": "2331-evaluate-boolean-binary-tree/2331-evaluate-boolean-binary-tree.cpp",
+          "sha": "416ad764d03f4263d8fcc3edda446df43f5c59c2",
+          "lastSyncedAt": "2026-08-18T11:24:11.085Z"
+        }
+      ]
+    }
+  ]
 }

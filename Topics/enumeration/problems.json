@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-08-18T10:36:04.286Z",
+  "updatedAt": "2026-08-18T11:24:11.972Z",
   "problems": [
     {
       "frontendId": "1761",
@@ -23,6 +23,186 @@
           "path": "1761-minimum-degree-of-a-connected-trio-in-a-graph/1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp",
           "sha": "fafd6ce7b5f7e968bb20238f67c973d2bb93f98d",
           "lastSyncedAt": "2026-08-18T10:36:04.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "problemName": "0204-count-primes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+      "folderPath": "0204-count-primes/",
+      "readmePath": "0204-count-primes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0204-count-primes.cpp",
+          "path": "0204-count-primes/0204-count-primes.cpp",
+          "sha": "ee0938227060dffe968a87e3db20b4042483ad1b",
+          "lastSyncedAt": "2026-08-18T11:24:08.551Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1291",
+      "title": "Sequential Digits",
+      "slug": "sequential-digits",
+      "problemName": "1291-sequential-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sequential-digits/",
+      "folderPath": "1291-sequential-digits/",
+      "readmePath": "1291-sequential-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1291-sequential-digits.cpp",
+          "path": "1291-sequential-digits/1291-sequential-digits.cpp",
+          "sha": "00edccd84992aa55a9047df3a1cfccf36802d744",
+          "lastSyncedAt": "2026-08-18T11:24:10.291Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2048",
+      "title": "Next Greater Numerically Balanced Number",
+      "slug": "next-greater-numerically-balanced-number",
+      "problemName": "2048-next-greater-numerically-balanced-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-numerically-balanced-number/",
+      "folderPath": "2048-next-greater-numerically-balanced-number/",
+      "readmePath": "2048-next-greater-numerically-balanced-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2048-next-greater-numerically-balanced-number.cpp",
+          "path": "2048-next-greater-numerically-balanced-number/2048-next-greater-numerically-balanced-number.cpp",
+          "sha": "5936891cb36ab75f66ffb2ea67f6deec664d0bfb",
+          "lastSyncedAt": "2026-08-18T11:24:10.867Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2094",
+      "title": "Finding 3-Digit Even Numbers",
+      "slug": "finding-3-digit-even-numbers",
+      "problemName": "2094-finding-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/finding-3-digit-even-numbers/",
+      "folderPath": "2094-finding-3-digit-even-numbers/",
+      "readmePath": "2094-finding-3-digit-even-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2094-finding-3-digit-even-numbers.cpp",
+          "path": "2094-finding-3-digit-even-numbers/2094-finding-3-digit-even-numbers.cpp",
+          "sha": "cd9909b4b88597424879fa5a2ca57bd475fa9bff",
+          "lastSyncedAt": "2026-08-18T11:24:10.927Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3345",
+      "title": "Smallest Divisible Digit Product I",
+      "slug": "smallest-divisible-digit-product-i",
+      "problemName": "3345-smallest-divisible-digit-product-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-i/",
+      "folderPath": "3345-smallest-divisible-digit-product-i/",
+      "readmePath": "3345-smallest-divisible-digit-product-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3345-smallest-divisible-digit-product-i.cpp",
+          "path": "3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.cpp",
+          "sha": "094d6e2437dcf8f71421213447cdf61f4602bd1c",
+          "lastSyncedAt": "2026-08-18T11:24:11.608Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3403",
+      "title": "Find the Lexicographically Largest String From the Box I",
+      "slug": "find-the-lexicographically-largest-string-from-the-box-i",
+      "problemName": "3403-find-the-lexicographically-largest-string-from-the-box-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/",
+      "folderPath": "3403-find-the-lexicographically-largest-string-from-the-box-i/",
+      "readmePath": "3403-find-the-lexicographically-largest-string-from-the-box-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3403-find-the-lexicographically-largest-string-from-the-box-i.cpp",
+          "path": "3403-find-the-lexicographically-largest-string-from-the-box-i/3403-find-the-lexicographically-largest-string-from-the-box-i.cpp",
+          "sha": "c3945f51ae4d28916c51289244e9cd03cb48aae8",
+          "lastSyncedAt": "2026-08-18T11:24:11.692Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3445",
+      "title": "Maximum Difference Between Even and Odd Frequency II",
+      "slug": "maximum-difference-between-even-and-odd-frequency-ii",
+      "problemName": "3445-maximum-difference-between-even-and-odd-frequency-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/",
+      "folderPath": "3445-maximum-difference-between-even-and-odd-frequency-ii/",
+      "readmePath": "3445-maximum-difference-between-even-and-odd-frequency-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3445-maximum-difference-between-even-and-odd-frequency-ii.cpp",
+          "path": "3445-maximum-difference-between-even-and-odd-frequency-ii/3445-maximum-difference-between-even-and-odd-frequency-ii.cpp",
+          "sha": "ba2fbd8b7c9815495cef38edcf402f640a0b4023",
+          "lastSyncedAt": "2026-08-18T11:24:11.752Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3499",
+      "title": "Maximize Active Section with Trade I",
+      "slug": "maximize-active-section-with-trade-i",
+      "problemName": "3499-maximize-active-section-with-trade-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-active-section-with-trade-i/",
+      "folderPath": "3499-maximize-active-section-with-trade-i/",
+      "readmePath": "3499-maximize-active-section-with-trade-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3499-maximize-active-section-with-trade-i.cpp",
+          "path": "3499-maximize-active-section-with-trade-i/3499-maximize-active-section-with-trade-i.cpp",
+          "sha": "35b41a73ff3989ccd2b8f7ce2025ce51750605c3",
+          "lastSyncedAt": "2026-08-18T11:24:11.776Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3514",
+      "title": "Number of Unique XOR Triplets II",
+      "slug": "number-of-unique-xor-triplets-ii",
+      "problemName": "3514-number-of-unique-xor-triplets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii/",
+      "folderPath": "3514-number-of-unique-xor-triplets-ii/",
+      "readmePath": "3514-number-of-unique-xor-triplets-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3514-number-of-unique-xor-triplets-ii.cpp",
+          "path": "3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.cpp",
+          "sha": "2d8ccf32615551d2805f5627213a108c62b311d4",
+          "lastSyncedAt": "2026-08-18T11:24:11.814Z"
         }
       ]
     }

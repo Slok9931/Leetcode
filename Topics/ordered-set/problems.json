@@ -4,7 +4,7 @@
     "slug": "ordered-set",
     "name": "Ordered Set"
   },
-  "updatedAt": "2026-08-18T10:35:38.390Z",
+  "updatedAt": "2026-08-18T11:24:11.987Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -23,6 +23,46 @@
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
           "sha": "a330912da6bd550032010cf347c453ab4fcdae52",
           "lastSyncedAt": "2026-08-18T10:35:38.390Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "220",
+      "title": "Contains Duplicate III",
+      "slug": "contains-duplicate-iii",
+      "problemName": "0220-contains-duplicate-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-iii/",
+      "folderPath": "0220-contains-duplicate-iii/",
+      "readmePath": "0220-contains-duplicate-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0220-contains-duplicate-iii.cpp",
+          "path": "0220-contains-duplicate-iii/0220-contains-duplicate-iii.cpp",
+          "sha": "a1617370da7b564b084553ebcb43b825dbaca29f",
+          "lastSyncedAt": "2026-08-18T11:24:08.652Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "493",
+      "title": "Reverse Pairs",
+      "slug": "reverse-pairs",
+      "problemName": "0493-reverse-pairs",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-pairs/",
+      "folderPath": "0493-reverse-pairs/",
+      "readmePath": "0493-reverse-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0493-reverse-pairs.cpp",
+          "path": "0493-reverse-pairs/0493-reverse-pairs.cpp",
+          "sha": "e6010eb7646160720e64ac2f7eb4859c9349e424",
+          "lastSyncedAt": "2026-08-18T11:24:09.241Z"
         }
       ]
     }

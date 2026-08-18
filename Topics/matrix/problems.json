@@ -4,6 +4,487 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-08-17T15:10:31.733Z",
-  "problems": []
+  "updatedAt": "2026-08-18T11:24:11.987Z",
+  "problems": [
+    {
+      "frontendId": "37",
+      "title": "Sudoku Solver",
+      "slug": "sudoku-solver",
+      "problemName": "0037-sudoku-solver",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+      "folderPath": "0037-sudoku-solver/",
+      "readmePath": "0037-sudoku-solver/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0037-sudoku-solver.cpp",
+          "path": "0037-sudoku-solver/0037-sudoku-solver.cpp",
+          "sha": "1ca8d2dfe37ab9e8ace528dd2cf4d5da8ec1d7a2",
+          "lastSyncedAt": "2026-08-18T11:24:07.485Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0048-rotate-image.cpp",
+          "path": "0048-rotate-image/0048-rotate-image.cpp",
+          "sha": "8a2f0eec37f3a0c3188caaf6daf85df27022033b",
+          "lastSyncedAt": "2026-08-18T11:24:07.577Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "54",
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "problemName": "0054-spiral-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
+      "folderPath": "0054-spiral-matrix/",
+      "readmePath": "0054-spiral-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0054-spiral-matrix.cpp",
+          "path": "0054-spiral-matrix/0054-spiral-matrix.cpp",
+          "sha": "2e87bdf1b880fa19bfe5315e4907fbc65712d40e",
+          "lastSyncedAt": "2026-08-18T11:24:07.645Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "73",
+      "title": "Set Matrix Zeroes",
+      "slug": "set-matrix-zeroes",
+      "problemName": "0073-set-matrix-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
+      "folderPath": "0073-set-matrix-zeroes/",
+      "readmePath": "0073-set-matrix-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0073-set-matrix-zeroes.cpp",
+          "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.cpp",
+          "sha": "418184e099a3a21b667477eecf4835156e48d5fe",
+          "lastSyncedAt": "2026-08-18T11:24:07.774Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "problemName": "0074-search-a-2d-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "folderPath": "0074-search-a-2d-matrix/",
+      "readmePath": "0074-search-a-2d-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0074-search-a-2d-matrix.cpp",
+          "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.cpp",
+          "sha": "97dd83a18987a3b8b7a7b1b94756f1cdd4c0fe25",
+          "lastSyncedAt": "2026-08-18T11:24:07.786Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "problemName": "0079-word-search",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+      "folderPath": "0079-word-search/",
+      "readmePath": "0079-word-search/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0079-word-search.cpp",
+          "path": "0079-word-search/0079-word-search.cpp",
+          "sha": "accbb396ba666a93a446288d98095fa6126dc147",
+          "lastSyncedAt": "2026-08-18T11:24:07.845Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "85",
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "problemName": "0085-maximal-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+      "folderPath": "0085-maximal-rectangle/",
+      "readmePath": "0085-maximal-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0085-maximal-rectangle.cpp",
+          "path": "0085-maximal-rectangle/0085-maximal-rectangle.cpp",
+          "sha": "1c9d79385b354195da1d6fdf897804db7f1516c8",
+          "lastSyncedAt": "2026-08-18T11:24:07.904Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "130",
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "problemName": "0130-surrounded-regions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+      "folderPath": "0130-surrounded-regions/",
+      "readmePath": "0130-surrounded-regions/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0130-surrounded-regions.cpp",
+          "path": "0130-surrounded-regions/0130-surrounded-regions.cpp",
+          "sha": "5afce3e43fe51b47931cdf64c1b8279e34f3c3c8",
+          "lastSyncedAt": "2026-08-18T11:24:08.192Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "0200-number-of-islands/",
+      "readmePath": "0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0200-number-of-islands.cpp",
+          "path": "0200-number-of-islands/0200-number-of-islands.cpp",
+          "sha": "296eeae50ffe1d2cd9f6859473110200b82d47ef",
+          "lastSyncedAt": "2026-08-18T11:24:08.505Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "240",
+      "title": "Search a 2D Matrix II",
+      "slug": "search-a-2d-matrix-ii",
+      "problemName": "0240-search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+      "folderPath": "0240-search-a-2d-matrix-ii/",
+      "readmePath": "0240-search-a-2d-matrix-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0240-search-a-2d-matrix-ii.cpp",
+          "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.cpp",
+          "sha": "f291051d0e2c95cbb66cdc811fc12b3c39e9b05a",
+          "lastSyncedAt": "2026-08-18T11:24:08.840Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "427",
+      "title": "Construct Quad Tree",
+      "slug": "construct-quad-tree",
+      "problemName": "0427-construct-quad-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-quad-tree/",
+      "folderPath": "0427-construct-quad-tree/",
+      "readmePath": "0427-construct-quad-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0427-construct-quad-tree.cpp",
+          "path": "0427-construct-quad-tree/0427-construct-quad-tree.cpp",
+          "sha": "f4277ff51a52159f0e3623bf4a39c8a4035cb044",
+          "lastSyncedAt": "2026-08-18T11:24:09.140Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "542",
+      "title": "01 Matrix",
+      "slug": "01-matrix",
+      "problemName": "0542-01-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+      "folderPath": "0542-01-matrix/",
+      "readmePath": "0542-01-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0542-01-matrix.cpp",
+          "path": "0542-01-matrix/0542-01-matrix.cpp",
+          "sha": "8f560a9da5a58861b890b27114419e0d218a161a",
+          "lastSyncedAt": "2026-08-18T11:24:09.347Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "733",
+      "title": "Flood Fill",
+      "slug": "flood-fill",
+      "problemName": "0733-flood-fill",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/flood-fill/",
+      "folderPath": "0733-flood-fill/",
+      "readmePath": "0733-flood-fill/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0733-flood-fill.cpp",
+          "path": "0733-flood-fill/0733-flood-fill.cpp",
+          "sha": "8eaa1ac68285d69df01a1d24fbf791edb8161c81",
+          "lastSyncedAt": "2026-08-18T11:24:09.602Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "0994-rotting-oranges/",
+      "readmePath": "0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0994-rotting-oranges.cpp",
+          "path": "0994-rotting-oranges/0994-rotting-oranges.cpp",
+          "sha": "a7a147948d59555355af51e51616f93e3cc8867d",
+          "lastSyncedAt": "2026-08-18T11:24:10.032Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1020",
+      "title": "Number of Enclaves",
+      "slug": "number-of-enclaves",
+      "problemName": "1020-number-of-enclaves",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-enclaves/",
+      "folderPath": "1020-number-of-enclaves/",
+      "readmePath": "1020-number-of-enclaves/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1020-number-of-enclaves.cpp",
+          "path": "1020-number-of-enclaves/1020-number-of-enclaves.cpp",
+          "sha": "61838bd5b15fa29fc580cce569efa2e1b988252a",
+          "lastSyncedAt": "2026-08-18T11:24:10.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1091",
+      "title": "Shortest Path in Binary Matrix",
+      "slug": "shortest-path-in-binary-matrix",
+      "problemName": "1091-shortest-path-in-binary-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+      "folderPath": "1091-shortest-path-in-binary-matrix/",
+      "readmePath": "1091-shortest-path-in-binary-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1091-shortest-path-in-binary-matrix.cpp",
+          "path": "1091-shortest-path-in-binary-matrix/1091-shortest-path-in-binary-matrix.cpp",
+          "sha": "4ab081b16c6f7beaf87f4f78f2c685a14aaca06a",
+          "lastSyncedAt": "2026-08-18T11:24:10.183Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1260",
+      "title": "Shift 2D Grid",
+      "slug": "shift-2d-grid",
+      "problemName": "1260-shift-2d-grid",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shift-2d-grid/",
+      "folderPath": "1260-shift-2d-grid/",
+      "readmePath": "1260-shift-2d-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1260-shift-2d-grid.cpp",
+          "path": "1260-shift-2d-grid/1260-shift-2d-grid.cpp",
+          "sha": "c5ceb0c9d8c800fa272f986b31d590d9575f15ba",
+          "lastSyncedAt": "2026-08-18T11:24:10.243Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1301",
+      "title": "Number of Paths with Max Score",
+      "slug": "number-of-paths-with-max-score",
+      "problemName": "1301-number-of-paths-with-max-score",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-paths-with-max-score/",
+      "folderPath": "1301-number-of-paths-with-max-score/",
+      "readmePath": "1301-number-of-paths-with-max-score/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1301-number-of-paths-with-max-score.cpp",
+          "path": "1301-number-of-paths-with-max-score/1301-number-of-paths-with-max-score.cpp",
+          "sha": "a98be2388bdc65550ecd7d2d23cdbd0457239f20",
+          "lastSyncedAt": "2026-08-18T11:24:10.327Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1337",
+      "title": "The K Weakest Rows in a Matrix",
+      "slug": "the-k-weakest-rows-in-a-matrix",
+      "problemName": "1337-the-k-weakest-rows-in-a-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/",
+      "folderPath": "1337-the-k-weakest-rows-in-a-matrix/",
+      "readmePath": "1337-the-k-weakest-rows-in-a-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1337-the-k-weakest-rows-in-a-matrix.cpp",
+          "path": "1337-the-k-weakest-rows-in-a-matrix/1337-the-k-weakest-rows-in-a-matrix.cpp",
+          "sha": "78212e3cdeaf8bf11f114a3ad478cdb3e2bac39d",
+          "lastSyncedAt": "2026-08-18T11:24:10.387Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "problemName": "1631-path-with-minimum-effort",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "folderPath": "1631-path-with-minimum-effort/",
+      "readmePath": "1631-path-with-minimum-effort/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1631-path-with-minimum-effort.cpp",
+          "path": "1631-path-with-minimum-effort/1631-path-with-minimum-effort.cpp",
+          "sha": "8464a5928b38435e486e40a509a049ff9d48e025",
+          "lastSyncedAt": "2026-08-18T11:24:10.611Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1901",
+      "title": "Find a Peak Element II",
+      "slug": "find-a-peak-element-ii",
+      "problemName": "1901-find-a-peak-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-peak-element-ii/",
+      "folderPath": "1901-find-a-peak-element-ii/",
+      "readmePath": "1901-find-a-peak-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1901-find-a-peak-element-ii.cpp",
+          "path": "1901-find-a-peak-element-ii/1901-find-a-peak-element-ii.cpp",
+          "sha": "2707ae4a9ecb9765c1d30640961e7e05774599f8",
+          "lastSyncedAt": "2026-08-18T11:24:10.708Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2812",
+      "title": "Find the Safest Path in a Grid",
+      "slug": "find-the-safest-path-in-a-grid",
+      "problemName": "2812-find-the-safest-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-safest-path-in-a-grid/",
+      "folderPath": "2812-find-the-safest-path-in-a-grid/",
+      "readmePath": "2812-find-the-safest-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2812-find-the-safest-path-in-a-grid.cpp",
+          "path": "2812-find-the-safest-path-in-a-grid/2812-find-the-safest-path-in-a-grid.cpp",
+          "sha": "7e39d713ea8c97cd196fcf18a6bc1a0a1ad636ad",
+          "lastSyncedAt": "2026-08-18T11:24:11.267Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3286",
+      "title": "Find a Safe Walk Through a Grid",
+      "slug": "find-a-safe-walk-through-a-grid",
+      "problemName": "3286-find-a-safe-walk-through-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/",
+      "folderPath": "3286-find-a-safe-walk-through-a-grid/",
+      "readmePath": "3286-find-a-safe-walk-through-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3286-find-a-safe-walk-through-a-grid.cpp",
+          "path": "3286-find-a-safe-walk-through-a-grid/3286-find-a-safe-walk-through-a-grid.cpp",
+          "sha": "34b73c37711ba5e3cbb9f68e8a45cddebb39125d",
+          "lastSyncedAt": "2026-08-18T11:24:11.501Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3341",
+      "title": "Find Minimum Time to Reach Last Room I",
+      "slug": "find-minimum-time-to-reach-last-room-i",
+      "problemName": "3341-find-minimum-time-to-reach-last-room-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/",
+      "folderPath": "3341-find-minimum-time-to-reach-last-room-i/",
+      "readmePath": "3341-find-minimum-time-to-reach-last-room-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3341-find-minimum-time-to-reach-last-room-i.cpp",
+          "path": "3341-find-minimum-time-to-reach-last-room-i/3341-find-minimum-time-to-reach-last-room-i.cpp",
+          "sha": "6a207eac592b5632edf77a2611a7acc8c4eba4a5",
+          "lastSyncedAt": "2026-08-18T11:24:11.584Z"
+        }
+      ]
+    }
+  ]
 }

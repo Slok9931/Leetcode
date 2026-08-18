@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-18T10:35:03.152Z",
+  "updatedAt": "2026-08-18T11:24:11.984Z",
   "problems": [
     {
       "frontendId": "3702",
@@ -23,6 +23,386 @@
           "path": "3702-longest-subsequence-with-non-zero-bitwise-xor/3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
           "sha": "be8f33fc2a67e09eb1ee6858664ac0c547bf3e1c",
           "lastSyncedAt": "2026-08-18T10:35:03.152Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "29",
+      "title": "Divide Two Integers",
+      "slug": "divide-two-integers",
+      "problemName": "0029-divide-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+      "folderPath": "0029-divide-two-integers/",
+      "readmePath": "0029-divide-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0029-divide-two-integers.cpp",
+          "path": "0029-divide-two-integers/0029-divide-two-integers.cpp",
+          "sha": "0a17cd29c3a211870f359f522edb87cac2828d59",
+          "lastSyncedAt": "2026-08-18T11:24:07.395Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0067-add-binary.cpp",
+          "path": "0067-add-binary/0067-add-binary.cpp",
+          "sha": "1589519f800171aa09ac40e8854cd75c04e5286d",
+          "lastSyncedAt": "2026-08-18T11:24:07.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "0078-subsets/",
+      "readmePath": "0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0078-subsets.cpp",
+          "path": "0078-subsets/0078-subsets.cpp",
+          "sha": "3228c82fc3333e5204e43047683e94b4dfd2a599",
+          "lastSyncedAt": "2026-08-18T11:24:07.833Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "90",
+      "title": "Subsets II",
+      "slug": "subsets-ii",
+      "problemName": "0090-subsets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets-ii/",
+      "folderPath": "0090-subsets-ii/",
+      "readmePath": "0090-subsets-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0090-subsets-ii.cpp",
+          "path": "0090-subsets-ii/0090-subsets-ii.cpp",
+          "sha": "8eb054c6cd052b74e698c45c3f595daebab17307",
+          "lastSyncedAt": "2026-08-18T11:24:07.927Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "0136-single-number/",
+      "readmePath": "0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0136-single-number.cpp",
+          "path": "0136-single-number/0136-single-number.cpp",
+          "sha": "aa86d38d18d320a8fefaf58f4f492db9c5b9f167",
+          "lastSyncedAt": "2026-08-18T11:24:08.239Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "137",
+      "title": "Single Number II",
+      "slug": "single-number-ii",
+      "problemName": "0137-single-number-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number-ii/",
+      "folderPath": "0137-single-number-ii/",
+      "readmePath": "0137-single-number-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0137-single-number-ii.cpp",
+          "path": "0137-single-number-ii/0137-single-number-ii.cpp",
+          "sha": "ec4046b6bfcdbaa7b51461c1328b5aac1d3333b7",
+          "lastSyncedAt": "2026-08-18T11:24:08.250Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "190",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "problemName": "0190-reverse-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+      "folderPath": "0190-reverse-bits/",
+      "readmePath": "0190-reverse-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0190-reverse-bits.cpp",
+          "path": "0190-reverse-bits/0190-reverse-bits.cpp",
+          "sha": "e8219be0ae2e5516bf686a20da7a3a131b113901",
+          "lastSyncedAt": "2026-08-18T11:24:08.471Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "problemName": "0191-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+      "folderPath": "0191-number-of-1-bits/",
+      "readmePath": "0191-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0191-number-of-1-bits.cpp",
+          "path": "0191-number-of-1-bits/0191-number-of-1-bits.cpp",
+          "sha": "3bf226fd1e18a0e8afdfcdf21b246e34bf05c0ab",
+          "lastSyncedAt": "2026-08-18T11:24:08.483Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "201",
+      "title": "Bitwise AND of Numbers Range",
+      "slug": "bitwise-and-of-numbers-range",
+      "problemName": "0201-bitwise-and-of-numbers-range",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bitwise-and-of-numbers-range/",
+      "folderPath": "0201-bitwise-and-of-numbers-range/",
+      "readmePath": "0201-bitwise-and-of-numbers-range/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0201-bitwise-and-of-numbers-range.cpp",
+          "path": "0201-bitwise-and-of-numbers-range/0201-bitwise-and-of-numbers-range.cpp",
+          "sha": "48fb66a105f765a43f058b06556ac43c1859b305",
+          "lastSyncedAt": "2026-08-18T11:24:08.517Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "222",
+      "title": "Count Complete Tree Nodes",
+      "slug": "count-complete-tree-nodes",
+      "problemName": "0222-count-complete-tree-nodes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-complete-tree-nodes/",
+      "folderPath": "0222-count-complete-tree-nodes/",
+      "readmePath": "0222-count-complete-tree-nodes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0222-count-complete-tree-nodes.cpp",
+          "path": "0222-count-complete-tree-nodes/0222-count-complete-tree-nodes.cpp",
+          "sha": "73bcd179caae2cd76a96933e4552b39b6e85265a",
+          "lastSyncedAt": "2026-08-18T11:24:08.663Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "0231-power-of-two/",
+      "readmePath": "0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0231-power-of-two.cpp",
+          "path": "0231-power-of-two/0231-power-of-two.cpp",
+          "sha": "168ca1d79cf317ef2a3ce097aaf49df1f5477e09",
+          "lastSyncedAt": "2026-08-18T11:24:08.744Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "260",
+      "title": "Single Number III",
+      "slug": "single-number-iii",
+      "problemName": "0260-single-number-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number-iii/",
+      "folderPath": "0260-single-number-iii/",
+      "readmePath": "0260-single-number-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0260-single-number-iii.cpp",
+          "path": "0260-single-number-iii/0260-single-number-iii.cpp",
+          "sha": "d8bec2361205ce80af2965299ceeb055d8ceabf8",
+          "lastSyncedAt": "2026-08-18T11:24:08.874Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0268-missing-number.cpp",
+          "path": "0268-missing-number/0268-missing-number.cpp",
+          "sha": "d0e5102e1197696957935575bd15ddc2e1db60c4",
+          "lastSyncedAt": "2026-08-18T11:24:08.885Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "996",
+      "title": "Number of Squareful Arrays",
+      "slug": "number-of-squareful-arrays",
+      "problemName": "0996-number-of-squareful-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-squareful-arrays/",
+      "folderPath": "0996-number-of-squareful-arrays/",
+      "readmePath": "0996-number-of-squareful-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0996-number-of-squareful-arrays.cpp",
+          "path": "0996-number-of-squareful-arrays/0996-number-of-squareful-arrays.cpp",
+          "sha": "584898e28e8f32077ddff38ece724b6044a9d2e0",
+          "lastSyncedAt": "2026-08-18T11:24:10.042Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2220",
+      "title": "Minimum Bit Flips to Convert Number",
+      "slug": "minimum-bit-flips-to-convert-number",
+      "problemName": "2220-minimum-bit-flips-to-convert-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+      "folderPath": "2220-minimum-bit-flips-to-convert-number/",
+      "readmePath": "2220-minimum-bit-flips-to-convert-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2220-minimum-bit-flips-to-convert-number.cpp",
+          "path": "2220-minimum-bit-flips-to-convert-number/2220-minimum-bit-flips-to-convert-number.cpp",
+          "sha": "c040a68c9b2ea8ce426a68236849d0955c476708",
+          "lastSyncedAt": "2026-08-18T11:24:11.036Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3068",
+      "title": "Find the Maximum Sum of Node Values",
+      "slug": "find-the-maximum-sum-of-node-values",
+      "problemName": "3068-find-the-maximum-sum-of-node-values",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values/",
+      "folderPath": "3068-find-the-maximum-sum-of-node-values/",
+      "readmePath": "3068-find-the-maximum-sum-of-node-values/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3068-find-the-maximum-sum-of-node-values.cpp",
+          "path": "3068-find-the-maximum-sum-of-node-values/3068-find-the-maximum-sum-of-node-values.cpp",
+          "sha": "fea045acb42da434fe20694f33a635aaaa72b391",
+          "lastSyncedAt": "2026-08-18T11:24:11.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3513",
+      "title": "Number of Unique XOR Triplets I",
+      "slug": "number-of-unique-xor-triplets-i",
+      "problemName": "3513-number-of-unique-xor-triplets-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-i/",
+      "folderPath": "3513-number-of-unique-xor-triplets-i/",
+      "readmePath": "3513-number-of-unique-xor-triplets-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3513-number-of-unique-xor-triplets-i.cpp",
+          "path": "3513-number-of-unique-xor-triplets-i/3513-number-of-unique-xor-triplets-i.cpp",
+          "sha": "ff571c7757274b764df9b6a2a8f341309d69515a",
+          "lastSyncedAt": "2026-08-18T11:24:11.799Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3514",
+      "title": "Number of Unique XOR Triplets II",
+      "slug": "number-of-unique-xor-triplets-ii",
+      "problemName": "3514-number-of-unique-xor-triplets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii/",
+      "folderPath": "3514-number-of-unique-xor-triplets-ii/",
+      "readmePath": "3514-number-of-unique-xor-triplets-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3514-number-of-unique-xor-triplets-ii.cpp",
+          "path": "3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.cpp",
+          "sha": "2d8ccf32615551d2805f5627213a108c62b311d4",
+          "lastSyncedAt": "2026-08-18T11:24:11.814Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3534",
+      "title": "Path Existence Queries in a Graph II",
+      "slug": "path-existence-queries-in-a-graph-ii",
+      "problemName": "3534-path-existence-queries-in-a-graph-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/",
+      "folderPath": "3534-path-existence-queries-in-a-graph-ii/",
+      "readmePath": "3534-path-existence-queries-in-a-graph-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3534-path-existence-queries-in-a-graph-ii.cpp",
+          "path": "3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.cpp",
+          "sha": "3de889736b57356b3b8c5ba99953e138c0477cd5",
+          "lastSyncedAt": "2026-08-18T11:24:11.864Z"
         }
       ]
     }

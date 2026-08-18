@@ -4,68 +4,8 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-18T11:24:11.977Z",
+  "updatedAt": "2026-08-18T11:35:35.492Z",
   "problems": [
-    {
-      "frontendId": "2029",
-      "title": "Stone Game IX",
-      "slug": "stone-game-ix",
-      "problemName": "2029-stone-game-ix",
-      "difficulty": "Medium",
-      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
-      "folderPath": "2029-stone-game-ix/",
-      "readmePath": "2029-stone-game-ix/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "2029-stone-game-ix.cpp",
-          "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
-          "sha": "a33250fe100c48c604387d910c1e1c1ab028cac0",
-          "lastSyncedAt": "2026-08-18T10:34:47.662Z"
-        }
-      ]
-    },
-    {
-      "frontendId": "2285",
-      "title": "Maximum Total Importance of Roads",
-      "slug": "maximum-total-importance-of-roads",
-      "problemName": "2285-maximum-total-importance-of-roads",
-      "difficulty": "Medium",
-      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-importance-of-roads/",
-      "folderPath": "2285-maximum-total-importance-of-roads/",
-      "readmePath": "2285-maximum-total-importance-of-roads/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "2285-maximum-total-importance-of-roads.cpp",
-          "path": "2285-maximum-total-importance-of-roads/2285-maximum-total-importance-of-roads.cpp",
-          "sha": "83e6e89a801a36af3a75711a62e9b209c59cb041",
-          "lastSyncedAt": "2026-08-18T10:35:54.862Z"
-        }
-      ]
-    },
-    {
-      "frontendId": "2497",
-      "title": "Maximum Star Sum of a Graph",
-      "slug": "maximum-star-sum-of-a-graph",
-      "problemName": "2497-maximum-star-sum-of-a-graph",
-      "difficulty": "Medium",
-      "leetcodeUrl": "https://leetcode.com/problems/maximum-star-sum-of-a-graph/",
-      "folderPath": "2497-maximum-star-sum-of-a-graph/",
-      "readmePath": "2497-maximum-star-sum-of-a-graph/README.md",
-      "solutions": [
-        {
-          "language": "C++",
-          "extension": ".cpp",
-          "filename": "2497-maximum-star-sum-of-a-graph.cpp",
-          "path": "2497-maximum-star-sum-of-a-graph/2497-maximum-star-sum-of-a-graph.cpp",
-          "sha": "549822f20c8b8c2339469e4f9ee25ba577ab1826",
-          "lastSyncedAt": "2026-08-18T10:35:28.328Z"
-        }
-      ]
-    },
     {
       "frontendId": "11",
       "title": "Container With Most Water",
@@ -567,6 +507,26 @@
       ]
     },
     {
+      "frontendId": "2029",
+      "title": "Stone Game IX",
+      "slug": "stone-game-ix",
+      "problemName": "2029-stone-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+      "folderPath": "2029-stone-game-ix/",
+      "readmePath": "2029-stone-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2029-stone-game-ix.cpp",
+          "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
+          "sha": "a33250fe100c48c604387d910c1e1c1ab028cac0",
+          "lastSyncedAt": "2026-08-18T11:35:35.492Z"
+        }
+      ]
+    },
+    {
       "frontendId": "2071",
       "title": "Maximum Number of Tasks You Can Assign",
       "slug": "maximum-number-of-tasks-you-can-assign",
@@ -607,6 +567,26 @@
       ]
     },
     {
+      "frontendId": "2285",
+      "title": "Maximum Total Importance of Roads",
+      "slug": "maximum-total-importance-of-roads",
+      "problemName": "2285-maximum-total-importance-of-roads",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-importance-of-roads/",
+      "folderPath": "2285-maximum-total-importance-of-roads/",
+      "readmePath": "2285-maximum-total-importance-of-roads/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2285-maximum-total-importance-of-roads.cpp",
+          "path": "2285-maximum-total-importance-of-roads/2285-maximum-total-importance-of-roads.cpp",
+          "sha": "83e6e89a801a36af3a75711a62e9b209c59cb041",
+          "lastSyncedAt": "2026-08-18T10:35:54.862Z"
+        }
+      ]
+    },
+    {
       "frontendId": "2434",
       "title": "Using a Robot to Print the Lexicographically Smallest String",
       "slug": "using-a-robot-to-print-the-lexicographically-smallest-string",
@@ -623,6 +603,26 @@
           "path": "2434-using-a-robot-to-print-the-lexicographically-smallest-string/2434-using-a-robot-to-print-the-lexicographically-smallest-string.cpp",
           "sha": "a44ce40c9b18d61596f75ea8bdd2fdf68c3160c0",
           "lastSyncedAt": "2026-08-18T11:24:11.131Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2497",
+      "title": "Maximum Star Sum of a Graph",
+      "slug": "maximum-star-sum-of-a-graph",
+      "problemName": "2497-maximum-star-sum-of-a-graph",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-star-sum-of-a-graph/",
+      "folderPath": "2497-maximum-star-sum-of-a-graph/",
+      "readmePath": "2497-maximum-star-sum-of-a-graph/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2497-maximum-star-sum-of-a-graph.cpp",
+          "path": "2497-maximum-star-sum-of-a-graph/2497-maximum-star-sum-of-a-graph.cpp",
+          "sha": "549822f20c8b8c2339469e4f9ee25ba577ab1826",
+          "lastSyncedAt": "2026-08-18T10:35:28.328Z"
         }
       ]
     },

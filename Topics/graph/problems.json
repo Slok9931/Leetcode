@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-18T10:35:21.205Z",
+  "updatedAt": "2026-08-18T10:35:24.240Z",
   "problems": [
     {
       "frontendId": "797",
@@ -222,7 +222,7 @@
           "filename": "2508-add-edges-to-make-degrees-of-all-nodes-even.cpp",
           "path": "2508-add-edges-to-make-degrees-of-all-nodes-even/2508-add-edges-to-make-degrees-of-all-nodes-even.cpp",
           "sha": "c9d5e8395fe7e8af22442fbd2148ace86fc50786",
-          "lastSyncedAt": "2026-08-18T07:29:46.139Z"
+          "lastSyncedAt": "2026-08-18T10:35:24.240Z"
         }
       ]
     },

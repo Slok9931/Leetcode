@@ -22,7 +22,8 @@
           "filename": "0204-count-primes.cpp",
           "path": "0204-count-primes/0204-count-primes.cpp",
           "sha": "ee0938227060dffe968a87e3db20b4042483ad1b",
-          "lastSyncedAt": "2026-08-18T11:24:08.551Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.551Z",
+          "submissionTimestamp": 1744716592
         }
       ]
     },
@@ -42,7 +43,8 @@
           "filename": "1291-sequential-digits.cpp",
           "path": "1291-sequential-digits/1291-sequential-digits.cpp",
           "sha": "00edccd84992aa55a9047df3a1cfccf36802d744",
-          "lastSyncedAt": "2026-08-18T11:24:10.291Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.291Z",
+          "submissionTimestamp": 1783919519
         }
       ]
     },
@@ -62,7 +64,8 @@
           "filename": "1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp",
           "path": "1761-minimum-degree-of-a-connected-trio-in-a-graph/1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp",
           "sha": "fafd6ce7b5f7e968bb20238f67c973d2bb93f98d",
-          "lastSyncedAt": "2026-08-18T11:37:02.090Z"
+          "lastSyncedAt": "2026-08-18T11:37:02.090Z",
+          "submissionTimestamp": 1786526801
         }
       ]
     },
@@ -82,7 +85,8 @@
           "filename": "2048-next-greater-numerically-balanced-number.cpp",
           "path": "2048-next-greater-numerically-balanced-number/2048-next-greater-numerically-balanced-number.cpp",
           "sha": "5936891cb36ab75f66ffb2ea67f6deec664d0bfb",
-          "lastSyncedAt": "2026-08-18T11:24:10.867Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.867Z",
+          "submissionTimestamp": 1785063406
         }
       ]
     },
@@ -102,7 +106,8 @@
           "filename": "2094-finding-3-digit-even-numbers.cpp",
           "path": "2094-finding-3-digit-even-numbers/2094-finding-3-digit-even-numbers.cpp",
           "sha": "cd9909b4b88597424879fa5a2ca57bd475fa9bff",
-          "lastSyncedAt": "2026-08-18T11:24:10.927Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.927Z",
+          "submissionTimestamp": 1747010013
         }
       ]
     },
@@ -122,7 +127,8 @@
           "filename": "3345-smallest-divisible-digit-product-i.cpp",
           "path": "3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.cpp",
           "sha": "094d6e2437dcf8f71421213447cdf61f4602bd1c",
-          "lastSyncedAt": "2026-08-18T11:24:11.608Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.608Z",
+          "submissionTimestamp": 1785979812
         }
       ]
     },
@@ -142,7 +148,8 @@
           "filename": "3403-find-the-lexicographically-largest-string-from-the-box-i.cpp",
           "path": "3403-find-the-lexicographically-largest-string-from-the-box-i/3403-find-the-lexicographically-largest-string-from-the-box-i.cpp",
           "sha": "c3945f51ae4d28916c51289244e9cd03cb48aae8",
-          "lastSyncedAt": "2026-08-18T11:24:11.692Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.692Z",
+          "submissionTimestamp": 1749010200
         }
       ]
     },
@@ -162,7 +169,8 @@
           "filename": "3445-maximum-difference-between-even-and-odd-frequency-ii.cpp",
           "path": "3445-maximum-difference-between-even-and-odd-frequency-ii/3445-maximum-difference-between-even-and-odd-frequency-ii.cpp",
           "sha": "ba2fbd8b7c9815495cef38edcf402f640a0b4023",
-          "lastSyncedAt": "2026-08-18T11:24:11.752Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.752Z",
+          "submissionTimestamp": 1749613895
         }
       ]
     },
@@ -182,7 +190,8 @@
           "filename": "3499-maximize-active-section-with-trade-i.cpp",
           "path": "3499-maximize-active-section-with-trade-i/3499-maximize-active-section-with-trade-i.cpp",
           "sha": "35b41a73ff3989ccd2b8f7ce2025ce51750605c3",
-          "lastSyncedAt": "2026-08-18T11:24:11.776Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.776Z",
+          "submissionTimestamp": 1784604823
         }
       ]
     },
@@ -202,7 +211,8 @@
           "filename": "3514-number-of-unique-xor-triplets-ii.cpp",
           "path": "3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.cpp",
           "sha": "2d8ccf32615551d2805f5627213a108c62b311d4",
-          "lastSyncedAt": "2026-08-18T11:24:11.814Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.814Z",
+          "submissionTimestamp": 1784863211
         }
       ]
     }

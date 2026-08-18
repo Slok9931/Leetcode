@@ -22,7 +22,8 @@
           "filename": "0020-valid-parentheses.cpp",
           "path": "0020-valid-parentheses/0020-valid-parentheses.cpp",
           "sha": "cc9f94f06da1e5cbbf2bb61dc1662fa529b5088f",
-          "lastSyncedAt": "2026-08-18T11:24:07.297Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.297Z",
+          "submissionTimestamp": 1752644185
         }
       ]
     },
@@ -42,7 +43,8 @@
           "filename": "0032-longest-valid-parentheses.cpp",
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.cpp",
           "sha": "d478560e735f33bfbdfd2075881c5d17747540d9",
-          "lastSyncedAt": "2026-08-18T11:24:07.433Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.433Z",
+          "submissionTimestamp": 1754117879
         }
       ]
     },
@@ -62,7 +64,8 @@
           "filename": "0042-trapping-rain-water.cpp",
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.cpp",
           "sha": "a4bb396562043fe5871e4457f54ea82c74462462",
-          "lastSyncedAt": "2026-08-18T11:24:07.544Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.544Z",
+          "submissionTimestamp": 1752295328
         }
       ]
     },
@@ -82,7 +85,8 @@
           "filename": "0071-simplify-path.cpp",
           "path": "0071-simplify-path/0071-simplify-path.cpp",
           "sha": "479b0badb5fe18055ddb18dbfe416bdbb98eb5a0",
-          "lastSyncedAt": "2026-08-18T11:24:07.762Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.762Z",
+          "submissionTimestamp": 1752728138
         }
       ]
     },
@@ -102,7 +106,8 @@
           "filename": "0084-largest-rectangle-in-histogram.cpp",
           "path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.cpp",
           "sha": "7965b097360e25be325d753ecb9c29da39a548a4",
-          "lastSyncedAt": "2026-08-18T11:24:07.892Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.892Z",
+          "submissionTimestamp": 1749744349
         }
       ]
     },
@@ -122,7 +127,8 @@
           "filename": "0085-maximal-rectangle.cpp",
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.cpp",
           "sha": "1c9d79385b354195da1d6fdf897804db7f1516c8",
-          "lastSyncedAt": "2026-08-18T11:24:07.904Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.904Z",
+          "submissionTimestamp": 1749744595
         }
       ]
     },
@@ -142,7 +148,8 @@
           "filename": "0094-binary-tree-inorder-traversal.cpp",
           "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.cpp",
           "sha": "bcaa2857ae5da887a56d292d25776b3c6373feba",
-          "lastSyncedAt": "2026-08-18T11:24:07.938Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.938Z",
+          "submissionTimestamp": 1780126565
         }
       ]
     },
@@ -162,7 +169,8 @@
           "filename": "0114-flatten-binary-tree-to-linked-list.cpp",
           "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.cpp",
           "sha": "ae0433bef679c543eb3c72b0db5bd8e8474b9b5a",
-          "lastSyncedAt": "2026-08-18T11:24:08.088Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.088Z",
+          "submissionTimestamp": 1753762590
         }
       ]
     },
@@ -182,7 +190,8 @@
           "filename": "0144-binary-tree-preorder-traversal.cpp",
           "path": "0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.cpp",
           "sha": "ec40f3d69765bcca90a59cd486b208d892d23a38",
-          "lastSyncedAt": "2026-08-18T11:24:08.298Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.298Z",
+          "submissionTimestamp": 1780126514
         }
       ]
     },
@@ -202,7 +211,8 @@
           "filename": "0145-binary-tree-postorder-traversal.cpp",
           "path": "0145-binary-tree-postorder-traversal/0145-binary-tree-postorder-traversal.cpp",
           "sha": "b37f7c85f09a6db354c551e388110e7386612a8a",
-          "lastSyncedAt": "2026-08-18T11:24:08.309Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.309Z",
+          "submissionTimestamp": 1780126599
         }
       ]
     },
@@ -222,7 +232,8 @@
           "filename": "0150-evaluate-reverse-polish-notation.cpp",
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.cpp",
           "sha": "e9f74cbfdb85be7772c283f46b97f0e538ef79cb",
-          "lastSyncedAt": "2026-08-18T11:24:08.332Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.332Z",
+          "submissionTimestamp": 1752728438
         }
       ]
     },
@@ -242,7 +253,8 @@
           "filename": "0155-min-stack.cpp",
           "path": "0155-min-stack/0155-min-stack.cpp",
           "sha": "a9b19e00226d99902ec5389f0c0df6a007a3e3da",
-          "lastSyncedAt": "2026-08-18T11:24:08.379Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.379Z",
+          "submissionTimestamp": 1779253114
         }
       ]
     },
@@ -262,7 +274,8 @@
           "filename": "0173-binary-search-tree-iterator.cpp",
           "path": "0173-binary-search-tree-iterator/0173-binary-search-tree-iterator.cpp",
           "sha": "cf472e2a2b817a6225da84a3c235c3ed5d7ab724",
-          "lastSyncedAt": "2026-08-18T11:24:08.448Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.448Z",
+          "submissionTimestamp": 1753763775
         }
       ]
     },
@@ -282,7 +295,8 @@
           "filename": "0224-basic-calculator.cpp",
           "path": "0224-basic-calculator/0224-basic-calculator.cpp",
           "sha": "7a1fd944adf6b6db3bf3da3e6667f1217added65",
-          "lastSyncedAt": "2026-08-18T11:24:08.675Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.675Z",
+          "submissionTimestamp": 1752728711
         }
       ]
     },
@@ -302,7 +316,8 @@
           "filename": "0225-implement-stack-using-queues.cpp",
           "path": "0225-implement-stack-using-queues/0225-implement-stack-using-queues.cpp",
           "sha": "cb743db200b6179662964120ca600b5210d2f311",
-          "lastSyncedAt": "2026-08-18T11:24:08.687Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.687Z",
+          "submissionTimestamp": 1779252011
         }
       ]
     },
@@ -322,7 +337,8 @@
           "filename": "0232-implement-queue-using-stacks.cpp",
           "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.cpp",
           "sha": "230bea64216ea3dc2b8ec80a8464cc12edc3b629",
-          "lastSyncedAt": "2026-08-18T11:24:08.756Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.756Z",
+          "submissionTimestamp": 1779252727
         }
       ]
     },
@@ -342,7 +358,8 @@
           "filename": "0234-palindrome-linked-list.cpp",
           "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
           "sha": "7ece90c8c0bd9d0c32c63f704145c53218815044",
-          "lastSyncedAt": "2026-08-18T11:24:08.768Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.768Z",
+          "submissionTimestamp": 1733993232
         }
       ]
     },
@@ -362,7 +379,8 @@
           "filename": "0402-remove-k-digits.cpp",
           "path": "0402-remove-k-digits/0402-remove-k-digits.cpp",
           "sha": "45a823bd6b92559dc0a3551510788ad3353b3f47",
-          "lastSyncedAt": "2026-08-18T11:24:09.082Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.082Z",
+          "submissionTimestamp": 1749723589
         }
       ]
     },
@@ -382,7 +400,8 @@
           "filename": "0496-next-greater-element-i.cpp",
           "path": "0496-next-greater-element-i/0496-next-greater-element-i.cpp",
           "sha": "19b17f96262b9f8c7e83c05534f7aa9bf87ac520",
-          "lastSyncedAt": "2026-08-18T11:24:09.253Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.253Z",
+          "submissionTimestamp": 1734061033
         }
       ]
     },
@@ -402,7 +421,8 @@
           "filename": "0503-next-greater-element-ii.cpp",
           "path": "0503-next-greater-element-ii/0503-next-greater-element-ii.cpp",
           "sha": "d771c29f8a7a778216658784445679b23ee42a8e",
-          "lastSyncedAt": "2026-08-18T11:24:09.287Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.287Z",
+          "submissionTimestamp": 1749701367
         }
       ]
     },
@@ -422,7 +442,8 @@
           "filename": "0589-n-ary-tree-preorder-traversal.cpp",
           "path": "0589-n-ary-tree-preorder-traversal/0589-n-ary-tree-preorder-traversal.cpp",
           "sha": "341e201832cd618ace6b2904e051d60b202bbfec",
-          "lastSyncedAt": "2026-08-18T11:24:09.416Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.416Z",
+          "submissionTimestamp": 1734058371
         }
       ]
     },
@@ -442,7 +463,8 @@
           "filename": "0590-n-ary-tree-postorder-traversal.cpp",
           "path": "0590-n-ary-tree-postorder-traversal/0590-n-ary-tree-postorder-traversal.cpp",
           "sha": "021a4cfe9674e7d878e78cc26310d3cd97c89038",
-          "lastSyncedAt": "2026-08-18T11:24:09.428Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.428Z",
+          "submissionTimestamp": 1734060424
         }
       ]
     },
@@ -462,7 +484,8 @@
           "filename": "0678-valid-parenthesis-string.cpp",
           "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.cpp",
           "sha": "a24dde6f64ce3a2c1402a5895e8af23dbd2a9fb8",
-          "lastSyncedAt": "2026-08-18T11:24:09.522Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.522Z",
+          "submissionTimestamp": 1780040588
         }
       ]
     },
@@ -482,7 +505,8 @@
           "filename": "0682-baseball-game.cpp",
           "path": "0682-baseball-game/0682-baseball-game.cpp",
           "sha": "24a12fbc44b0cecdaae659c180a0f11cff914d39",
-          "lastSyncedAt": "2026-08-18T11:24:09.534Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.534Z",
+          "submissionTimestamp": 1734059383
         }
       ]
     },
@@ -502,7 +526,8 @@
           "filename": "0735-asteroid-collision.cpp",
           "path": "0735-asteroid-collision/0735-asteroid-collision.cpp",
           "sha": "a6d4ac21216f7055c93f3071c7c3b604738a86e0",
-          "lastSyncedAt": "2026-08-18T11:24:09.614Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.614Z",
+          "submissionTimestamp": 1749712942
         }
       ]
     },
@@ -522,7 +547,8 @@
           "filename": "0844-backspace-string-compare.cpp",
           "path": "0844-backspace-string-compare/0844-backspace-string-compare.cpp",
           "sha": "2906a958a17e15b2797c03c8bf04b38ab3d11aea",
-          "lastSyncedAt": "2026-08-18T11:24:09.754Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.754Z",
+          "submissionTimestamp": 1734062423
         }
       ]
     },
@@ -542,7 +568,8 @@
           "filename": "0897-increasing-order-search-tree.cpp",
           "path": "0897-increasing-order-search-tree/0897-increasing-order-search-tree.cpp",
           "sha": "794c21f8c3d15356570710ace30586b800c7957a",
-          "lastSyncedAt": "2026-08-18T11:24:09.857Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.857Z",
+          "submissionTimestamp": 1733987234
         }
       ]
     },
@@ -562,7 +589,8 @@
           "filename": "0901-online-stock-span.cpp",
           "path": "0901-online-stock-span/0901-online-stock-span.cpp",
           "sha": "571472b820618a5eba58526d5725b8c8a48c2236",
-          "lastSyncedAt": "2026-08-18T11:24:09.869Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.869Z",
+          "submissionTimestamp": 1779508591
         }
       ]
     },
@@ -582,7 +610,8 @@
           "filename": "0907-sum-of-subarray-minimums.cpp",
           "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.cpp",
           "sha": "1ad0c0bcca564905778e591cecb6fe248d6a5d11",
-          "lastSyncedAt": "2026-08-18T11:24:09.891Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.891Z",
+          "submissionTimestamp": 1779422271
         }
       ]
     },
@@ -602,7 +631,8 @@
           "filename": "0921-minimum-add-to-make-parentheses-valid.cpp",
           "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp",
           "sha": "2862e02e8c9e7f538dd0a51761d8cc1f07d79494",
-          "lastSyncedAt": "2026-08-18T11:24:09.912Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.912Z",
+          "submissionTimestamp": 1749114676
         }
       ]
     },
@@ -622,7 +652,8 @@
           "filename": "1008-construct-binary-search-tree-from-preorder-traversal.cpp",
           "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.cpp",
           "sha": "19e1e655f32287f1af900082ace9a35509016b26",
-          "lastSyncedAt": "2026-08-18T11:24:10.089Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.089Z",
+          "submissionTimestamp": 1749461928
         }
       ]
     },
@@ -642,7 +673,8 @@
           "filename": "1021-remove-outermost-parentheses.cpp",
           "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
           "sha": "9f319311ae25935fde56fd9b98adc8aab7f19763",
-          "lastSyncedAt": "2026-08-18T11:24:10.123Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.123Z",
+          "submissionTimestamp": 1761891842
         }
       ]
     },
@@ -662,7 +694,8 @@
           "filename": "1047-remove-all-adjacent-duplicates-in-string.cpp",
           "path": "1047-remove-all-adjacent-duplicates-in-string/1047-remove-all-adjacent-duplicates-in-string.cpp",
           "sha": "f93e3256c1d67885ee35e8eaeebe1fd95a6e2226",
-          "lastSyncedAt": "2026-08-18T11:24:10.148Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.148Z",
+          "submissionTimestamp": 1734077459
         }
       ]
     },
@@ -682,7 +715,8 @@
           "filename": "1081-smallest-subsequence-of-distinct-characters.cpp",
           "path": "1081-smallest-subsequence-of-distinct-characters/1081-smallest-subsequence-of-distinct-characters.cpp",
           "sha": "d7e67a1db511b06db8435ebbace097a2ca8b28b3",
-          "lastSyncedAt": "2026-08-18T11:24:10.171Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.171Z",
+          "submissionTimestamp": 1784438597
         }
       ]
     },
@@ -702,7 +736,8 @@
           "filename": "1475-final-prices-with-a-special-discount-in-a-shop.cpp",
           "path": "1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.cpp",
           "sha": "96cf3568aca37ca180685398ae5d608884540307",
-          "lastSyncedAt": "2026-08-18T11:24:10.496Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.496Z",
+          "submissionTimestamp": 1734060008
         }
       ]
     },
@@ -722,7 +757,8 @@
           "filename": "1544-make-the-string-great.cpp",
           "path": "1544-make-the-string-great/1544-make-the-string-great.cpp",
           "sha": "ac2e7eeaf4e7a73bf2a62ade88528a6e917b64a7",
-          "lastSyncedAt": "2026-08-18T11:24:10.544Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.544Z",
+          "submissionTimestamp": 1734077161
         }
       ]
     },
@@ -742,7 +778,8 @@
           "filename": "1598-crawler-log-folder.cpp",
           "path": "1598-crawler-log-folder/1598-crawler-log-folder.cpp",
           "sha": "a703fab811be456e7325cdfeee3ab8e0f3c51967",
-          "lastSyncedAt": "2026-08-18T11:24:10.578Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.578Z",
+          "submissionTimestamp": 1734076566
         }
       ]
     },
@@ -762,7 +799,8 @@
           "filename": "1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "sha": "74747147d7fa802f79b078d5c78229c73cbbc339",
-          "lastSyncedAt": "2026-08-18T11:24:10.590Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.590Z",
+          "submissionTimestamp": 1761942069
         }
       ]
     },
@@ -782,7 +820,8 @@
           "filename": "1700-number-of-students-unable-to-eat-lunch.cpp",
           "path": "1700-number-of-students-unable-to-eat-lunch/1700-number-of-students-unable-to-eat-lunch.cpp",
           "sha": "bae41e5c1a2550d887e7a77595e2b9ccf28c3e9e",
-          "lastSyncedAt": "2026-08-18T11:24:10.624Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.624Z",
+          "submissionTimestamp": 1733973251
         }
       ]
     },
@@ -802,7 +841,8 @@
           "filename": "2000-reverse-prefix-of-word.cpp",
           "path": "2000-reverse-prefix-of-word/2000-reverse-prefix-of-word.cpp",
           "sha": "a954effb2ba1c1333c582d44a8a2301b6c5b5792",
-          "lastSyncedAt": "2026-08-18T11:24:10.818Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.818Z",
+          "submissionTimestamp": 1734074754
         }
       ]
     },
@@ -822,7 +862,8 @@
           "filename": "2104-sum-of-subarray-ranges.cpp",
           "path": "2104-sum-of-subarray-ranges/2104-sum-of-subarray-ranges.cpp",
           "sha": "4e8bf40db08a97bcd78bf57a602efc167b58f21c",
-          "lastSyncedAt": "2026-08-18T11:24:10.962Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.962Z",
+          "submissionTimestamp": 1779422982
         }
       ]
     },
@@ -842,7 +883,8 @@
           "filename": "2434-using-a-robot-to-print-the-lexicographically-smallest-string.cpp",
           "path": "2434-using-a-robot-to-print-the-lexicographically-smallest-string/2434-using-a-robot-to-print-the-lexicographically-smallest-string.cpp",
           "sha": "a44ce40c9b18d61596f75ea8bdd2fdf68c3160c0",
-          "lastSyncedAt": "2026-08-18T11:24:11.131Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.131Z",
+          "submissionTimestamp": 1749182791
         }
       ]
     },
@@ -862,7 +904,8 @@
           "filename": "2696-minimum-string-length-after-removing-substrings.cpp",
           "path": "2696-minimum-string-length-after-removing-substrings/2696-minimum-string-length-after-removing-substrings.cpp",
           "sha": "939243099c402814c50a253e20718fd22ba39f86",
-          "lastSyncedAt": "2026-08-18T11:24:11.242Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.242Z",
+          "submissionTimestamp": 1734074452
         }
       ]
     },
@@ -882,7 +925,8 @@
           "filename": "3170-lexicographically-minimum-string-after-removing-stars.cpp",
           "path": "3170-lexicographically-minimum-string-after-removing-stars/3170-lexicographically-minimum-string-after-removing-stars.cpp",
           "sha": "4451c038600085e10e9aa075da877d380f388ea9",
-          "lastSyncedAt": "2026-08-18T11:24:11.476Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.476Z",
+          "submissionTimestamp": 1749270181
         }
       ]
     },
@@ -902,7 +946,8 @@
           "filename": "3174-clear-digits.cpp",
           "path": "3174-clear-digits/3174-clear-digits.cpp",
           "sha": "8dda69ab371db8d3245034fb00ebf4dd9f2aafa5",
-          "lastSyncedAt": "2026-08-18T11:24:11.487Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.487Z",
+          "submissionTimestamp": 1734060352
         }
       ]
     }

@@ -22,7 +22,8 @@
           "filename": "0001-two-sum.cpp",
           "path": "0001-two-sum/0001-two-sum.cpp",
           "sha": "9b34bf6dc573e5c2c84e6fb939d31efcb33161d9",
-          "lastSyncedAt": "2026-08-18T11:24:07.100Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.100Z",
+          "submissionTimestamp": 1760864259
         }
       ]
     },
@@ -42,7 +43,8 @@
           "filename": "0004-median-of-two-sorted-arrays.cpp",
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "f22a48e90eee96d1b020d17b94de3d97f57aac2d",
-          "lastSyncedAt": "2026-08-18T11:24:07.133Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.133Z",
+          "submissionTimestamp": 1761803523
         }
       ]
     },
@@ -62,7 +64,8 @@
           "filename": "0011-container-with-most-water.cpp",
           "path": "0011-container-with-most-water/0011-container-with-most-water.cpp",
           "sha": "728102f560ff2bdf8f67b8afb03d32239e913c18",
-          "lastSyncedAt": "2026-08-18T11:24:07.202Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.202Z",
+          "submissionTimestamp": 1752467229
         }
       ]
     },
@@ -82,7 +85,8 @@
           "filename": "0014-longest-common-prefix.cpp",
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.cpp",
           "sha": "5f1dd00dc372c4b999a722e785058897c326d6b3",
-          "lastSyncedAt": "2026-08-18T11:24:07.238Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.238Z",
+          "submissionTimestamp": 1761892662
         }
       ]
     },
@@ -102,7 +106,8 @@
           "filename": "0015-3sum.cpp",
           "path": "0015-3sum/0015-3sum.cpp",
           "sha": "289c1af212bb4f1ae064416f5a1bd1dc6beb644b",
-          "lastSyncedAt": "2026-08-18T11:24:07.250Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.250Z",
+          "submissionTimestamp": 1761309116
         }
       ]
     },
@@ -122,7 +127,8 @@
           "filename": "0018-4sum.cpp",
           "path": "0018-4sum/0018-4sum.cpp",
           "sha": "7e52635045da149961bd05a5993c90421854579f",
-          "lastSyncedAt": "2026-08-18T11:24:07.273Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.273Z",
+          "submissionTimestamp": 1761310045
         }
       ]
     },
@@ -142,7 +148,8 @@
           "filename": "0026-remove-duplicates-from-sorted-array.cpp",
           "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.cpp",
           "sha": "bbf29c2eb515cc45753ff9473e76910fb9161b54",
-          "lastSyncedAt": "2026-08-18T11:24:07.357Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.357Z",
+          "submissionTimestamp": 1760805233
         }
       ]
     },
@@ -162,7 +169,8 @@
           "filename": "0027-remove-element.cpp",
           "path": "0027-remove-element/0027-remove-element.cpp",
           "sha": "0ac669473a4645e6ae508a66c912fa479c899af6",
-          "lastSyncedAt": "2026-08-18T11:24:07.370Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.370Z",
+          "submissionTimestamp": 1752141001
         }
       ]
     },
@@ -182,7 +190,8 @@
           "filename": "0031-next-permutation.cpp",
           "path": "0031-next-permutation/0031-next-permutation.cpp",
           "sha": "c7703da89eae28c096b05d9cd9f509662a0ad48d",
-          "lastSyncedAt": "2026-08-18T11:24:07.419Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.419Z",
+          "submissionTimestamp": 1761031304
         }
       ]
     },
@@ -202,7 +211,8 @@
           "filename": "0033-search-in-rotated-sorted-array.cpp",
           "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.cpp",
           "sha": "7175310610824ed4a81334923b7a5aec3e52dd7f",
-          "lastSyncedAt": "2026-08-18T11:24:07.445Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.445Z",
+          "submissionTimestamp": 1761493707
         }
       ]
     },
@@ -222,7 +232,8 @@
           "filename": "0034-find-first-and-last-position-of-element-in-sorted-array.cpp",
           "path": "0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.cpp",
           "sha": "8b6eb116c9b9a04bba7b41e94b2079c1c38517cc",
-          "lastSyncedAt": "2026-08-18T11:24:07.458Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.458Z",
+          "submissionTimestamp": 1761458598
         }
       ]
     },
@@ -242,7 +253,8 @@
           "filename": "0035-search-insert-position.cpp",
           "path": "0035-search-insert-position/0035-search-insert-position.cpp",
           "sha": "4ec43bfa08d1e1eb56efb031840533ab2a549de8",
-          "lastSyncedAt": "2026-08-18T11:24:07.472Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.472Z",
+          "submissionTimestamp": 1761395070
         }
       ]
     },
@@ -262,7 +274,8 @@
           "filename": "0037-sudoku-solver.cpp",
           "path": "0037-sudoku-solver/0037-sudoku-solver.cpp",
           "sha": "1ca8d2dfe37ab9e8ace528dd2cf4d5da8ec1d7a2",
-          "lastSyncedAt": "2026-08-18T11:24:07.485Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.485Z",
+          "submissionTimestamp": 1779080751
         }
       ]
     },
@@ -282,7 +295,8 @@
           "filename": "0039-combination-sum.cpp",
           "path": "0039-combination-sum/0039-combination-sum.cpp",
           "sha": "164dadaec148838de30836a191c31ef030fbef83",
-          "lastSyncedAt": "2026-08-18T11:24:07.507Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.507Z",
+          "submissionTimestamp": 1769429998
         }
       ]
     },
@@ -302,7 +316,8 @@
           "filename": "0040-combination-sum-ii.cpp",
           "path": "0040-combination-sum-ii/0040-combination-sum-ii.cpp",
           "sha": "8e4f8ecbced66fb5345f1fd618837faeaf1bc27f",
-          "lastSyncedAt": "2026-08-18T11:24:07.520Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.520Z",
+          "submissionTimestamp": 1749615691
         }
       ]
     },
@@ -322,7 +337,8 @@
           "filename": "0041-first-missing-positive.cpp",
           "path": "0041-first-missing-positive/0041-first-missing-positive.cpp",
           "sha": "5f0c9ee62e5a5fe72d4839871e72e26e29752a9e",
-          "lastSyncedAt": "2026-08-18T11:24:07.533Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.533Z",
+          "submissionTimestamp": 1744969541
         }
       ]
     },
@@ -342,7 +358,8 @@
           "filename": "0042-trapping-rain-water.cpp",
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.cpp",
           "sha": "a4bb396562043fe5871e4457f54ea82c74462462",
-          "lastSyncedAt": "2026-08-18T11:24:07.544Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.544Z",
+          "submissionTimestamp": 1752295328
         }
       ]
     },
@@ -362,7 +379,8 @@
           "filename": "0045-jump-game-ii.cpp",
           "path": "0045-jump-game-ii/0045-jump-game-ii.cpp",
           "sha": "25fc8b223b5660c9ff0c90438d69cb34d5bce165",
-          "lastSyncedAt": "2026-08-18T11:24:07.554Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.554Z",
+          "submissionTimestamp": 1752206698
         }
       ]
     },
@@ -382,7 +400,8 @@
           "filename": "0046-permutations.cpp",
           "path": "0046-permutations/0046-permutations.cpp",
           "sha": "7010779210c58c7ebe1439f44baf06cbe4c31b5a",
-          "lastSyncedAt": "2026-08-18T11:24:07.565Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.565Z",
+          "submissionTimestamp": 1753598322
         }
       ]
     },
@@ -402,7 +421,8 @@
           "filename": "0048-rotate-image.cpp",
           "path": "0048-rotate-image/0048-rotate-image.cpp",
           "sha": "8a2f0eec37f3a0c3188caaf6daf85df27022033b",
-          "lastSyncedAt": "2026-08-18T11:24:07.577Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.577Z",
+          "submissionTimestamp": 1761294781
         }
       ]
     },
@@ -422,7 +442,8 @@
           "filename": "0049-group-anagrams.cpp",
           "path": "0049-group-anagrams/0049-group-anagrams.cpp",
           "sha": "52b0fd3ecbbcff8dd96050f1b1caa16ce01c2c1a",
-          "lastSyncedAt": "2026-08-18T11:24:07.588Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.588Z",
+          "submissionTimestamp": 1752552482
         }
       ]
     },
@@ -442,7 +463,8 @@
           "filename": "0051-n-queens.cpp",
           "path": "0051-n-queens/0051-n-queens.cpp",
           "sha": "661d3c071cda5a2da7aa2bb5678eb3ac552c4f55",
-          "lastSyncedAt": "2026-08-18T11:24:07.610Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.610Z",
+          "submissionTimestamp": 1754118830
         }
       ]
     },
@@ -462,7 +484,8 @@
           "filename": "0053-maximum-subarray.cpp",
           "path": "0053-maximum-subarray/0053-maximum-subarray.cpp",
           "sha": "36a789dda7bf85cdccc7ceba47cef9950551ab88",
-          "lastSyncedAt": "2026-08-18T11:24:07.633Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.633Z",
+          "submissionTimestamp": 1760977163
         }
       ]
     },
@@ -482,7 +505,8 @@
           "filename": "0054-spiral-matrix.cpp",
           "path": "0054-spiral-matrix/0054-spiral-matrix.cpp",
           "sha": "2e87bdf1b880fa19bfe5315e4907fbc65712d40e",
-          "lastSyncedAt": "2026-08-18T11:24:07.645Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.645Z",
+          "submissionTimestamp": 1761295545
         }
       ]
     },
@@ -502,7 +526,8 @@
           "filename": "0055-jump-game.cpp",
           "path": "0055-jump-game/0055-jump-game.cpp",
           "sha": "5725904897a09526d1a010833bc3694fccaef1a3",
-          "lastSyncedAt": "2026-08-18T11:24:07.658Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.658Z",
+          "submissionTimestamp": 1752206391
         }
       ]
     },
@@ -522,7 +547,8 @@
           "filename": "0056-merge-intervals.cpp",
           "path": "0056-merge-intervals/0056-merge-intervals.cpp",
           "sha": "2101a106364057c7dc216e8926e677d52ee5151b",
-          "lastSyncedAt": "2026-08-18T11:24:07.669Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.669Z",
+          "submissionTimestamp": 1761370157
         }
       ]
     },
@@ -542,7 +568,8 @@
           "filename": "0057-insert-interval.cpp",
           "path": "0057-insert-interval/0057-insert-interval.cpp",
           "sha": "d93d06e257bb7541685440b9de479e02e1ea5946",
-          "lastSyncedAt": "2026-08-18T11:24:07.681Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.681Z",
+          "submissionTimestamp": 1752643301
         }
       ]
     },
@@ -562,7 +589,8 @@
           "filename": "0066-plus-one.cpp",
           "path": "0066-plus-one/0066-plus-one.cpp",
           "sha": "12e166af990164cffdd4075ac33ba07312e9d4d1",
-          "lastSyncedAt": "2026-08-18T11:24:07.717Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.717Z",
+          "submissionTimestamp": 1753423364
         }
       ]
     },
@@ -582,7 +610,8 @@
           "filename": "0068-text-justification.cpp",
           "path": "0068-text-justification/0068-text-justification.cpp",
           "sha": "3372290ba4c3ee7e09968a4dc0a17e2a0cce502c",
-          "lastSyncedAt": "2026-08-18T11:24:07.738Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.738Z",
+          "submissionTimestamp": 1752384241
         }
       ]
     },
@@ -602,7 +631,8 @@
           "filename": "0073-set-matrix-zeroes.cpp",
           "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.cpp",
           "sha": "418184e099a3a21b667477eecf4835156e48d5fe",
-          "lastSyncedAt": "2026-08-18T11:24:07.774Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.774Z",
+          "submissionTimestamp": 1761037635
         }
       ]
     },
@@ -622,7 +652,8 @@
           "filename": "0074-search-a-2d-matrix.cpp",
           "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.cpp",
           "sha": "97dd83a18987a3b8b7a7b1b94756f1cdd4c0fe25",
-          "lastSyncedAt": "2026-08-18T11:24:07.786Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.786Z",
+          "submissionTimestamp": 1761806231
         }
       ]
     },
@@ -642,7 +673,8 @@
           "filename": "0075-sort-colors.cpp",
           "path": "0075-sort-colors/0075-sort-colors.cpp",
           "sha": "355414be86b1f11e44a2cf2e5e8716eb7f15ff92",
-          "lastSyncedAt": "2026-08-18T11:24:07.797Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.797Z",
+          "submissionTimestamp": 1760892363
         }
       ]
     },
@@ -662,7 +694,8 @@
           "filename": "0078-subsets.cpp",
           "path": "0078-subsets/0078-subsets.cpp",
           "sha": "3228c82fc3333e5204e43047683e94b4dfd2a599",
-          "lastSyncedAt": "2026-08-18T11:24:07.833Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.833Z",
+          "submissionTimestamp": 1769424685
         }
       ]
     },
@@ -682,7 +715,8 @@
           "filename": "0079-word-search.cpp",
           "path": "0079-word-search/0079-word-search.cpp",
           "sha": "accbb396ba666a93a446288d98095fa6126dc147",
-          "lastSyncedAt": "2026-08-18T11:24:07.845Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.845Z",
+          "submissionTimestamp": 1775071072
         }
       ]
     },
@@ -702,7 +736,8 @@
           "filename": "0080-remove-duplicates-from-sorted-array-ii.cpp",
           "path": "0080-remove-duplicates-from-sorted-array-ii/0080-remove-duplicates-from-sorted-array-ii.cpp",
           "sha": "ad8f7ec8879268793b3581cb23c4d62bad5945e8",
-          "lastSyncedAt": "2026-08-18T11:24:07.856Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.856Z",
+          "submissionTimestamp": 1752141210
         }
       ]
     },
@@ -722,7 +757,8 @@
           "filename": "0081-search-in-rotated-sorted-array-ii.cpp",
           "path": "0081-search-in-rotated-sorted-array-ii/0081-search-in-rotated-sorted-array-ii.cpp",
           "sha": "7cd0532e24d81f2c8a25eefa4f568a99933feecd",
-          "lastSyncedAt": "2026-08-18T11:24:07.868Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.868Z",
+          "submissionTimestamp": 1761494739
         }
       ]
     },
@@ -742,7 +778,8 @@
           "filename": "0084-largest-rectangle-in-histogram.cpp",
           "path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.cpp",
           "sha": "7965b097360e25be325d753ecb9c29da39a548a4",
-          "lastSyncedAt": "2026-08-18T11:24:07.892Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.892Z",
+          "submissionTimestamp": 1749744349
         }
       ]
     },
@@ -762,7 +799,8 @@
           "filename": "0085-maximal-rectangle.cpp",
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.cpp",
           "sha": "1c9d79385b354195da1d6fdf897804db7f1516c8",
-          "lastSyncedAt": "2026-08-18T11:24:07.904Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.904Z",
+          "submissionTimestamp": 1749744595
         }
       ]
     },
@@ -782,7 +820,8 @@
           "filename": "0088-merge-sorted-array.cpp",
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.cpp",
           "sha": "5768a0626c77da867677dda22b984153db778136",
-          "lastSyncedAt": "2026-08-18T11:24:07.916Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.916Z",
+          "submissionTimestamp": 1761371089
         }
       ]
     },
@@ -802,7 +841,8 @@
           "filename": "0090-subsets-ii.cpp",
           "path": "0090-subsets-ii/0090-subsets-ii.cpp",
           "sha": "8eb054c6cd052b74e698c45c3f595daebab17307",
-          "lastSyncedAt": "2026-08-18T11:24:07.927Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.927Z",
+          "submissionTimestamp": 1749616237
         }
       ]
     },
@@ -822,7 +862,8 @@
           "filename": "0105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
           "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
           "sha": "56912cb203d1f7ebf00bdb46aff98ae8cc23c426",
-          "lastSyncedAt": "2026-08-18T11:24:08.030Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.030Z",
+          "submissionTimestamp": 1753684485
         }
       ]
     },
@@ -842,7 +883,8 @@
           "filename": "0108-convert-sorted-array-to-binary-search-tree.cpp",
           "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.cpp",
           "sha": "803e9bc651e8690f9857be58adeec39966fbd4f4",
-          "lastSyncedAt": "2026-08-18T11:24:08.042Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.042Z",
+          "submissionTimestamp": 1753063417
         }
       ]
     },
@@ -862,7 +904,8 @@
           "filename": "0118-pascals-triangle.cpp",
           "path": "0118-pascals-triangle/0118-pascals-triangle.cpp",
           "sha": "bcd81e3e9212cfb536f0e25339bcb1371f105cc0",
-          "lastSyncedAt": "2026-08-18T11:24:08.112Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.112Z",
+          "submissionTimestamp": 1761306146
         }
       ]
     },
@@ -882,7 +925,8 @@
           "filename": "0121-best-time-to-buy-and-sell-stock.cpp",
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.cpp",
           "sha": "dd7f8b163dfcbb22ed66093989d638c59163d315",
-          "lastSyncedAt": "2026-08-18T11:24:08.124Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.124Z",
+          "submissionTimestamp": 1761021687
         }
       ]
     },
@@ -902,7 +946,8 @@
           "filename": "0122-best-time-to-buy-and-sell-stock-ii.cpp",
           "path": "0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.cpp",
           "sha": "c8d2b645b2e7c8e566bd8bfbd6c39388fecce93d",
-          "lastSyncedAt": "2026-08-18T11:24:08.136Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.136Z",
+          "submissionTimestamp": 1752206289
         }
       ]
     },
@@ -922,7 +967,8 @@
           "filename": "0128-longest-consecutive-sequence.cpp",
           "path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.cpp",
           "sha": "7debbcbb856d2eeba042a5a3d3f2dc1ea6a8b0c4",
-          "lastSyncedAt": "2026-08-18T11:24:08.170Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.170Z",
+          "submissionTimestamp": 1761036008
         }
       ]
     },
@@ -942,7 +988,8 @@
           "filename": "0130-surrounded-regions.cpp",
           "path": "0130-surrounded-regions/0130-surrounded-regions.cpp",
           "sha": "5afce3e43fe51b47931cdf64c1b8279e34f3c3c8",
-          "lastSyncedAt": "2026-08-18T11:24:08.192Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.192Z",
+          "submissionTimestamp": 1782830773
         }
       ]
     },
@@ -962,7 +1009,8 @@
           "filename": "0134-gas-station.cpp",
           "path": "0134-gas-station/0134-gas-station.cpp",
           "sha": "f77af23386cfc4d723e388d98ef402168a13441c",
-          "lastSyncedAt": "2026-08-18T11:24:08.216Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.216Z",
+          "submissionTimestamp": 1752294840
         }
       ]
     },
@@ -982,7 +1030,8 @@
           "filename": "0135-candy.cpp",
           "path": "0135-candy/0135-candy.cpp",
           "sha": "214977732955c641e974b2c203bef6a3d70c35d5",
-          "lastSyncedAt": "2026-08-18T11:24:08.227Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.227Z",
+          "submissionTimestamp": 1752295142
         }
       ]
     },
@@ -1002,7 +1051,8 @@
           "filename": "0136-single-number.cpp",
           "path": "0136-single-number/0136-single-number.cpp",
           "sha": "aa86d38d18d320a8fefaf58f4f492db9c5b9f167",
-          "lastSyncedAt": "2026-08-18T11:24:08.239Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.239Z",
+          "submissionTimestamp": 1760821963
         }
       ]
     },
@@ -1022,7 +1072,8 @@
           "filename": "0137-single-number-ii.cpp",
           "path": "0137-single-number-ii/0137-single-number-ii.cpp",
           "sha": "ec4046b6bfcdbaa7b51461c1328b5aac1d3333b7",
-          "lastSyncedAt": "2026-08-18T11:24:08.250Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.250Z",
+          "submissionTimestamp": 1753344450
         }
       ]
     },
@@ -1042,7 +1093,8 @@
           "filename": "0150-evaluate-reverse-polish-notation.cpp",
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.cpp",
           "sha": "e9f74cbfdb85be7772c283f46b97f0e538ef79cb",
-          "lastSyncedAt": "2026-08-18T11:24:08.332Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.332Z",
+          "submissionTimestamp": 1752728438
         }
       ]
     },
@@ -1062,7 +1114,8 @@
           "filename": "0152-maximum-product-subarray.cpp",
           "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.cpp",
           "sha": "cdbe5cac2fef103f47601fb797fd6fa6e91dab0f",
-          "lastSyncedAt": "2026-08-18T11:24:08.355Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.355Z",
+          "submissionTimestamp": 1761372831
         }
       ]
     },
@@ -1082,7 +1135,8 @@
           "filename": "0153-find-minimum-in-rotated-sorted-array.cpp",
           "path": "0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.cpp",
           "sha": "9bd45d79da97edf23b14bd9b6a14e14ff80d748a",
-          "lastSyncedAt": "2026-08-18T11:24:08.367Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.367Z",
+          "submissionTimestamp": 1761495388
         }
       ]
     },
@@ -1102,7 +1156,8 @@
           "filename": "0162-find-peak-element.cpp",
           "path": "0162-find-peak-element/0162-find-peak-element.cpp",
           "sha": "19bffae0ace95d4218cfc0ec8cbe7c5040f146d9",
-          "lastSyncedAt": "2026-08-18T11:24:08.402Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.402Z",
+          "submissionTimestamp": 1761498576
         }
       ]
     },
@@ -1122,7 +1177,8 @@
           "filename": "0167-two-sum-ii-input-array-is-sorted.cpp",
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.cpp",
           "sha": "25612a216eabda1f92ab705715c83b869e4ca04e",
-          "lastSyncedAt": "2026-08-18T11:24:08.414Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.414Z",
+          "submissionTimestamp": 1752466945
         }
       ]
     },
@@ -1142,7 +1198,8 @@
           "filename": "0169-majority-element.cpp",
           "path": "0169-majority-element/0169-majority-element.cpp",
           "sha": "3b48202c810cdfba167b43be97e60c3a0094f119",
-          "lastSyncedAt": "2026-08-18T11:24:08.424Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.424Z",
+          "submissionTimestamp": 1760892544
         }
       ]
     },
@@ -1162,7 +1219,8 @@
           "filename": "0189-rotate-array.cpp",
           "path": "0189-rotate-array/0189-rotate-array.cpp",
           "sha": "c58028423ebc3898a6283a8f6bac0afe97a62211",
-          "lastSyncedAt": "2026-08-18T11:24:08.459Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.459Z",
+          "submissionTimestamp": 1760821077
         }
       ]
     },
@@ -1182,7 +1240,8 @@
           "filename": "0200-number-of-islands.cpp",
           "path": "0200-number-of-islands/0200-number-of-islands.cpp",
           "sha": "296eeae50ffe1d2cd9f6859473110200b82d47ef",
-          "lastSyncedAt": "2026-08-18T11:24:08.505Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.505Z",
+          "submissionTimestamp": 1782916447
         }
       ]
     },
@@ -1202,7 +1261,8 @@
           "filename": "0204-count-primes.cpp",
           "path": "0204-count-primes/0204-count-primes.cpp",
           "sha": "ee0938227060dffe968a87e3db20b4042483ad1b",
-          "lastSyncedAt": "2026-08-18T11:24:08.551Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.551Z",
+          "submissionTimestamp": 1744716592
         }
       ]
     },
@@ -1222,7 +1282,8 @@
           "filename": "0209-minimum-size-subarray-sum.cpp",
           "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.cpp",
           "sha": "8fef2cffd93ff71d5e21fe00073978cfcf6f04a7",
-          "lastSyncedAt": "2026-08-18T11:24:08.595Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.595Z",
+          "submissionTimestamp": 1752384357
         }
       ]
     },
@@ -1242,7 +1303,8 @@
           "filename": "0215-kth-largest-element-in-an-array.cpp",
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
           "sha": "4aca8d0ce25808a0afcaea711449181d84836437",
-          "lastSyncedAt": "2026-08-18T11:24:08.618Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.618Z",
+          "submissionTimestamp": 1779976224
         }
       ]
     },
@@ -1262,7 +1324,8 @@
           "filename": "0216-combination-sum-iii.cpp",
           "path": "0216-combination-sum-iii/0216-combination-sum-iii.cpp",
           "sha": "78904f8737786ec6a1bc5682a8cceced4b74cb88",
-          "lastSyncedAt": "2026-08-18T11:24:08.629Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.629Z",
+          "submissionTimestamp": 1749617095
         }
       ]
     },
@@ -1282,7 +1345,8 @@
           "filename": "0219-contains-duplicate-ii.cpp",
           "path": "0219-contains-duplicate-ii/0219-contains-duplicate-ii.cpp",
           "sha": "55d9ca7376f377de512693134fcc8b9d1d5b3678",
-          "lastSyncedAt": "2026-08-18T11:24:08.641Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.641Z",
+          "submissionTimestamp": 1752553014
         }
       ]
     },
@@ -1302,7 +1366,8 @@
           "filename": "0220-contains-duplicate-iii.cpp",
           "path": "0220-contains-duplicate-iii/0220-contains-duplicate-iii.cpp",
           "sha": "a1617370da7b564b084553ebcb43b825dbaca29f",
-          "lastSyncedAt": "2026-08-18T11:24:08.652Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.652Z",
+          "submissionTimestamp": 1759161793
         }
       ]
     },
@@ -1322,7 +1387,8 @@
           "filename": "0228-summary-ranges.cpp",
           "path": "0228-summary-ranges/0228-summary-ranges.cpp",
           "sha": "efa8e1a4e9fdd812dcb3a9fa80aab9643e58e1c9",
-          "lastSyncedAt": "2026-08-18T11:24:08.709Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.709Z",
+          "submissionTimestamp": 1752642824
         }
       ]
     },
@@ -1342,7 +1408,8 @@
           "filename": "0229-majority-element-ii.cpp",
           "path": "0229-majority-element-ii/0229-majority-element-ii.cpp",
           "sha": "641ce01cbd539a10cc830015ea2f9e0f5c9c7d65",
-          "lastSyncedAt": "2026-08-18T11:24:08.721Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.721Z",
+          "submissionTimestamp": 1761306781
         }
       ]
     },
@@ -1362,7 +1429,8 @@
           "filename": "0238-product-of-array-except-self.cpp",
           "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
           "sha": "869867b57878bf976d9460138ddead26dd959f49",
-          "lastSyncedAt": "2026-08-18T11:24:08.817Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.817Z",
+          "submissionTimestamp": 1752294568
         }
       ]
     },
@@ -1382,7 +1450,8 @@
           "filename": "0239-sliding-window-maximum.cpp",
           "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.cpp",
           "sha": "a227f5f7dab78918773ddc8688a3efe0a63ac13c",
-          "lastSyncedAt": "2026-08-18T11:24:08.828Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.828Z",
+          "submissionTimestamp": 1779508220
         }
       ]
     },
@@ -1402,7 +1471,8 @@
           "filename": "0240-search-a-2d-matrix-ii.cpp",
           "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.cpp",
           "sha": "f291051d0e2c95cbb66cdc811fc12b3c39e9b05a",
-          "lastSyncedAt": "2026-08-18T11:24:08.840Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.840Z",
+          "submissionTimestamp": 1761817612
         }
       ]
     },
@@ -1422,7 +1492,8 @@
           "filename": "0260-single-number-iii.cpp",
           "path": "0260-single-number-iii/0260-single-number-iii.cpp",
           "sha": "d8bec2361205ce80af2965299ceeb055d8ceabf8",
-          "lastSyncedAt": "2026-08-18T11:24:08.874Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.874Z",
+          "submissionTimestamp": 1779168154
         }
       ]
     },
@@ -1442,7 +1513,8 @@
           "filename": "0268-missing-number.cpp",
           "path": "0268-missing-number/0268-missing-number.cpp",
           "sha": "d0e5102e1197696957935575bd15ddc2e1db60c4",
-          "lastSyncedAt": "2026-08-18T11:24:08.885Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.885Z",
+          "submissionTimestamp": 1760821561
         }
       ]
     },
@@ -1462,7 +1534,8 @@
           "filename": "0274-h-index.cpp",
           "path": "0274-h-index/0274-h-index.cpp",
           "sha": "4898478ddb7145dc19f48279c9c1d8bddabeba01",
-          "lastSyncedAt": "2026-08-18T11:24:08.907Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.907Z",
+          "submissionTimestamp": 1752293760
         }
       ]
     },
@@ -1482,7 +1555,8 @@
           "filename": "0283-move-zeroes.cpp",
           "path": "0283-move-zeroes/0283-move-zeroes.cpp",
           "sha": "a476f48e6d449bb75db8c8b5b80a45abc9dccfeb",
-          "lastSyncedAt": "2026-08-18T11:24:08.931Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.931Z",
+          "submissionTimestamp": 1760821342
         }
       ]
     },
@@ -1502,7 +1576,8 @@
           "filename": "0347-top-k-frequent-elements.cpp",
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
           "sha": "657375bd69aabcd294bad0383f69956d630900fa",
-          "lastSyncedAt": "2026-08-18T11:24:08.977Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.977Z",
+          "submissionTimestamp": 1749787984
         }
       ]
     },
@@ -1522,7 +1597,8 @@
           "filename": "0373-find-k-pairs-with-smallest-sums.cpp",
           "path": "0373-find-k-pairs-with-smallest-sums/0373-find-k-pairs-with-smallest-sums.cpp",
           "sha": "c2955f79f8d4ec8853aa90092bdb166634c6bc26",
-          "lastSyncedAt": "2026-08-18T11:24:09.001Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.001Z",
+          "submissionTimestamp": 1753251205
         }
       ]
     },
@@ -1542,7 +1618,8 @@
           "filename": "0380-insert-delete-getrandom-o1.cpp",
           "path": "0380-insert-delete-getrandom-o1/0380-insert-delete-getrandom-o1.cpp",
           "sha": "538a3edb223c743f35557f279b3671d05d90a690",
-          "lastSyncedAt": "2026-08-18T11:24:09.013Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.013Z",
+          "submissionTimestamp": 1752294221
         }
       ]
     },
@@ -1562,7 +1639,8 @@
           "filename": "0399-evaluate-division.cpp",
           "path": "0399-evaluate-division/0399-evaluate-division.cpp",
           "sha": "ed5929f7f76fc9e2c0a81ab4bf9baa8a58fc030d",
-          "lastSyncedAt": "2026-08-18T11:24:09.070Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.070Z",
+          "submissionTimestamp": 1785993881
         }
       ]
     },
@@ -1582,7 +1660,8 @@
           "filename": "0410-split-array-largest-sum.cpp",
           "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.cpp",
           "sha": "94aad21acdd23a5dd51460a3aa88a971d2db161b",
-          "lastSyncedAt": "2026-08-18T11:24:09.117Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.117Z",
+          "submissionTimestamp": 1761714227
         }
       ]
     },
@@ -1602,7 +1681,8 @@
           "filename": "0427-construct-quad-tree.cpp",
           "path": "0427-construct-quad-tree/0427-construct-quad-tree.cpp",
           "sha": "f4277ff51a52159f0e3623bf4a39c8a4035cb044",
-          "lastSyncedAt": "2026-08-18T11:24:09.140Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.140Z",
+          "submissionTimestamp": 1753063961
         }
       ]
     },
@@ -1622,7 +1702,8 @@
           "filename": "0435-non-overlapping-intervals.cpp",
           "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.cpp",
           "sha": "254afa2077f7a1a6cf800c3f8bd2a6c7a470d3c8",
-          "lastSyncedAt": "2026-08-18T11:24:09.152Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.152Z",
+          "submissionTimestamp": 1749286231
         }
       ]
     },
@@ -1642,7 +1723,8 @@
           "filename": "0452-minimum-number-of-arrows-to-burst-balloons.cpp",
           "path": "0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.cpp",
           "sha": "d337f4b62c64887d12da1d6c3714d713d434cfe5",
-          "lastSyncedAt": "2026-08-18T11:24:09.196Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.196Z",
+          "submissionTimestamp": 1752643775
         }
       ]
     },
@@ -1662,7 +1744,8 @@
           "filename": "0455-assign-cookies.cpp",
           "path": "0455-assign-cookies/0455-assign-cookies.cpp",
           "sha": "ebea118d50996abdaf324842091cae7dd9adf136",
-          "lastSyncedAt": "2026-08-18T11:24:09.207Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.207Z",
+          "submissionTimestamp": 1780039740
         }
       ]
     },
@@ -1682,7 +1765,8 @@
           "filename": "0485-max-consecutive-ones.cpp",
           "path": "0485-max-consecutive-ones/0485-max-consecutive-ones.cpp",
           "sha": "25c9c2975b6861b2f7e8b09853fe3f47b4c3866a",
-          "lastSyncedAt": "2026-08-18T11:24:09.220Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.220Z",
+          "submissionTimestamp": 1760821809
         }
       ]
     },
@@ -1702,7 +1786,8 @@
           "filename": "0486-predict-the-winner.cpp",
           "path": "0486-predict-the-winner/0486-predict-the-winner.cpp",
           "sha": "c3cbabd9b8f48deaa2d1e097933c7122a06fe529",
-          "lastSyncedAt": "2026-08-18T11:24:09.231Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.231Z",
+          "submissionTimestamp": 1785559554
         }
       ]
     },
@@ -1722,7 +1807,8 @@
           "filename": "0493-reverse-pairs.cpp",
           "path": "0493-reverse-pairs/0493-reverse-pairs.cpp",
           "sha": "e6010eb7646160720e64ac2f7eb4859c9349e424",
-          "lastSyncedAt": "2026-08-18T11:24:09.241Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.241Z",
+          "submissionTimestamp": 1761374998
         }
       ]
     },
@@ -1742,7 +1828,8 @@
           "filename": "0496-next-greater-element-i.cpp",
           "path": "0496-next-greater-element-i/0496-next-greater-element-i.cpp",
           "sha": "19b17f96262b9f8c7e83c05534f7aa9bf87ac520",
-          "lastSyncedAt": "2026-08-18T11:24:09.253Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.253Z",
+          "submissionTimestamp": 1734061033
         }
       ]
     },
@@ -1762,7 +1849,8 @@
           "filename": "0502-ipo.cpp",
           "path": "0502-ipo/0502-ipo.cpp",
           "sha": "268b022d30e26443cac4ad3683723691ea71059f",
-          "lastSyncedAt": "2026-08-18T11:24:09.275Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.275Z",
+          "submissionTimestamp": 1753246301
         }
       ]
     },
@@ -1782,7 +1870,8 @@
           "filename": "0503-next-greater-element-ii.cpp",
           "path": "0503-next-greater-element-ii/0503-next-greater-element-ii.cpp",
           "sha": "d771c29f8a7a778216658784445679b23ee42a8e",
-          "lastSyncedAt": "2026-08-18T11:24:09.287Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.287Z",
+          "submissionTimestamp": 1749701367
         }
       ]
     },
@@ -1802,7 +1891,8 @@
           "filename": "0506-relative-ranks.cpp",
           "path": "0506-relative-ranks/0506-relative-ranks.cpp",
           "sha": "87d67e3e67ddd1c899745aec89e983552d61a900",
-          "lastSyncedAt": "2026-08-18T11:24:09.298Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.298Z",
+          "submissionTimestamp": 1734237967
         }
       ]
     },
@@ -1822,7 +1912,8 @@
           "filename": "0540-single-element-in-a-sorted-array.cpp",
           "path": "0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.cpp",
           "sha": "b0b5d9f469b75954d95bde8789ccf58c19939e3f",
-          "lastSyncedAt": "2026-08-18T11:24:09.335Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.335Z",
+          "submissionTimestamp": 1761498016
         }
       ]
     },
@@ -1842,7 +1933,8 @@
           "filename": "0542-01-matrix.cpp",
           "path": "0542-01-matrix/0542-01-matrix.cpp",
           "sha": "8f560a9da5a58861b890b27114419e0d218a161a",
-          "lastSyncedAt": "2026-08-18T11:24:09.347Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.347Z",
+          "submissionTimestamp": 1782830253
         }
       ]
     },
@@ -1862,7 +1954,8 @@
           "filename": "0560-subarray-sum-equals-k.cpp",
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.cpp",
           "sha": "be1e64409e46d32a8f8b81b132d4ae06e33654e4",
-          "lastSyncedAt": "2026-08-18T11:24:09.380Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.380Z",
+          "submissionTimestamp": 1761296933
         }
       ]
     },
@@ -1882,7 +1975,8 @@
           "filename": "0621-task-scheduler.cpp",
           "path": "0621-task-scheduler/0621-task-scheduler.cpp",
           "sha": "553bb30dbf177ca9df7cff0ebf1769a1cea0d101",
-          "lastSyncedAt": "2026-08-18T11:24:09.451Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.451Z",
+          "submissionTimestamp": 1779982807
         }
       ]
     },
@@ -1902,7 +1996,8 @@
           "filename": "0628-maximum-product-of-three-numbers.cpp",
           "path": "0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.cpp",
           "sha": "28a94e49494be64f1b35590d19e302b2ec2c4f37",
-          "lastSyncedAt": "2026-08-18T11:24:09.463Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.463Z",
+          "submissionTimestamp": 1785037598
         }
       ]
     },
@@ -1922,7 +2017,8 @@
           "filename": "0682-baseball-game.cpp",
           "path": "0682-baseball-game/0682-baseball-game.cpp",
           "sha": "24a12fbc44b0cecdaae659c180a0f11cff914d39",
-          "lastSyncedAt": "2026-08-18T11:24:09.534Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.534Z",
+          "submissionTimestamp": 1734059383
         }
       ]
     },
@@ -1942,7 +2038,8 @@
           "filename": "0704-binary-search.cpp",
           "path": "0704-binary-search/0704-binary-search.cpp",
           "sha": "7a3cf6a197d4de3d7351af13f415841f593828f9",
-          "lastSyncedAt": "2026-08-18T11:24:09.580Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.580Z",
+          "submissionTimestamp": 1761394058
         }
       ]
     },
@@ -1962,7 +2059,8 @@
           "filename": "0721-accounts-merge.cpp",
           "path": "0721-accounts-merge/0721-accounts-merge.cpp",
           "sha": "94faded838bafdecc590bf6a71796c8e8e429cec",
-          "lastSyncedAt": "2026-08-18T11:24:09.591Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.591Z",
+          "submissionTimestamp": 1783934122
         }
       ]
     },
@@ -1982,7 +2080,8 @@
           "filename": "0733-flood-fill.cpp",
           "path": "0733-flood-fill/0733-flood-fill.cpp",
           "sha": "8eaa1ac68285d69df01a1d24fbf791edb8161c81",
-          "lastSyncedAt": "2026-08-18T11:24:09.602Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.602Z",
+          "submissionTimestamp": 1782742710
         }
       ]
     },
@@ -2002,7 +2101,8 @@
           "filename": "0735-asteroid-collision.cpp",
           "path": "0735-asteroid-collision/0735-asteroid-collision.cpp",
           "sha": "a6d4ac21216f7055c93f3071c7c3b604738a86e0",
-          "lastSyncedAt": "2026-08-18T11:24:09.614Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.614Z",
+          "submissionTimestamp": 1749712942
         }
       ]
     },
@@ -2022,7 +2122,8 @@
           "filename": "0781-rabbits-in-forest.cpp",
           "path": "0781-rabbits-in-forest/0781-rabbits-in-forest.cpp",
           "sha": "8a5de7feac1083ac7d1973ebe0ef77456c400f9c",
-          "lastSyncedAt": "2026-08-18T11:24:09.638Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.638Z",
+          "submissionTimestamp": 1745140650
         }
       ]
     },
@@ -2042,7 +2143,8 @@
           "filename": "0846-hand-of-straights.cpp",
           "path": "0846-hand-of-straights/0846-hand-of-straights.cpp",
           "sha": "80ca395cdb89e5f84271a2d682e6ad50f3c927d0",
-          "lastSyncedAt": "2026-08-18T11:24:09.766Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.766Z",
+          "submissionTimestamp": 1749786922
         }
       ]
     },
@@ -2062,7 +2164,8 @@
           "filename": "0860-lemonade-change.cpp",
           "path": "0860-lemonade-change/0860-lemonade-change.cpp",
           "sha": "caba9dc5a4d90d843c9406367b2b408305929093",
-          "lastSyncedAt": "2026-08-18T11:24:09.777Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.777Z",
+          "submissionTimestamp": 1780040462
         }
       ]
     },
@@ -2082,7 +2185,8 @@
           "filename": "0875-koko-eating-bananas.cpp",
           "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.cpp",
           "sha": "9f63a241f3b9f907b1fab940864bc9fbb21911ee",
-          "lastSyncedAt": "2026-08-18T11:24:09.823Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.823Z",
+          "submissionTimestamp": 1761547835
         }
       ]
     },
@@ -2102,7 +2206,8 @@
           "filename": "0877-stone-game.cpp",
           "path": "0877-stone-game/0877-stone-game.cpp",
           "sha": "55ffc67c34b53720449799d9bdf5aa35b63d8285",
-          "lastSyncedAt": "2026-08-18T11:24:09.846Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.846Z",
+          "submissionTimestamp": 1785642503
         }
       ]
     },
@@ -2122,7 +2227,8 @@
           "filename": "0904-fruit-into-baskets.cpp",
           "path": "0904-fruit-into-baskets/0904-fruit-into-baskets.cpp",
           "sha": "fcccc984f9859311fdad78a76c4c9b80e1dde2d9",
-          "lastSyncedAt": "2026-08-18T11:24:09.880Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.880Z",
+          "submissionTimestamp": 1779795348
         }
       ]
     },
@@ -2142,7 +2248,8 @@
           "filename": "0907-sum-of-subarray-minimums.cpp",
           "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.cpp",
           "sha": "1ad0c0bcca564905778e591cecb6fe248d6a5d11",
-          "lastSyncedAt": "2026-08-18T11:24:09.891Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.891Z",
+          "submissionTimestamp": 1779422271
         }
       ]
     },
@@ -2162,7 +2269,8 @@
           "filename": "0918-maximum-sum-circular-subarray.cpp",
           "path": "0918-maximum-sum-circular-subarray/0918-maximum-sum-circular-subarray.cpp",
           "sha": "2f548e92cd781a35dae3785b1ed86b4045dce5b1",
-          "lastSyncedAt": "2026-08-18T11:24:09.901Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.901Z",
+          "submissionTimestamp": 1752915331
         }
       ]
     },
@@ -2182,7 +2290,8 @@
           "filename": "0930-binary-subarrays-with-sum.cpp",
           "path": "0930-binary-subarrays-with-sum/0930-binary-subarrays-with-sum.cpp",
           "sha": "2d10b27a56589ae98d4b13266cf949169246a032",
-          "lastSyncedAt": "2026-08-18T11:24:09.925Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.925Z",
+          "submissionTimestamp": 1744380118
         }
       ]
     },
@@ -2202,7 +2311,8 @@
           "filename": "0942-di-string-match.cpp",
           "path": "0942-di-string-match/0942-di-string-match.cpp",
           "sha": "91692143b9ced1d3cc8615a742a6df7a632bc455",
-          "lastSyncedAt": "2026-08-18T11:24:09.961Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.961Z",
+          "submissionTimestamp": 1747458253
         }
       ]
     },
@@ -2222,7 +2332,8 @@
           "filename": "0992-subarrays-with-k-different-integers.cpp",
           "path": "0992-subarrays-with-k-different-integers/0992-subarrays-with-k-different-integers.cpp",
           "sha": "61444f40fcd64a5140d9c02b74449e17b3aa53d3",
-          "lastSyncedAt": "2026-08-18T11:24:10.009Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.009Z",
+          "submissionTimestamp": 1749287348
         }
       ]
     },
@@ -2242,7 +2353,8 @@
           "filename": "0994-rotting-oranges.cpp",
           "path": "0994-rotting-oranges/0994-rotting-oranges.cpp",
           "sha": "a7a147948d59555355af51e51616f93e3cc8867d",
-          "lastSyncedAt": "2026-08-18T11:24:10.032Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.032Z",
+          "submissionTimestamp": 1782742455
         }
       ]
     },
@@ -2262,7 +2374,8 @@
           "filename": "0996-number-of-squareful-arrays.cpp",
           "path": "0996-number-of-squareful-arrays/0996-number-of-squareful-arrays.cpp",
           "sha": "584898e28e8f32077ddff38ece724b6044a9d2e0",
-          "lastSyncedAt": "2026-08-18T11:24:10.042Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.042Z",
+          "submissionTimestamp": 1754119926
         }
       ]
     },
@@ -2282,7 +2395,8 @@
           "filename": "0997-find-the-town-judge.cpp",
           "path": "0997-find-the-town-judge/0997-find-the-town-judge.cpp",
           "sha": "f7da6ebc158a4d239f314da6d4be0ef828312086",
-          "lastSyncedAt": "2026-08-18T11:37:16.879Z"
+          "lastSyncedAt": "2026-08-18T11:37:16.879Z",
+          "submissionTimestamp": 1786456080
         }
       ]
     },
@@ -2302,7 +2416,8 @@
           "filename": "1004-max-consecutive-ones-iii.cpp",
           "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.cpp",
           "sha": "8bcbcc8b04a8166a6beade72398280fa457f3ce4",
-          "lastSyncedAt": "2026-08-18T11:24:10.067Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.067Z",
+          "submissionTimestamp": 1744378878
         }
       ]
     },
@@ -2322,7 +2437,8 @@
           "filename": "1007-minimum-domino-rotations-for-equal-row.cpp",
           "path": "1007-minimum-domino-rotations-for-equal-row/1007-minimum-domino-rotations-for-equal-row.cpp",
           "sha": "f54340fe1fa11cf6d2f21bff44b18f3d85822f80",
-          "lastSyncedAt": "2026-08-18T11:24:10.078Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.078Z",
+          "submissionTimestamp": 1746269407
         }
       ]
     },
@@ -2342,7 +2458,8 @@
           "filename": "1008-construct-binary-search-tree-from-preorder-traversal.cpp",
           "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.cpp",
           "sha": "19e1e655f32287f1af900082ace9a35509016b26",
-          "lastSyncedAt": "2026-08-18T11:24:10.089Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.089Z",
+          "submissionTimestamp": 1749461928
         }
       ]
     },
@@ -2362,7 +2479,8 @@
           "filename": "1011-capacity-to-ship-packages-within-d-days.cpp",
           "path": "1011-capacity-to-ship-packages-within-d-days/1011-capacity-to-ship-packages-within-d-days.cpp",
           "sha": "de9082d3bcd6e4ed1880f862036845faeb068a80",
-          "lastSyncedAt": "2026-08-18T11:24:10.100Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.100Z",
+          "submissionTimestamp": 1761628762
         }
       ]
     },
@@ -2382,7 +2500,8 @@
           "filename": "1020-number-of-enclaves.cpp",
           "path": "1020-number-of-enclaves/1020-number-of-enclaves.cpp",
           "sha": "61838bd5b15fa29fc580cce569efa2e1b988252a",
-          "lastSyncedAt": "2026-08-18T11:24:10.111Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.111Z",
+          "submissionTimestamp": 1782831139
         }
       ]
     },
@@ -2402,7 +2521,8 @@
           "filename": "1091-shortest-path-in-binary-matrix.cpp",
           "path": "1091-shortest-path-in-binary-matrix/1091-shortest-path-in-binary-matrix.cpp",
           "sha": "4ab081b16c6f7beaf87f4f78f2c685a14aaca06a",
-          "lastSyncedAt": "2026-08-18T11:24:10.183Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.183Z",
+          "submissionTimestamp": 1783345421
         }
       ]
     },
@@ -2422,7 +2542,8 @@
           "filename": "1128-number-of-equivalent-domino-pairs.cpp",
           "path": "1128-number-of-equivalent-domino-pairs/1128-number-of-equivalent-domino-pairs.cpp",
           "sha": "ddf157b8c4beda002aef89ca1d3ef507cf2447f1",
-          "lastSyncedAt": "2026-08-18T11:24:10.195Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.195Z",
+          "submissionTimestamp": 1746348600
         }
       ]
     },
@@ -2442,7 +2563,8 @@
           "filename": "1140-stone-game-ii.cpp",
           "path": "1140-stone-game-ii/1140-stone-game-ii.cpp",
           "sha": "14854260098744ff4abcd8959a416900b0da702d",
-          "lastSyncedAt": "2026-08-18T11:24:10.207Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.207Z",
+          "submissionTimestamp": 1786239279
         }
       ]
     },
@@ -2462,7 +2584,8 @@
           "filename": "1248-count-number-of-nice-subarrays.cpp",
           "path": "1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.cpp",
           "sha": "60191bd85ff06bc37835b2a9c34ea9ef26f3d005",
-          "lastSyncedAt": "2026-08-18T11:24:10.232Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.232Z",
+          "submissionTimestamp": 1748929637
         }
       ]
     },
@@ -2482,7 +2605,8 @@
           "filename": "1260-shift-2d-grid.cpp",
           "path": "1260-shift-2d-grid/1260-shift-2d-grid.cpp",
           "sha": "c5ceb0c9d8c800fa272f986b31d590d9575f15ba",
-          "lastSyncedAt": "2026-08-18T11:24:10.243Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.243Z",
+          "submissionTimestamp": 1784518241
         }
       ]
     },
@@ -2502,7 +2626,8 @@
           "filename": "1283-find-the-smallest-divisor-given-a-threshold.cpp",
           "path": "1283-find-the-smallest-divisor-given-a-threshold/1283-find-the-smallest-divisor-given-a-threshold.cpp",
           "sha": "f538e5f243bb8b7d1455e335fc65adb1f657b7e3",
-          "lastSyncedAt": "2026-08-18T11:24:10.256Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.256Z",
+          "submissionTimestamp": 1761627730
         }
       ]
     },
@@ -2522,7 +2647,8 @@
           "filename": "1288-remove-covered-intervals.cpp",
           "path": "1288-remove-covered-intervals/1288-remove-covered-intervals.cpp",
           "sha": "f2c90af9cfde9eca7aa95672d2ad48736f9258e1",
-          "lastSyncedAt": "2026-08-18T11:24:10.267Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.267Z",
+          "submissionTimestamp": 1783308525
         }
       ]
     },
@@ -2542,7 +2668,8 @@
           "filename": "1295-find-numbers-with-even-number-of-digits.cpp",
           "path": "1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.cpp",
           "sha": "531f40f9515d1877009f8f4a1a17772881e47c98",
-          "lastSyncedAt": "2026-08-18T11:24:10.303Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.303Z",
+          "submissionTimestamp": 1745984169
         }
       ]
     },
@@ -2562,7 +2689,8 @@
           "filename": "1298-maximum-candies-you-can-get-from-boxes.cpp",
           "path": "1298-maximum-candies-you-can-get-from-boxes/1298-maximum-candies-you-can-get-from-boxes.cpp",
           "sha": "3b3a6f44de16ae0071e1fee7f2bdcfd781caf432",
-          "lastSyncedAt": "2026-08-18T11:24:10.315Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.315Z",
+          "submissionTimestamp": 1748924516
         }
       ]
     },
@@ -2582,7 +2710,8 @@
           "filename": "1301-number-of-paths-with-max-score.cpp",
           "path": "1301-number-of-paths-with-max-score/1301-number-of-paths-with-max-score.cpp",
           "sha": "a98be2388bdc65550ecd7d2d23cdbd0457239f20",
-          "lastSyncedAt": "2026-08-18T11:24:10.327Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.327Z",
+          "submissionTimestamp": 1783249176
         }
       ]
     },
@@ -2602,7 +2731,8 @@
           "filename": "1311-get-watched-videos-by-your-friends.cpp",
           "path": "1311-get-watched-videos-by-your-friends/1311-get-watched-videos-by-your-friends.cpp",
           "sha": "e7f253cd4ec3a3a902c101b71eb1f3fadacd8df7",
-          "lastSyncedAt": "2026-08-18T11:24:10.339Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.339Z",
+          "submissionTimestamp": 1786013289
         }
       ]
     },
@@ -2622,7 +2752,8 @@
           "filename": "1331-rank-transform-of-an-array.cpp",
           "path": "1331-rank-transform-of-an-array/1331-rank-transform-of-an-array.cpp",
           "sha": "d1c4e77315cf8db6fb77c39a605f01587fb25702",
-          "lastSyncedAt": "2026-08-18T11:24:10.363Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.363Z",
+          "submissionTimestamp": 1783827919
         }
       ]
     },
@@ -2642,7 +2773,8 @@
           "filename": "1337-the-k-weakest-rows-in-a-matrix.cpp",
           "path": "1337-the-k-weakest-rows-in-a-matrix/1337-the-k-weakest-rows-in-a-matrix.cpp",
           "sha": "78212e3cdeaf8bf11f114a3ad478cdb3e2bac39d",
-          "lastSyncedAt": "2026-08-18T11:24:10.387Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.387Z",
+          "submissionTimestamp": 1733995105
         }
       ]
     },
@@ -2662,7 +2794,8 @@
           "filename": "1354-construct-target-array-with-multiple-sums.cpp",
           "path": "1354-construct-target-array-with-multiple-sums/1354-construct-target-array-with-multiple-sums.cpp",
           "sha": "a7f4e63b202828270d39183e848e9a8fc68fabb8",
-          "lastSyncedAt": "2026-08-18T11:24:10.399Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.399Z",
+          "submissionTimestamp": 1759213129
         }
       ]
     },
@@ -2682,7 +2815,8 @@
           "filename": "1406-stone-game-iii.cpp",
           "path": "1406-stone-game-iii/1406-stone-game-iii.cpp",
           "sha": "c90c811b515e8c6e1b04de611594dfd026f63b95",
-          "lastSyncedAt": "2026-08-18T11:24:10.448Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.448Z",
+          "submissionTimestamp": 1785728090
         }
       ]
     },
@@ -2702,7 +2836,8 @@
           "filename": "1423-maximum-points-you-can-obtain-from-cards.cpp",
           "path": "1423-maximum-points-you-can-obtain-from-cards/1423-maximum-points-you-can-obtain-from-cards.cpp",
           "sha": "f885ce0ff07d9c3907f9af56c3fe0a59baa52e1d",
-          "lastSyncedAt": "2026-08-18T11:24:10.459Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.459Z",
+          "submissionTimestamp": 1748935869
         }
       ]
     },
@@ -2722,7 +2857,8 @@
           "filename": "1464-maximum-product-of-two-elements-in-an-array.cpp",
           "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.cpp",
           "sha": "f40c8070574570d24d2ab24bb3874c1cc3a20c49",
-          "lastSyncedAt": "2026-08-18T11:24:10.484Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.484Z",
+          "submissionTimestamp": 1785123235
         }
       ]
     },
@@ -2742,7 +2878,8 @@
           "filename": "1475-final-prices-with-a-special-discount-in-a-shop.cpp",
           "path": "1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.cpp",
           "sha": "96cf3568aca37ca180685398ae5d608884540307",
-          "lastSyncedAt": "2026-08-18T11:24:10.496Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.496Z",
+          "submissionTimestamp": 1734060008
         }
       ]
     },
@@ -2762,7 +2899,8 @@
           "filename": "1482-minimum-number-of-days-to-make-m-bouquets.cpp",
           "path": "1482-minimum-number-of-days-to-make-m-bouquets/1482-minimum-number-of-days-to-make-m-bouquets.cpp",
           "sha": "012f5cfe6e58108179679d4927dba76cff057192",
-          "lastSyncedAt": "2026-08-18T11:24:10.508Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.508Z",
+          "submissionTimestamp": 1761627233
         }
       ]
     },
@@ -2782,7 +2920,8 @@
           "filename": "1539-kth-missing-positive-number.cpp",
           "path": "1539-kth-missing-positive-number/1539-kth-missing-positive-number.cpp",
           "sha": "55e9d0e9a5104351711cc6d7c3a4f965dc8ecc67",
-          "lastSyncedAt": "2026-08-18T11:24:10.532Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.532Z",
+          "submissionTimestamp": 1761629180
         }
       ]
     },
@@ -2802,7 +2941,8 @@
           "filename": "1550-three-consecutive-odds.cpp",
           "path": "1550-three-consecutive-odds/1550-three-consecutive-odds.cpp",
           "sha": "418d781e75f37c3c8e6952a3d428f1325641479f",
-          "lastSyncedAt": "2026-08-18T11:24:10.555Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.555Z",
+          "submissionTimestamp": 1746931787
         }
       ]
     },
@@ -2822,7 +2962,8 @@
           "filename": "1563-stone-game-v.cpp",
           "path": "1563-stone-game-v/1563-stone-game-v.cpp",
           "sha": "7767625dae86f8bcc7a58758251450aba70ea10b",
-          "lastSyncedAt": "2026-08-18T11:35:25.145Z"
+          "lastSyncedAt": "2026-08-18T11:35:25.145Z",
+          "submissionTimestamp": 1786931795
         }
       ]
     },
@@ -2842,7 +2983,8 @@
           "filename": "1598-crawler-log-folder.cpp",
           "path": "1598-crawler-log-folder/1598-crawler-log-folder.cpp",
           "sha": "a703fab811be456e7325cdfeee3ab8e0f3c51967",
-          "lastSyncedAt": "2026-08-18T11:24:10.578Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.578Z",
+          "submissionTimestamp": 1734076566
         }
       ]
     },
@@ -2862,7 +3004,8 @@
           "filename": "1631-path-with-minimum-effort.cpp",
           "path": "1631-path-with-minimum-effort/1631-path-with-minimum-effort.cpp",
           "sha": "8464a5928b38435e486e40a509a049ff9d48e025",
-          "lastSyncedAt": "2026-08-18T11:24:10.611Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.611Z",
+          "submissionTimestamp": 1783346199
         }
       ]
     },
@@ -2882,7 +3025,8 @@
           "filename": "1700-number-of-students-unable-to-eat-lunch.cpp",
           "path": "1700-number-of-students-unable-to-eat-lunch/1700-number-of-students-unable-to-eat-lunch.cpp",
           "sha": "bae41e5c1a2550d887e7a77595e2b9ccf28c3e9e",
-          "lastSyncedAt": "2026-08-18T11:24:10.624Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.624Z",
+          "submissionTimestamp": 1733973251
         }
       ]
     },
@@ -2902,7 +3046,8 @@
           "filename": "1752-check-if-array-is-sorted-and-rotated.cpp",
           "path": "1752-check-if-array-is-sorted-and-rotated/1752-check-if-array-is-sorted-and-rotated.cpp",
           "sha": "435ccb1010dd9a4977a981e43657c68a947425f9",
-          "lastSyncedAt": "2026-08-18T11:24:10.636Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.636Z",
+          "submissionTimestamp": 1760805021
         }
       ]
     },
@@ -2922,7 +3067,8 @@
           "filename": "1838-frequency-of-the-most-frequent-element.cpp",
           "path": "1838-frequency-of-the-most-frequent-element/1838-frequency-of-the-most-frequent-element.cpp",
           "sha": "1837c62bb70274afee9dc3b18ba8267dba54d176",
-          "lastSyncedAt": "2026-08-18T11:24:10.685Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.685Z",
+          "submissionTimestamp": 1760804076
         }
       ]
     },
@@ -2942,7 +3088,8 @@
           "filename": "1901-find-a-peak-element-ii.cpp",
           "path": "1901-find-a-peak-element-ii/1901-find-a-peak-element-ii.cpp",
           "sha": "2707ae4a9ecb9765c1d30640961e7e05774599f8",
-          "lastSyncedAt": "2026-08-18T11:24:10.708Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.708Z",
+          "submissionTimestamp": 1761829389
         }
       ]
     },
@@ -2962,7 +3109,8 @@
           "filename": "1920-build-array-from-permutation.cpp",
           "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
           "sha": "537e93c6816b545eac9b2ec1dbc69acb9e8b406b",
-          "lastSyncedAt": "2026-08-18T11:24:10.732Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.732Z",
+          "submissionTimestamp": 1746515252
         }
       ]
     },
@@ -2982,7 +3130,8 @@
           "filename": "1967-number-of-strings-that-appear-as-substrings-in-word.cpp",
           "path": "1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.cpp",
           "sha": "71ce70e41a6f3561c8a9803629a52d804971c514",
-          "lastSyncedAt": "2026-08-18T11:24:10.768Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.768Z",
+          "submissionTimestamp": 1782741383
         }
       ]
     },
@@ -3002,7 +3151,8 @@
           "filename": "1979-find-greatest-common-divisor-of-array.cpp",
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.cpp",
           "sha": "d2b4cf92a4bffd185a0f87a163852781a0463d80",
-          "lastSyncedAt": "2026-08-18T11:24:10.805Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.805Z",
+          "submissionTimestamp": 1784393360
         }
       ]
     },
@@ -3022,7 +3172,8 @@
           "filename": "2016-maximum-difference-between-increasing-elements.cpp",
           "path": "2016-maximum-difference-between-increasing-elements/2016-maximum-difference-between-increasing-elements.cpp",
           "sha": "4b93f203c754b621719156a799f3367909c9d9ef",
-          "lastSyncedAt": "2026-08-18T11:24:10.831Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.831Z",
+          "submissionTimestamp": 1750045274
         }
       ]
     },
@@ -3042,7 +3193,8 @@
           "filename": "2029-stone-game-ix.cpp",
           "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
           "sha": "a33250fe100c48c604387d910c1e1c1ab028cac0",
-          "lastSyncedAt": "2026-08-18T11:35:35.492Z"
+          "lastSyncedAt": "2026-08-18T11:35:35.492Z",
+          "submissionTimestamp": 1786849495
         }
       ]
     },
@@ -3062,7 +3214,8 @@
           "filename": "2049-count-nodes-with-the-highest-score.cpp",
           "path": "2049-count-nodes-with-the-highest-score/2049-count-nodes-with-the-highest-score.cpp",
           "sha": "d804cf17b35a2f347b1ae1b13cb357ad32c35cb9",
-          "lastSyncedAt": "2026-08-18T11:24:10.879Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.879Z",
+          "submissionTimestamp": 1785064104
         }
       ]
     },
@@ -3082,7 +3235,8 @@
           "filename": "2050-parallel-courses-iii.cpp",
           "path": "2050-parallel-courses-iii/2050-parallel-courses-iii.cpp",
           "sha": "9d156cff6fee94700babd6fe66c2ed0f07eb73ce",
-          "lastSyncedAt": "2026-08-18T11:24:10.891Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.891Z",
+          "submissionTimestamp": 1785064345
         }
       ]
     },
@@ -3102,7 +3256,8 @@
           "filename": "2071-maximum-number-of-tasks-you-can-assign.cpp",
           "path": "2071-maximum-number-of-tasks-you-can-assign/2071-maximum-number-of-tasks-you-can-assign.cpp",
           "sha": "6d09d2a0e87c41d481351d51699a6f527a45d9d8",
-          "lastSyncedAt": "2026-08-18T11:24:10.903Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.903Z",
+          "submissionTimestamp": 1746115108
         }
       ]
     },
@@ -3122,7 +3277,8 @@
           "filename": "2073-time-needed-to-buy-tickets.cpp",
           "path": "2073-time-needed-to-buy-tickets/2073-time-needed-to-buy-tickets.cpp",
           "sha": "635fd0a9b8ff181f0c081895cd2af95da747dcb9",
-          "lastSyncedAt": "2026-08-18T11:24:10.915Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.915Z",
+          "submissionTimestamp": 1734145825
         }
       ]
     },
@@ -3142,7 +3298,8 @@
           "filename": "2094-finding-3-digit-even-numbers.cpp",
           "path": "2094-finding-3-digit-even-numbers/2094-finding-3-digit-even-numbers.cpp",
           "sha": "cd9909b4b88597424879fa5a2ca57bd475fa9bff",
-          "lastSyncedAt": "2026-08-18T11:24:10.927Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.927Z",
+          "submissionTimestamp": 1747010013
         }
       ]
     },
@@ -3162,7 +3319,8 @@
           "filename": "2101-detonate-the-maximum-bombs.cpp",
           "path": "2101-detonate-the-maximum-bombs/2101-detonate-the-maximum-bombs.cpp",
           "sha": "c714cdaec4a2c030485f368547b61cd7dd592d5f",
-          "lastSyncedAt": "2026-08-18T11:37:24.953Z"
+          "lastSyncedAt": "2026-08-18T11:37:24.953Z",
+          "submissionTimestamp": 1786455633
         }
       ]
     },
@@ -3182,7 +3340,8 @@
           "filename": "2104-sum-of-subarray-ranges.cpp",
           "path": "2104-sum-of-subarray-ranges/2104-sum-of-subarray-ranges.cpp",
           "sha": "4e8bf40db08a97bcd78bf57a602efc167b58f21c",
-          "lastSyncedAt": "2026-08-18T11:24:10.962Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.962Z",
+          "submissionTimestamp": 1779422982
         }
       ]
     },
@@ -3202,7 +3361,8 @@
           "filename": "2131-longest-palindrome-by-concatenating-two-letter-words.cpp",
           "path": "2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.cpp",
           "sha": "1c6d9c11cbec3620c52e8ec20aec6b8b3eecfc89",
-          "lastSyncedAt": "2026-08-18T11:24:10.975Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.975Z",
+          "submissionTimestamp": 1748153153
         }
       ]
     },
@@ -3222,7 +3382,8 @@
           "filename": "2145-count-the-hidden-sequences.cpp",
           "path": "2145-count-the-hidden-sequences/2145-count-the-hidden-sequences.cpp",
           "sha": "a5e7cee70ada2c89e23912f50cc67ed59d5c5ee3",
-          "lastSyncedAt": "2026-08-18T11:24:10.988Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.988Z",
+          "submissionTimestamp": 1745215184
         }
       ]
     },
@@ -3242,7 +3403,8 @@
           "filename": "2149-rearrange-array-elements-by-sign.cpp",
           "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.cpp",
           "sha": "5ac4fb1e56667913970c1951ebe03c4a56e9488d",
-          "lastSyncedAt": "2026-08-18T11:24:11.000Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.000Z",
+          "submissionTimestamp": 1761021950
         }
       ]
     },
@@ -3262,7 +3424,8 @@
           "filename": "2176-count-equal-and-divisible-pairs-in-an-array.cpp",
           "path": "2176-count-equal-and-divisible-pairs-in-an-array/2176-count-equal-and-divisible-pairs-in-an-array.cpp",
           "sha": "3d5abe81604cb777a61c33582f786c748a191000",
-          "lastSyncedAt": "2026-08-18T11:24:11.012Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.012Z",
+          "submissionTimestamp": 1744981207
         }
       ]
     },
@@ -3282,7 +3445,8 @@
           "filename": "2213-longest-substring-of-one-repeating-character.cpp",
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
           "sha": "a330912da6bd550032010cf347c453ab4fcdae52",
-          "lastSyncedAt": "2026-08-18T11:36:34.752Z"
+          "lastSyncedAt": "2026-08-18T11:36:34.752Z",
+          "submissionTimestamp": 1786589353
         }
       ]
     },
@@ -3302,7 +3466,8 @@
           "filename": "2302-count-subarrays-with-score-less-than-k.cpp",
           "path": "2302-count-subarrays-with-score-less-than-k/2302-count-subarrays-with-score-less-than-k.cpp",
           "sha": "97a4281ee69596d700f4a4b14d15fbf4ee084499",
-          "lastSyncedAt": "2026-08-18T11:24:11.073Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.073Z",
+          "submissionTimestamp": 1745818209
         }
       ]
     },
@@ -3322,7 +3487,8 @@
           "filename": "2444-count-subarrays-with-fixed-bounds.cpp",
           "path": "2444-count-subarrays-with-fixed-bounds/2444-count-subarrays-with-fixed-bounds.cpp",
           "sha": "e301ea3c0b0feb24c494fbe2a7d74e69192570e3",
-          "lastSyncedAt": "2026-08-18T11:24:11.143Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.143Z",
+          "submissionTimestamp": 1745654884
         }
       ]
     },
@@ -3342,7 +3508,8 @@
           "filename": "2497-maximum-star-sum-of-a-graph.cpp",
           "path": "2497-maximum-star-sum-of-a-graph/2497-maximum-star-sum-of-a-graph.cpp",
           "sha": "549822f20c8b8c2339469e4f9ee25ba577ab1826",
-          "lastSyncedAt": "2026-08-18T11:36:22.232Z"
+          "lastSyncedAt": "2026-08-18T11:36:22.232Z",
+          "submissionTimestamp": 1786598578
         }
       ]
     },
@@ -3362,7 +3529,8 @@
           "filename": "2563-count-the-number-of-fair-pairs.cpp",
           "path": "2563-count-the-number-of-fair-pairs/2563-count-the-number-of-fair-pairs.cpp",
           "sha": "76d52433657a6abbd523dc28e46ca884927e4a47",
-          "lastSyncedAt": "2026-08-18T11:24:11.192Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.192Z",
+          "submissionTimestamp": 1745052378
         }
       ]
     },
@@ -3382,7 +3550,8 @@
           "filename": "2616-minimize-the-maximum-difference-of-pairs.cpp",
           "path": "2616-minimize-the-maximum-difference-of-pairs/2616-minimize-the-maximum-difference-of-pairs.cpp",
           "sha": "51f319114509e701931ae4aa9f88afe089fcb8c3",
-          "lastSyncedAt": "2026-08-18T11:24:11.216Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.216Z",
+          "submissionTimestamp": 1749785914
         }
       ]
     },
@@ -3402,7 +3571,8 @@
           "filename": "2799-count-complete-subarrays-in-an-array.cpp",
           "path": "2799-count-complete-subarrays-in-an-array/2799-count-complete-subarrays-in-an-array.cpp",
           "sha": "87c81c3aefb7e0739177acc92fea412300346d25",
-          "lastSyncedAt": "2026-08-18T11:24:11.255Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.255Z",
+          "submissionTimestamp": 1745505106
         }
       ]
     },
@@ -3422,7 +3592,8 @@
           "filename": "2812-find-the-safest-path-in-a-grid.cpp",
           "path": "2812-find-the-safest-path-in-a-grid/2812-find-the-safest-path-in-a-grid.cpp",
           "sha": "7e39d713ea8c97cd196fcf18a6bc1a0a1ad636ad",
-          "lastSyncedAt": "2026-08-18T11:24:11.267Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.267Z",
+          "submissionTimestamp": 1782875943
         }
       ]
     },
@@ -3442,7 +3613,8 @@
           "filename": "2845-count-of-interesting-subarrays.cpp",
           "path": "2845-count-of-interesting-subarrays/2845-count-of-interesting-subarrays.cpp",
           "sha": "7adac9687e92bb4828268558ad3157b649394895",
-          "lastSyncedAt": "2026-08-18T11:24:11.279Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.279Z",
+          "submissionTimestamp": 1745568357
         }
       ]
     },
@@ -3462,7 +3634,8 @@
           "filename": "2900-longest-unequal-adjacent-groups-subsequence-i.cpp",
           "path": "2900-longest-unequal-adjacent-groups-subsequence-i/2900-longest-unequal-adjacent-groups-subsequence-i.cpp",
           "sha": "07042a3a549e0b250a1eb1d2de139e93d3da5991",
-          "lastSyncedAt": "2026-08-18T11:24:11.304Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.304Z",
+          "submissionTimestamp": 1747291216
         }
       ]
     },
@@ -3482,7 +3655,8 @@
           "filename": "2901-longest-unequal-adjacent-groups-subsequence-ii.cpp",
           "path": "2901-longest-unequal-adjacent-groups-subsequence-ii/2901-longest-unequal-adjacent-groups-subsequence-ii.cpp",
           "sha": "fae137291688ffeb9d1fe893893ca12e5725135d",
-          "lastSyncedAt": "2026-08-18T11:24:11.317Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.317Z",
+          "submissionTimestamp": 1747375425
         }
       ]
     },
@@ -3502,7 +3676,8 @@
           "filename": "2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros.cpp",
           "path": "2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros.cpp",
           "sha": "272120f0d023f1f08a315c1abb55e49b79975bbd",
-          "lastSyncedAt": "2026-08-18T11:24:11.329Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.329Z",
+          "submissionTimestamp": 1746869186
         }
       ]
     },
@@ -3522,7 +3697,8 @@
           "filename": "2942-find-words-containing-character.cpp",
           "path": "2942-find-words-containing-character/2942-find-words-containing-character.cpp",
           "sha": "86d09296984743f2a1eafaa1e429bfd57a7f23b2",
-          "lastSyncedAt": "2026-08-18T11:24:11.353Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.353Z",
+          "submissionTimestamp": 1748058879
         }
       ]
     },
@@ -3542,7 +3718,8 @@
           "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.cpp",
           "path": "2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.cpp",
           "sha": "9d4287d3eaeebd7eeb4423da3fda3cb43e184947",
-          "lastSyncedAt": "2026-08-18T11:37:10.026Z"
+          "lastSyncedAt": "2026-08-18T11:37:10.026Z",
+          "submissionTimestamp": 1786506009
         }
       ]
     },
@@ -3562,7 +3739,8 @@
           "filename": "2962-count-subarrays-where-max-element-appears-at-least-k-times.cpp",
           "path": "2962-count-subarrays-where-max-element-appears-at-least-k-times/2962-count-subarrays-where-max-element-appears-at-least-k-times.cpp",
           "sha": "5729595984699f7f8c2ff3d2fdd345e730d44c58",
-          "lastSyncedAt": "2026-08-18T11:24:11.377Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.377Z",
+          "submissionTimestamp": 1745930232
         }
       ]
     },
@@ -3582,7 +3760,8 @@
           "filename": "2966-divide-array-into-arrays-with-max-difference.cpp",
           "path": "2966-divide-array-into-arrays-with-max-difference/2966-divide-array-into-arrays-with-max-difference.cpp",
           "sha": "2247812781f845ca78bfa032f32ec48d88276712",
-          "lastSyncedAt": "2026-08-18T11:24:11.389Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.389Z",
+          "submissionTimestamp": 1750257214
         }
       ]
     },
@@ -3602,7 +3781,8 @@
           "filename": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
           "sha": "6939740cd05cfe21f0278c3081f1279870c59ede",
-          "lastSyncedAt": "2026-08-18T11:37:39.212Z"
+          "lastSyncedAt": "2026-08-18T11:37:39.212Z",
+          "submissionTimestamp": 1786411753
         }
       ]
     },
@@ -3622,7 +3802,8 @@
           "filename": "3024-type-of-triangle.cpp",
           "path": "3024-type-of-triangle/3024-type-of-triangle.cpp",
           "sha": "c45e038c0a9a54f60a351a80f07cd578351fb324",
-          "lastSyncedAt": "2026-08-18T11:24:11.438Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.438Z",
+          "submissionTimestamp": 1747630953
         }
       ]
     },
@@ -3642,7 +3823,8 @@
           "filename": "3068-find-the-maximum-sum-of-node-values.cpp",
           "path": "3068-find-the-maximum-sum-of-node-values/3068-find-the-maximum-sum-of-node-values.cpp",
           "sha": "fea045acb42da434fe20694f33a635aaaa72b391",
-          "lastSyncedAt": "2026-08-18T11:24:11.451Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.451Z",
+          "submissionTimestamp": 1747972723
         }
       ]
     },
@@ -3662,7 +3844,8 @@
           "filename": "3286-find-a-safe-walk-through-a-grid.cpp",
           "path": "3286-find-a-safe-walk-through-a-grid/3286-find-a-safe-walk-through-a-grid.cpp",
           "sha": "34b73c37711ba5e3cbb9f68e8a45cddebb39125d",
-          "lastSyncedAt": "2026-08-18T11:24:11.501Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.501Z",
+          "submissionTimestamp": 1783048433
         }
       ]
     },
@@ -3682,7 +3865,8 @@
           "filename": "3312-sorted-gcd-pair-queries.cpp",
           "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.cpp",
           "sha": "d1355cb64362b53ca2b8709fa955db99f89ed8f0",
-          "lastSyncedAt": "2026-08-18T11:24:11.535Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.535Z",
+          "submissionTimestamp": 1784259497
         }
       ]
     },
@@ -3702,7 +3886,8 @@
           "filename": "3336-find-the-number-of-subsequences-with-equal-gcd.cpp",
           "path": "3336-find-the-number-of-subsequences-with-equal-gcd/3336-find-the-number-of-subsequences-with-equal-gcd.cpp",
           "sha": "b46e6c1d879e7f1f3ecabb7620d0e63466650d73",
-          "lastSyncedAt": "2026-08-18T11:24:11.560Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.560Z",
+          "submissionTimestamp": 1783997964
         }
       ]
     },
@@ -3722,7 +3907,8 @@
           "filename": "3341-find-minimum-time-to-reach-last-room-i.cpp",
           "path": "3341-find-minimum-time-to-reach-last-room-i/3341-find-minimum-time-to-reach-last-room-i.cpp",
           "sha": "6a207eac592b5632edf77a2611a7acc8c4eba4a5",
-          "lastSyncedAt": "2026-08-18T11:24:11.584Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.584Z",
+          "submissionTimestamp": 1746607884
         }
       ]
     },
@@ -3742,7 +3928,8 @@
           "filename": "3355-zero-array-transformation-i.cpp",
           "path": "3355-zero-array-transformation-i/3355-zero-array-transformation-i.cpp",
           "sha": "efdd0f22fd094ce73deac1c511af5bb8c308a251",
-          "lastSyncedAt": "2026-08-18T11:24:11.632Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.632Z",
+          "submissionTimestamp": 1747715493
         }
       ]
     },
@@ -3762,7 +3949,8 @@
           "filename": "3362-zero-array-transformation-iii.cpp",
           "path": "3362-zero-array-transformation-iii/3362-zero-array-transformation-iii.cpp",
           "sha": "45b6ea0a6c62c5c53ab94b4c094ee54b082b8bb6",
-          "lastSyncedAt": "2026-08-18T11:24:11.643Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.643Z",
+          "submissionTimestamp": 1747883731
         }
       ]
     },
@@ -3782,7 +3970,8 @@
           "filename": "3392-count-subarrays-of-length-three-with-a-condition.cpp",
           "path": "3392-count-subarrays-of-length-three-with-a-condition/3392-count-subarrays-of-length-three-with-a-condition.cpp",
           "sha": "4a5193b8d3d72ce97a5b6c0e84735b9fcc9ddb59",
-          "lastSyncedAt": "2026-08-18T11:24:11.680Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.680Z",
+          "submissionTimestamp": 1745733096
         }
       ]
     },
@@ -3802,7 +3991,8 @@
           "filename": "3423-maximum-difference-between-adjacent-elements-in-a-circular-array.cpp",
           "path": "3423-maximum-difference-between-adjacent-elements-in-a-circular-array/3423-maximum-difference-between-adjacent-elements-in-a-circular-array.cpp",
           "sha": "cf84e783b821d44d56e904b43bcab67a4fd4b9a5",
-          "lastSyncedAt": "2026-08-18T11:24:11.716Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.716Z",
+          "submissionTimestamp": 1749700437
         }
       ]
     },
@@ -3822,7 +4012,8 @@
           "filename": "3471-find-the-largest-almost-missing-integer.cpp",
           "path": "3471-find-the-largest-almost-missing-integer/3471-find-the-largest-almost-missing-integer.cpp",
           "sha": "3e788b05641fa994f05e1b9dfb0a302168ee5f1d",
-          "lastSyncedAt": "2026-08-18T11:35:18.561Z"
+          "lastSyncedAt": "2026-08-18T11:35:18.561Z",
+          "submissionTimestamp": 1787016749
         }
       ]
     },
@@ -3842,7 +4033,8 @@
           "filename": "3501-maximize-active-section-with-trade-ii.cpp",
           "path": "3501-maximize-active-section-with-trade-ii/3501-maximize-active-section-with-trade-ii.cpp",
           "sha": "e1cb202e7774a905bd7f16bdf84d56b9b185ab2d",
-          "lastSyncedAt": "2026-08-18T11:24:11.788Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.788Z",
+          "submissionTimestamp": 1784691552
         }
       ]
     },
@@ -3862,7 +4054,8 @@
           "filename": "3513-number-of-unique-xor-triplets-i.cpp",
           "path": "3513-number-of-unique-xor-triplets-i/3513-number-of-unique-xor-triplets-i.cpp",
           "sha": "ff571c7757274b764df9b6a2a8f341309d69515a",
-          "lastSyncedAt": "2026-08-18T11:24:11.799Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.799Z",
+          "submissionTimestamp": 1784777217
         }
       ]
     },
@@ -3882,7 +4075,8 @@
           "filename": "3514-number-of-unique-xor-triplets-ii.cpp",
           "path": "3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.cpp",
           "sha": "2d8ccf32615551d2805f5627213a108c62b311d4",
-          "lastSyncedAt": "2026-08-18T11:24:11.814Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.814Z",
+          "submissionTimestamp": 1784863211
         }
       ]
     },
@@ -3902,7 +4096,8 @@
           "filename": "3532-path-existence-queries-in-a-graph-i.cpp",
           "path": "3532-path-existence-queries-in-a-graph-i/3532-path-existence-queries-in-a-graph-i.cpp",
           "sha": "7a572815f454d4c150ad3f0bd8441f0a143bda7e",
-          "lastSyncedAt": "2026-08-18T11:24:11.852Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.852Z",
+          "submissionTimestamp": 1783567437
         }
       ]
     },
@@ -3922,7 +4117,8 @@
           "filename": "3534-path-existence-queries-in-a-graph-ii.cpp",
           "path": "3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.cpp",
           "sha": "3de889736b57356b3b8c5ba99953e138c0477cd5",
-          "lastSyncedAt": "2026-08-18T11:24:11.864Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.864Z",
+          "submissionTimestamp": 1783653950
         }
       ]
     },
@@ -3942,7 +4138,8 @@
           "filename": "3620-network-recovery-pathways.cpp",
           "path": "3620-network-recovery-pathways/3620-network-recovery-pathways.cpp",
           "sha": "fd414ffebf61b4e0e6941e56f8eda87ac9676d4d",
-          "lastSyncedAt": "2026-08-18T11:24:11.887Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.887Z",
+          "submissionTimestamp": 1783048806
         }
       ]
     },
@@ -3962,7 +4159,8 @@
           "filename": "3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
           "path": "3702-longest-subsequence-with-non-zero-bitwise-xor/3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
           "sha": "be8f33fc2a67e09eb1ee6858664ac0c547bf3e1c",
-          "lastSyncedAt": "2026-08-18T11:35:50.424Z"
+          "lastSyncedAt": "2026-08-18T11:35:50.424Z",
+          "submissionTimestamp": 1786761651
         }
       ]
     },
@@ -3982,7 +4180,8 @@
           "filename": "3731-find-missing-elements.cpp",
           "path": "3731-find-missing-elements/3731-find-missing-elements.cpp",
           "sha": "0a6ceec9ea14e7823338591e3248acd65fc7297e",
-          "lastSyncedAt": "2026-08-18T11:24:11.925Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.925Z",
+          "submissionTimestamp": 1785822555
         }
       ]
     },
@@ -4002,7 +4201,8 @@
           "filename": "3867-sum-of-gcd-of-formed-pairs.cpp",
           "path": "3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.cpp",
           "sha": "708b9de393b63adf74b7c0e5e1e86cce8f43c294",
-          "lastSyncedAt": "2026-08-18T11:24:11.959Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.959Z",
+          "submissionTimestamp": 1784172555
         }
       ]
     }

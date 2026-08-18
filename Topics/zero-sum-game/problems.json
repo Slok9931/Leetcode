@@ -22,7 +22,8 @@
           "filename": "0486-predict-the-winner.cpp",
           "path": "0486-predict-the-winner/0486-predict-the-winner.cpp",
           "sha": "c3cbabd9b8f48deaa2d1e097933c7122a06fe529",
-          "lastSyncedAt": "2026-08-18T11:24:09.231Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.231Z",
+          "submissionTimestamp": 1785559554
         }
       ]
     },
@@ -42,7 +43,8 @@
           "filename": "0877-stone-game.cpp",
           "path": "0877-stone-game/0877-stone-game.cpp",
           "sha": "55ffc67c34b53720449799d9bdf5aa35b63d8285",
-          "lastSyncedAt": "2026-08-18T11:24:09.846Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.846Z",
+          "submissionTimestamp": 1785642503
         }
       ]
     },
@@ -62,7 +64,8 @@
           "filename": "1140-stone-game-ii.cpp",
           "path": "1140-stone-game-ii/1140-stone-game-ii.cpp",
           "sha": "14854260098744ff4abcd8959a416900b0da702d",
-          "lastSyncedAt": "2026-08-18T11:24:10.207Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.207Z",
+          "submissionTimestamp": 1786239279
         }
       ]
     },
@@ -82,7 +85,8 @@
           "filename": "1406-stone-game-iii.cpp",
           "path": "1406-stone-game-iii/1406-stone-game-iii.cpp",
           "sha": "c90c811b515e8c6e1b04de611594dfd026f63b95",
-          "lastSyncedAt": "2026-08-18T11:24:10.448Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.448Z",
+          "submissionTimestamp": 1785728090
         }
       ]
     },
@@ -102,7 +106,8 @@
           "filename": "1510-stone-game-iv.cpp",
           "path": "1510-stone-game-iv/1510-stone-game-iv.cpp",
           "sha": "f72758f77ec6f321dd8e8c0368f8b58e38181c6c",
-          "lastSyncedAt": "2026-08-18T07:30:54.754Z"
+          "lastSyncedAt": "2026-08-18T07:30:54.754Z",
+          "submissionTimestamp": 1786327237
         }
       ]
     },
@@ -122,7 +127,8 @@
           "filename": "2029-stone-game-ix.cpp",
           "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
           "sha": "a33250fe100c48c604387d910c1e1c1ab028cac0",
-          "lastSyncedAt": "2026-08-18T11:35:35.492Z"
+          "lastSyncedAt": "2026-08-18T11:35:35.492Z",
+          "submissionTimestamp": 1786849495
         }
       ]
     }

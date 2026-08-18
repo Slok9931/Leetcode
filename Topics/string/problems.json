@@ -22,7 +22,8 @@
           "filename": "0003-longest-substring-without-repeating-characters.cpp",
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp",
           "sha": "68d48e5e4f7d4f4b15c882771c546b9198d62b4e",
-          "lastSyncedAt": "2026-08-18T11:24:07.121Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.121Z",
+          "submissionTimestamp": 1752384457
         }
       ]
     },
@@ -42,7 +43,8 @@
           "filename": "0005-longest-palindromic-substring.cpp",
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.cpp",
           "sha": "f5842989ecd7d5056e6c0391dca710c758f23682",
-          "lastSyncedAt": "2026-08-18T11:24:07.144Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.144Z",
+          "submissionTimestamp": 1762059432
         }
       ]
     },
@@ -62,7 +64,8 @@
           "filename": "0006-zigzag-conversion.cpp",
           "path": "0006-zigzag-conversion/0006-zigzag-conversion.cpp",
           "sha": "9e1208887b47a4afff0fcc9cab5e2c93f50f1004",
-          "lastSyncedAt": "2026-08-18T11:24:07.156Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.156Z",
+          "submissionTimestamp": 1752383640
         }
       ]
     },
@@ -82,7 +85,8 @@
           "filename": "0008-string-to-integer-atoi.cpp",
           "path": "0008-string-to-integer-atoi/0008-string-to-integer-atoi.cpp",
           "sha": "2626eb06252d48500129b9b6eca103c7020c2bd6",
-          "lastSyncedAt": "2026-08-18T11:24:07.178Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.178Z",
+          "submissionTimestamp": 1761942483
         }
       ]
     },
@@ -102,7 +106,8 @@
           "filename": "0012-integer-to-roman.cpp",
           "path": "0012-integer-to-roman/0012-integer-to-roman.cpp",
           "sha": "8585a4fb6eb07f1fe1a09e0e1869ded78c0adda7",
-          "lastSyncedAt": "2026-08-18T11:24:07.214Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.214Z",
+          "submissionTimestamp": 1752382954
         }
       ]
     },
@@ -122,7 +127,8 @@
           "filename": "0013-roman-to-integer.cpp",
           "path": "0013-roman-to-integer/0013-roman-to-integer.cpp",
           "sha": "2ff259aab2a911d881a1f0eae5934202a32c1ca2",
-          "lastSyncedAt": "2026-08-18T11:24:07.226Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.226Z",
+          "submissionTimestamp": 1761942105
         }
       ]
     },
@@ -142,7 +148,8 @@
           "filename": "0014-longest-common-prefix.cpp",
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.cpp",
           "sha": "5f1dd00dc372c4b999a722e785058897c326d6b3",
-          "lastSyncedAt": "2026-08-18T11:24:07.238Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.238Z",
+          "submissionTimestamp": 1761892662
         }
       ]
     },
@@ -162,7 +169,8 @@
           "filename": "0017-letter-combinations-of-a-phone-number.cpp",
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.cpp",
           "sha": "fb567efb2b5b0535b2a4b67fb3d42b22f0a4af6e",
-          "lastSyncedAt": "2026-08-18T11:24:07.262Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.262Z",
+          "submissionTimestamp": 1753594065
         }
       ]
     },
@@ -182,7 +190,8 @@
           "filename": "0020-valid-parentheses.cpp",
           "path": "0020-valid-parentheses/0020-valid-parentheses.cpp",
           "sha": "cc9f94f06da1e5cbbf2bb61dc1662fa529b5088f",
-          "lastSyncedAt": "2026-08-18T11:24:07.297Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.297Z",
+          "submissionTimestamp": 1752644185
         }
       ]
     },
@@ -202,7 +211,8 @@
           "filename": "0022-generate-parentheses.cpp",
           "path": "0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "0c9d422490c58032742492f23f1bc3e6062362b9",
-          "lastSyncedAt": "2026-08-18T11:24:07.321Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.321Z",
+          "submissionTimestamp": 1753598908
         }
       ]
     },
@@ -222,7 +232,8 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "0a2eb653314bed75f1379b167c2111889a74568e",
-          "lastSyncedAt": "2026-08-18T11:24:07.384Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.384Z",
+          "submissionTimestamp": 1752383687
         }
       ]
     },
@@ -242,7 +253,8 @@
           "filename": "0030-substring-with-concatenation-of-all-words.cpp",
           "path": "0030-substring-with-concatenation-of-all-words/0030-substring-with-concatenation-of-all-words.cpp",
           "sha": "ef06e6f9f5587ec97446ca6ff469ce3fa9b560c5",
-          "lastSyncedAt": "2026-08-18T11:24:07.407Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.407Z",
+          "submissionTimestamp": 1752385072
         }
       ]
     },
@@ -262,7 +274,8 @@
           "filename": "0032-longest-valid-parentheses.cpp",
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.cpp",
           "sha": "d478560e735f33bfbdfd2075881c5d17747540d9",
-          "lastSyncedAt": "2026-08-18T11:24:07.433Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.433Z",
+          "submissionTimestamp": 1754117879
         }
       ]
     },
@@ -282,7 +295,8 @@
           "filename": "0038-count-and-say.cpp",
           "path": "0038-count-and-say/0038-count-and-say.cpp",
           "sha": "0ed8d4d960dff3c8b0bd505d562499e9c7ff1bb0",
-          "lastSyncedAt": "2026-08-18T11:24:07.496Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.496Z",
+          "submissionTimestamp": 1744980994
         }
       ]
     },
@@ -302,7 +316,8 @@
           "filename": "0049-group-anagrams.cpp",
           "path": "0049-group-anagrams/0049-group-anagrams.cpp",
           "sha": "52b0fd3ecbbcff8dd96050f1b1caa16ce01c2c1a",
-          "lastSyncedAt": "2026-08-18T11:24:07.588Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.588Z",
+          "submissionTimestamp": 1752552482
         }
       ]
     },
@@ -322,7 +337,8 @@
           "filename": "0058-length-of-last-word.cpp",
           "path": "0058-length-of-last-word/0058-length-of-last-word.cpp",
           "sha": "13e8e6bffe21fa77df67a9fa82360cc229d6661e",
-          "lastSyncedAt": "2026-08-18T11:24:07.692Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.692Z",
+          "submissionTimestamp": 1752383092
         }
       ]
     },
@@ -342,7 +358,8 @@
           "filename": "0067-add-binary.cpp",
           "path": "0067-add-binary/0067-add-binary.cpp",
           "sha": "1589519f800171aa09ac40e8854cd75c04e5286d",
-          "lastSyncedAt": "2026-08-18T11:24:07.727Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.727Z",
+          "submissionTimestamp": 1753343573
         }
       ]
     },
@@ -362,7 +379,8 @@
           "filename": "0068-text-justification.cpp",
           "path": "0068-text-justification/0068-text-justification.cpp",
           "sha": "3372290ba4c3ee7e09968a4dc0a17e2a0cce502c",
-          "lastSyncedAt": "2026-08-18T11:24:07.738Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.738Z",
+          "submissionTimestamp": 1752384241
         }
       ]
     },
@@ -382,7 +400,8 @@
           "filename": "0071-simplify-path.cpp",
           "path": "0071-simplify-path/0071-simplify-path.cpp",
           "sha": "479b0badb5fe18055ddb18dbfe416bdbb98eb5a0",
-          "lastSyncedAt": "2026-08-18T11:24:07.762Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.762Z",
+          "submissionTimestamp": 1752728138
         }
       ]
     },
@@ -402,7 +421,8 @@
           "filename": "0076-minimum-window-substring.cpp",
           "path": "0076-minimum-window-substring/0076-minimum-window-substring.cpp",
           "sha": "e7166d1a22f16b83b7933189c8dcb392da1f2e83",
-          "lastSyncedAt": "2026-08-18T11:24:07.809Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.809Z",
+          "submissionTimestamp": 1752385204
         }
       ]
     },
@@ -422,7 +442,8 @@
           "filename": "0079-word-search.cpp",
           "path": "0079-word-search/0079-word-search.cpp",
           "sha": "accbb396ba666a93a446288d98095fa6126dc147",
-          "lastSyncedAt": "2026-08-18T11:24:07.845Z"
+          "lastSyncedAt": "2026-08-18T11:24:07.845Z",
+          "submissionTimestamp": 1775071072
         }
       ]
     },
@@ -442,7 +463,8 @@
           "filename": "0125-valid-palindrome.cpp",
           "path": "0125-valid-palindrome/0125-valid-palindrome.cpp",
           "sha": "c59f9192b43e81174ed6778be252fd200ccef15b",
-          "lastSyncedAt": "2026-08-18T11:24:08.158Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.158Z",
+          "submissionTimestamp": 1760773356
         }
       ]
     },
@@ -462,7 +484,8 @@
           "filename": "0131-palindrome-partitioning.cpp",
           "path": "0131-palindrome-partitioning/0131-palindrome-partitioning.cpp",
           "sha": "cb995ceceb0d23ea086ce5324a6c8f32d4f03532",
-          "lastSyncedAt": "2026-08-18T11:24:08.204Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.204Z",
+          "submissionTimestamp": 1775065739
         }
       ]
     },
@@ -482,7 +505,8 @@
           "filename": "0151-reverse-words-in-a-string.cpp",
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.cpp",
           "sha": "c426c8754d15b40d4825df6d941a9b6ae8d37953",
-          "lastSyncedAt": "2026-08-18T11:24:08.344Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.344Z",
+          "submissionTimestamp": 1761891926
         }
       ]
     },
@@ -502,7 +526,8 @@
           "filename": "0205-isomorphic-strings.cpp",
           "path": "0205-isomorphic-strings/0205-isomorphic-strings.cpp",
           "sha": "2123d96d25f79414736ebcba0c12682e5a15c061",
-          "lastSyncedAt": "2026-08-18T11:24:08.562Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.562Z",
+          "submissionTimestamp": 1761892905
         }
       ]
     },
@@ -522,7 +547,8 @@
           "filename": "0224-basic-calculator.cpp",
           "path": "0224-basic-calculator/0224-basic-calculator.cpp",
           "sha": "7a1fd944adf6b6db3bf3da3e6667f1217added65",
-          "lastSyncedAt": "2026-08-18T11:24:08.675Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.675Z",
+          "submissionTimestamp": 1752728711
         }
       ]
     },
@@ -542,7 +568,8 @@
           "filename": "0242-valid-anagram.cpp",
           "path": "0242-valid-anagram/0242-valid-anagram.cpp",
           "sha": "75078fa2478114e79498790a4ffc6865b4a85151",
-          "lastSyncedAt": "2026-08-18T11:24:08.851Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.851Z",
+          "submissionTimestamp": 1761893543
         }
       ]
     },
@@ -562,7 +589,8 @@
           "filename": "0257-binary-tree-paths.cpp",
           "path": "0257-binary-tree-paths/0257-binary-tree-paths.cpp",
           "sha": "b7aef520bebfa3cd19f4ac44aec3088885107bc4",
-          "lastSyncedAt": "2026-08-18T11:24:08.863Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.863Z",
+          "submissionTimestamp": 1734079042
         }
       ]
     },
@@ -582,7 +610,8 @@
           "filename": "0273-integer-to-english-words.cpp",
           "path": "0273-integer-to-english-words/0273-integer-to-english-words.cpp",
           "sha": "f529838a4b99c3e2e7b8ee94918ba44c37891984",
-          "lastSyncedAt": "2026-08-18T11:24:08.897Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.897Z",
+          "submissionTimestamp": 1744482306
         }
       ]
     },
@@ -602,7 +631,8 @@
           "filename": "0282-expression-add-operators.cpp",
           "path": "0282-expression-add-operators/0282-expression-add-operators.cpp",
           "sha": "37eec3c1d7e42f8f1d01d4e4bfa2ba7f7c27d7ec",
-          "lastSyncedAt": "2026-08-18T11:24:08.919Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.919Z",
+          "submissionTimestamp": 1779164678
         }
       ]
     },
@@ -622,7 +652,8 @@
           "filename": "0290-word-pattern.cpp",
           "path": "0290-word-pattern/0290-word-pattern.cpp",
           "sha": "dfb256cbea768ce2802637444f992709c744e1c2",
-          "lastSyncedAt": "2026-08-18T11:24:08.942Z"
+          "lastSyncedAt": "2026-08-18T11:24:08.942Z",
+          "submissionTimestamp": 1752482988
         }
       ]
     },
@@ -642,7 +673,8 @@
           "filename": "0383-ransom-note.cpp",
           "path": "0383-ransom-note/0383-ransom-note.cpp",
           "sha": "4bfa5ae555fa1b2d67ac1179eff36e2808e69ffd",
-          "lastSyncedAt": "2026-08-18T11:24:09.024Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.024Z",
+          "submissionTimestamp": 1752481929
         }
       ]
     },
@@ -662,7 +694,8 @@
           "filename": "0387-first-unique-character-in-a-string.cpp",
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.cpp",
           "sha": "18d31cae61aa818469c0649033bd6fe1ee6eda06",
-          "lastSyncedAt": "2026-08-18T11:24:09.048Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.048Z",
+          "submissionTimestamp": 1734145166
         }
       ]
     },
@@ -682,7 +715,8 @@
           "filename": "0392-is-subsequence.cpp",
           "path": "0392-is-subsequence/0392-is-subsequence.cpp",
           "sha": "14cc114b2719bc70b29f57f11465bd9c2fbc6e3c",
-          "lastSyncedAt": "2026-08-18T11:24:09.059Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.059Z",
+          "submissionTimestamp": 1752466713
         }
       ]
     },
@@ -702,7 +736,8 @@
           "filename": "0399-evaluate-division.cpp",
           "path": "0399-evaluate-division/0399-evaluate-division.cpp",
           "sha": "ed5929f7f76fc9e2c0a81ab4bf9baa8a58fc030d",
-          "lastSyncedAt": "2026-08-18T11:24:09.070Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.070Z",
+          "submissionTimestamp": 1785993881
         }
       ]
     },
@@ -722,7 +757,8 @@
           "filename": "0402-remove-k-digits.cpp",
           "path": "0402-remove-k-digits/0402-remove-k-digits.cpp",
           "sha": "45a823bd6b92559dc0a3551510788ad3353b3f47",
-          "lastSyncedAt": "2026-08-18T11:24:09.082Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.082Z",
+          "submissionTimestamp": 1749723589
         }
       ]
     },
@@ -742,7 +778,8 @@
           "filename": "0409-longest-palindrome.cpp",
           "path": "0409-longest-palindrome/0409-longest-palindrome.cpp",
           "sha": "cbc3bcaccdc94c7a7d5142957c8a62bf09a28942",
-          "lastSyncedAt": "2026-08-18T11:24:09.105Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.105Z",
+          "submissionTimestamp": 1747292139
         }
       ]
     },
@@ -762,7 +799,8 @@
           "filename": "0424-longest-repeating-character-replacement.cpp",
           "path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.cpp",
           "sha": "f4a4c27d753ce9a23743eb83df1e5f50b301402e",
-          "lastSyncedAt": "2026-08-18T11:24:09.128Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.128Z",
+          "submissionTimestamp": 1744379460
         }
       ]
     },
@@ -782,7 +820,8 @@
           "filename": "0451-sort-characters-by-frequency.cpp",
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
           "sha": "79bff9d871814cb496f57c7900005c733d0d6aa4",
-          "lastSyncedAt": "2026-08-18T11:24:09.185Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.185Z",
+          "submissionTimestamp": 1761941869
         }
       ]
     },
@@ -802,7 +841,8 @@
           "filename": "0678-valid-parenthesis-string.cpp",
           "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.cpp",
           "sha": "a24dde6f64ce3a2c1402a5895e8af23dbd2a9fb8",
-          "lastSyncedAt": "2026-08-18T11:24:09.522Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.522Z",
+          "submissionTimestamp": 1780040588
         }
       ]
     },
@@ -822,7 +862,8 @@
           "filename": "0721-accounts-merge.cpp",
           "path": "0721-accounts-merge/0721-accounts-merge.cpp",
           "sha": "94faded838bafdecc590bf6a71796c8e8e429cec",
-          "lastSyncedAt": "2026-08-18T11:24:09.591Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.591Z",
+          "submissionTimestamp": 1783934122
         }
       ]
     },
@@ -842,7 +883,8 @@
           "filename": "0796-rotate-string.cpp",
           "path": "0796-rotate-string/0796-rotate-string.cpp",
           "sha": "7f5197873b21fead16a3402b60a9a1cdc581d87b",
-          "lastSyncedAt": "2026-08-18T11:24:09.696Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.696Z",
+          "submissionTimestamp": 1761893112
         }
       ]
     },
@@ -862,7 +904,8 @@
           "filename": "0838-push-dominoes.cpp",
           "path": "0838-push-dominoes/0838-push-dominoes.cpp",
           "sha": "bc04a0323e69c4d536ceb3c906116919e5aa2815",
-          "lastSyncedAt": "2026-08-18T11:24:09.732Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.732Z",
+          "submissionTimestamp": 1746203225
         }
       ]
     },
@@ -882,7 +925,8 @@
           "filename": "0844-backspace-string-compare.cpp",
           "path": "0844-backspace-string-compare/0844-backspace-string-compare.cpp",
           "sha": "2906a958a17e15b2797c03c8bf04b38ab3d11aea",
-          "lastSyncedAt": "2026-08-18T11:24:09.754Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.754Z",
+          "submissionTimestamp": 1734062423
         }
       ]
     },
@@ -902,7 +946,8 @@
           "filename": "0921-minimum-add-to-make-parentheses-valid.cpp",
           "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp",
           "sha": "2862e02e8c9e7f538dd0a51761d8cc1f07d79494",
-          "lastSyncedAt": "2026-08-18T11:24:09.912Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.912Z",
+          "submissionTimestamp": 1749114676
         }
       ]
     },
@@ -922,7 +967,8 @@
           "filename": "0942-di-string-match.cpp",
           "path": "0942-di-string-match/0942-di-string-match.cpp",
           "sha": "91692143b9ced1d3cc8615a742a6df7a632bc455",
-          "lastSyncedAt": "2026-08-18T11:24:09.961Z"
+          "lastSyncedAt": "2026-08-18T11:24:09.961Z",
+          "submissionTimestamp": 1747458253
         }
       ]
     },
@@ -942,7 +988,8 @@
           "filename": "1021-remove-outermost-parentheses.cpp",
           "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
           "sha": "9f319311ae25935fde56fd9b98adc8aab7f19763",
-          "lastSyncedAt": "2026-08-18T11:24:10.123Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.123Z",
+          "submissionTimestamp": 1761891842
         }
       ]
     },
@@ -962,7 +1009,8 @@
           "filename": "1047-remove-all-adjacent-duplicates-in-string.cpp",
           "path": "1047-remove-all-adjacent-duplicates-in-string/1047-remove-all-adjacent-duplicates-in-string.cpp",
           "sha": "f93e3256c1d67885ee35e8eaeebe1fd95a6e2226",
-          "lastSyncedAt": "2026-08-18T11:24:10.148Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.148Z",
+          "submissionTimestamp": 1734077459
         }
       ]
     },
@@ -982,7 +1030,8 @@
           "filename": "1061-lexicographically-smallest-equivalent-string.cpp",
           "path": "1061-lexicographically-smallest-equivalent-string/1061-lexicographically-smallest-equivalent-string.cpp",
           "sha": "d3238877115775da0220525a066257d593d6dcd6",
-          "lastSyncedAt": "2026-08-18T11:24:10.160Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.160Z",
+          "submissionTimestamp": 1749100980
         }
       ]
     },
@@ -1002,7 +1051,8 @@
           "filename": "1081-smallest-subsequence-of-distinct-characters.cpp",
           "path": "1081-smallest-subsequence-of-distinct-characters/1081-smallest-subsequence-of-distinct-characters.cpp",
           "sha": "d7e67a1db511b06db8435ebbace097a2ca8b28b3",
-          "lastSyncedAt": "2026-08-18T11:24:10.171Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.171Z",
+          "submissionTimestamp": 1784438597
         }
       ]
     },
@@ -1022,7 +1072,8 @@
           "filename": "1358-number-of-substrings-containing-all-three-characters.cpp",
           "path": "1358-number-of-substrings-containing-all-three-characters/1358-number-of-substrings-containing-all-three-characters.cpp",
           "sha": "d7e50f3d477f5391c3bbfe4ecae57100800d06ee",
-          "lastSyncedAt": "2026-08-18T11:24:10.411Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.411Z",
+          "submissionTimestamp": 1782790219
         }
       ]
     },
@@ -1042,7 +1093,8 @@
           "filename": "1544-make-the-string-great.cpp",
           "path": "1544-make-the-string-great/1544-make-the-string-great.cpp",
           "sha": "ac2e7eeaf4e7a73bf2a62ade88528a6e917b64a7",
-          "lastSyncedAt": "2026-08-18T11:24:10.544Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.544Z",
+          "submissionTimestamp": 1734077161
         }
       ]
     },
@@ -1062,7 +1114,8 @@
           "filename": "1598-crawler-log-folder.cpp",
           "path": "1598-crawler-log-folder/1598-crawler-log-folder.cpp",
           "sha": "a703fab811be456e7325cdfeee3ab8e0f3c51967",
-          "lastSyncedAt": "2026-08-18T11:24:10.578Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.578Z",
+          "submissionTimestamp": 1734076566
         }
       ]
     },
@@ -1082,7 +1135,8 @@
           "filename": "1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "sha": "74747147d7fa802f79b078d5c78229c73cbbc339",
-          "lastSyncedAt": "2026-08-18T11:24:10.590Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.590Z",
+          "submissionTimestamp": 1761942069
         }
       ]
     },
@@ -1102,7 +1156,8 @@
           "filename": "1781-sum-of-beauty-of-all-substrings.cpp",
           "path": "1781-sum-of-beauty-of-all-substrings/1781-sum-of-beauty-of-all-substrings.cpp",
           "sha": "5514be9832069bbb6f637dbf9c714450a358a92b",
-          "lastSyncedAt": "2026-08-18T11:24:10.661Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.661Z",
+          "submissionTimestamp": 1762059327
         }
       ]
     },
@@ -1122,7 +1177,8 @@
           "filename": "1857-largest-color-value-in-a-directed-graph.cpp",
           "path": "1857-largest-color-value-in-a-directed-graph/1857-largest-color-value-in-a-directed-graph.cpp",
           "sha": "1896e34ee9aaf3375fdc5dac14a43c8cc02f5ead",
-          "lastSyncedAt": "2026-08-18T11:24:10.696Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.696Z",
+          "submissionTimestamp": 1748232662
         }
       ]
     },
@@ -1142,7 +1198,8 @@
           "filename": "1903-largest-odd-number-in-string.cpp",
           "path": "1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.cpp",
           "sha": "76f52b2ed9bd0b6577701cf069122f29616f64a4",
-          "lastSyncedAt": "2026-08-18T11:24:10.720Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.720Z",
+          "submissionTimestamp": 1761892266
         }
       ]
     },
@@ -1162,7 +1219,8 @@
           "filename": "1967-number-of-strings-that-appear-as-substrings-in-word.cpp",
           "path": "1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.cpp",
           "sha": "71ce70e41a6f3561c8a9803629a52d804971c514",
-          "lastSyncedAt": "2026-08-18T11:24:10.768Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.768Z",
+          "submissionTimestamp": 1782741383
         }
       ]
     },
@@ -1182,7 +1240,8 @@
           "filename": "2000-reverse-prefix-of-word.cpp",
           "path": "2000-reverse-prefix-of-word/2000-reverse-prefix-of-word.cpp",
           "sha": "a954effb2ba1c1333c582d44a8a2301b6c5b5792",
-          "lastSyncedAt": "2026-08-18T11:24:10.818Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.818Z",
+          "submissionTimestamp": 1734074754
         }
       ]
     },
@@ -1202,7 +1261,8 @@
           "filename": "2047-number-of-valid-words-in-a-sentence.cpp",
           "path": "2047-number-of-valid-words-in-a-sentence/2047-number-of-valid-words-in-a-sentence.cpp",
           "sha": "fd10a78030cb390c14eadc15a31eaca86a8595c0",
-          "lastSyncedAt": "2026-08-18T11:24:10.855Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.855Z",
+          "submissionTimestamp": 1785063091
         }
       ]
     },
@@ -1222,7 +1282,8 @@
           "filename": "2131-longest-palindrome-by-concatenating-two-letter-words.cpp",
           "path": "2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.cpp",
           "sha": "1c6d9c11cbec3620c52e8ec20aec6b8b3eecfc89",
-          "lastSyncedAt": "2026-08-18T11:24:10.975Z"
+          "lastSyncedAt": "2026-08-18T11:24:10.975Z",
+          "submissionTimestamp": 1748153153
         }
       ]
     },
@@ -1242,7 +1303,8 @@
           "filename": "2213-longest-substring-of-one-repeating-character.cpp",
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
           "sha": "a330912da6bd550032010cf347c453ab4fcdae52",
-          "lastSyncedAt": "2026-08-18T11:36:34.752Z"
+          "lastSyncedAt": "2026-08-18T11:36:34.752Z",
+          "submissionTimestamp": 1786589353
         }
       ]
     },
@@ -1262,7 +1324,8 @@
           "filename": "2434-using-a-robot-to-print-the-lexicographically-smallest-string.cpp",
           "path": "2434-using-a-robot-to-print-the-lexicographically-smallest-string/2434-using-a-robot-to-print-the-lexicographically-smallest-string.cpp",
           "sha": "a44ce40c9b18d61596f75ea8bdd2fdf68c3160c0",
-          "lastSyncedAt": "2026-08-18T11:24:11.131Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.131Z",
+          "submissionTimestamp": 1749182791
         }
       ]
     },
@@ -1282,7 +1345,8 @@
           "filename": "2696-minimum-string-length-after-removing-substrings.cpp",
           "path": "2696-minimum-string-length-after-removing-substrings/2696-minimum-string-length-after-removing-substrings.cpp",
           "sha": "939243099c402814c50a253e20718fd22ba39f86",
-          "lastSyncedAt": "2026-08-18T11:24:11.242Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.242Z",
+          "submissionTimestamp": 1734074452
         }
       ]
     },
@@ -1302,7 +1366,8 @@
           "filename": "2900-longest-unequal-adjacent-groups-subsequence-i.cpp",
           "path": "2900-longest-unequal-adjacent-groups-subsequence-i/2900-longest-unequal-adjacent-groups-subsequence-i.cpp",
           "sha": "07042a3a549e0b250a1eb1d2de139e93d3da5991",
-          "lastSyncedAt": "2026-08-18T11:24:11.304Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.304Z",
+          "submissionTimestamp": 1747291216
         }
       ]
     },
@@ -1322,7 +1387,8 @@
           "filename": "2901-longest-unequal-adjacent-groups-subsequence-ii.cpp",
           "path": "2901-longest-unequal-adjacent-groups-subsequence-ii/2901-longest-unequal-adjacent-groups-subsequence-ii.cpp",
           "sha": "fae137291688ffeb9d1fe893893ca12e5725135d",
-          "lastSyncedAt": "2026-08-18T11:24:11.317Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.317Z",
+          "submissionTimestamp": 1747375425
         }
       ]
     },
@@ -1342,7 +1408,8 @@
           "filename": "2942-find-words-containing-character.cpp",
           "path": "2942-find-words-containing-character/2942-find-words-containing-character.cpp",
           "sha": "86d09296984743f2a1eafaa1e429bfd57a7f23b2",
-          "lastSyncedAt": "2026-08-18T11:24:11.353Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.353Z",
+          "submissionTimestamp": 1748058879
         }
       ]
     },
@@ -1362,7 +1429,8 @@
           "filename": "3014-minimum-number-of-pushes-to-type-word-i.cpp",
           "path": "3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.cpp",
           "sha": "af7dbede8dbe523360eaf501762116e2cd2c9dc4",
-          "lastSyncedAt": "2026-08-18T11:24:11.414Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.414Z",
+          "submissionTimestamp": 1785382173
         }
       ]
     },
@@ -1382,7 +1450,8 @@
           "filename": "3016-minimum-number-of-pushes-to-type-word-ii.cpp",
           "path": "3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.cpp",
           "sha": "f72c42ab39df4b1a37ece138aa92b04d240bd135",
-          "lastSyncedAt": "2026-08-18T11:24:11.426Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.426Z",
+          "submissionTimestamp": 1785469033
         }
       ]
     },
@@ -1402,7 +1471,8 @@
           "filename": "3090-maximum-length-substring-with-two-occurrences.cpp",
           "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.cpp",
           "sha": "cf32dc1a0ce10b270747e049cfa2a81119b7586b",
-          "lastSyncedAt": "2026-08-18T11:35:55.788Z"
+          "lastSyncedAt": "2026-08-18T11:35:55.788Z",
+          "submissionTimestamp": 1786672720
         }
       ]
     },
@@ -1422,7 +1492,8 @@
           "filename": "3170-lexicographically-minimum-string-after-removing-stars.cpp",
           "path": "3170-lexicographically-minimum-string-after-removing-stars/3170-lexicographically-minimum-string-after-removing-stars.cpp",
           "sha": "4451c038600085e10e9aa075da877d380f388ea9",
-          "lastSyncedAt": "2026-08-18T11:24:11.476Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.476Z",
+          "submissionTimestamp": 1749270181
         }
       ]
     },
@@ -1442,7 +1513,8 @@
           "filename": "3174-clear-digits.cpp",
           "path": "3174-clear-digits/3174-clear-digits.cpp",
           "sha": "8dda69ab371db8d3245034fb00ebf4dd9f2aafa5",
-          "lastSyncedAt": "2026-08-18T11:24:11.487Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.487Z",
+          "submissionTimestamp": 1734060352
         }
       ]
     },
@@ -1462,7 +1534,8 @@
           "filename": "3302-find-the-lexicographically-smallest-valid-sequence.cpp",
           "path": "3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.cpp",
           "sha": "d7203ef3ab421b288497ddfd9caaba4e502164c0",
-          "lastSyncedAt": "2026-08-18T11:24:11.513Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.513Z",
+          "submissionTimestamp": 1786160964
         }
       ]
     },
@@ -1482,7 +1555,8 @@
           "filename": "3335-total-characters-in-string-after-transformations-i.cpp",
           "path": "3335-total-characters-in-string-after-transformations-i/3335-total-characters-in-string-after-transformations-i.cpp",
           "sha": "016d9e6ef686fca08df5918979556341bc00556d",
-          "lastSyncedAt": "2026-08-18T11:24:11.548Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.548Z",
+          "submissionTimestamp": 1747153256
         }
       ]
     },
@@ -1502,7 +1576,8 @@
           "filename": "3337-total-characters-in-string-after-transformations-ii.cpp",
           "path": "3337-total-characters-in-string-after-transformations-ii/3337-total-characters-in-string-after-transformations-ii.cpp",
           "sha": "91ca8dc83eaebf87832ab4d80a4d45e6a3128419",
-          "lastSyncedAt": "2026-08-18T11:24:11.572Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.572Z",
+          "submissionTimestamp": 1747212891
         }
       ]
     },
@@ -1522,7 +1597,8 @@
           "filename": "3343-count-number-of-balanced-permutations.cpp",
           "path": "3343-count-number-of-balanced-permutations/3343-count-number-of-balanced-permutations.cpp",
           "sha": "002b7121d3989779e1b13228511df7b9886194a0",
-          "lastSyncedAt": "2026-08-18T11:24:11.596Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.596Z",
+          "submissionTimestamp": 1746768102
         }
       ]
     },
@@ -1542,7 +1618,8 @@
           "filename": "3348-smallest-divisible-digit-product-ii.cpp",
           "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.cpp",
           "sha": "dab452e2956fea8b2aad72a2ecfedf2dbca2bc89",
-          "lastSyncedAt": "2026-08-18T11:24:11.620Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.620Z",
+          "submissionTimestamp": 1786068223
         }
       ]
     },
@@ -1562,7 +1639,8 @@
           "filename": "3403-find-the-lexicographically-largest-string-from-the-box-i.cpp",
           "path": "3403-find-the-lexicographically-largest-string-from-the-box-i/3403-find-the-lexicographically-largest-string-from-the-box-i.cpp",
           "sha": "c3945f51ae4d28916c51289244e9cd03cb48aae8",
-          "lastSyncedAt": "2026-08-18T11:24:11.692Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.692Z",
+          "submissionTimestamp": 1749010200
         }
       ]
     },
@@ -1582,7 +1660,8 @@
           "filename": "3442-maximum-difference-between-even-and-odd-frequency-i.cpp",
           "path": "3442-maximum-difference-between-even-and-odd-frequency-i/3442-maximum-difference-between-even-and-odd-frequency-i.cpp",
           "sha": "1703252a607489ace757dded9fe05c9e14bd0f29",
-          "lastSyncedAt": "2026-08-18T11:24:11.728Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.728Z",
+          "submissionTimestamp": 1749545881
         }
       ]
     },
@@ -1602,7 +1681,8 @@
           "filename": "3443-maximum-manhattan-distance-after-k-changes.cpp",
           "path": "3443-maximum-manhattan-distance-after-k-changes/3443-maximum-manhattan-distance-after-k-changes.cpp",
           "sha": "be1a3c44292364d904194616ca74cbdfbbe0d087",
-          "lastSyncedAt": "2026-08-18T11:24:11.740Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.740Z",
+          "submissionTimestamp": 1750391649
         }
       ]
     },
@@ -1622,7 +1702,8 @@
           "filename": "3445-maximum-difference-between-even-and-odd-frequency-ii.cpp",
           "path": "3445-maximum-difference-between-even-and-odd-frequency-ii/3445-maximum-difference-between-even-and-odd-frequency-ii.cpp",
           "sha": "ba2fbd8b7c9815495cef38edcf402f640a0b4023",
-          "lastSyncedAt": "2026-08-18T11:24:11.752Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.752Z",
+          "submissionTimestamp": 1749613895
         }
       ]
     },
@@ -1642,7 +1723,8 @@
           "filename": "3499-maximize-active-section-with-trade-i.cpp",
           "path": "3499-maximize-active-section-with-trade-i/3499-maximize-active-section-with-trade-i.cpp",
           "sha": "35b41a73ff3989ccd2b8f7ce2025ce51750605c3",
-          "lastSyncedAt": "2026-08-18T11:24:11.776Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.776Z",
+          "submissionTimestamp": 1784604823
         }
       ]
     },
@@ -1662,7 +1744,8 @@
           "filename": "3501-maximize-active-section-with-trade-ii.cpp",
           "path": "3501-maximize-active-section-with-trade-ii/3501-maximize-active-section-with-trade-ii.cpp",
           "sha": "e1cb202e7774a905bd7f16bdf84d56b9b185ab2d",
-          "lastSyncedAt": "2026-08-18T11:24:11.788Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.788Z",
+          "submissionTimestamp": 1784691552
         }
       ]
     },
@@ -1682,7 +1765,8 @@
           "filename": "3517-smallest-palindromic-rearrangement-i.cpp",
           "path": "3517-smallest-palindromic-rearrangement-i/3517-smallest-palindromic-rearrangement-i.cpp",
           "sha": "9baad32131566a2524f0cd459794528a08a4cd5f",
-          "lastSyncedAt": "2026-08-18T11:24:11.827Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.827Z",
+          "submissionTimestamp": 1785209976
         }
       ]
     },
@@ -1702,7 +1786,8 @@
           "filename": "3518-smallest-palindromic-rearrangement-ii.cpp",
           "path": "3518-smallest-palindromic-rearrangement-ii/3518-smallest-palindromic-rearrangement-ii.cpp",
           "sha": "1ce4d3e0b3a1dbc85cf229da7fca5ac532c17d3a",
-          "lastSyncedAt": "2026-08-18T11:24:11.839Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.839Z",
+          "submissionTimestamp": 1785291888
         }
       ]
     },
@@ -1722,7 +1807,8 @@
           "filename": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
           "path": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
           "sha": "33208a65bb6a01b91c141c20b9fb6b910888f843",
-          "lastSyncedAt": "2026-08-18T11:24:11.947Z"
+          "lastSyncedAt": "2026-08-18T11:24:11.947Z",
+          "submissionTimestamp": 1783481654
         }
       ]
     }

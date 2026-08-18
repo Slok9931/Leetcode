@@ -4,7 +4,7 @@
     "slug": "game-theory",
     "name": "Game Theory"
   },
-  "updatedAt": "2026-08-18T11:35:35.492Z",
+  "updatedAt": "2026-08-18T12:12:18.157Z",
   "problems": [
     {
       "frontendId": "486",
@@ -127,7 +127,7 @@
           "filename": "1563-stone-game-v.cpp",
           "path": "1563-stone-game-v/1563-stone-game-v.cpp",
           "sha": "7767625dae86f8bcc7a58758251450aba70ea10b",
-          "lastSyncedAt": "2026-08-18T11:35:25.145Z",
+          "lastSyncedAt": "2026-08-18T12:12:18.157Z",
           "submissionTimestamp": 1786931795
         }
       ]

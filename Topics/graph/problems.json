@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-19T18:45:28.555Z",
+  "updatedAt": "2026-08-19T18:45:33.105Z",
   "problems": [
     {
       "frontendId": "207",
@@ -400,7 +400,7 @@
           "filename": "1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp",
           "path": "1761-minimum-degree-of-a-connected-trio-in-a-graph/1761-minimum-degree-of-a-connected-trio-in-a-graph.cpp",
           "sha": "fafd6ce7b5f7e968bb20238f67c973d2bb93f98d",
-          "lastSyncedAt": "2026-08-19T18:39:05.149Z",
+          "lastSyncedAt": "2026-08-19T18:45:33.105Z",
           "submissionTimestamp": 1786526801
         }
       ]

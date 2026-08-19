@@ -4,7 +4,7 @@
     "slug": "ordered-set",
     "name": "Ordered Set"
   },
-  "updatedAt": "2026-08-18T12:13:32.354Z",
+  "updatedAt": "2026-08-19T18:38:35.760Z",
   "problems": [
     {
       "frontendId": "220",
@@ -64,7 +64,7 @@
           "filename": "2213-longest-substring-of-one-repeating-character.cpp",
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
           "sha": "a330912da6bd550032010cf347c453ab4fcdae52",
-          "lastSyncedAt": "2026-08-18T12:13:32.354Z",
+          "lastSyncedAt": "2026-08-19T18:38:35.760Z",
           "submissionTimestamp": 1786589353
         }
       ]

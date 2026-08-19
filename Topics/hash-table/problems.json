@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-19T18:38:46.845Z",
+  "updatedAt": "2026-08-19T18:39:13.343Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1386,7 +1386,7 @@
           "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.cpp",
           "path": "2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.cpp",
           "sha": "9d4287d3eaeebd7eeb4423da3fda3cb43e184947",
-          "lastSyncedAt": "2026-08-18T12:14:15.640Z",
+          "lastSyncedAt": "2026-08-19T18:39:13.343Z",
           "submissionTimestamp": 1786506009
         }
       ]

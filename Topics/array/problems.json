@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-19T18:37:17.384Z",
+  "updatedAt": "2026-08-19T18:37:22.461Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2982,7 +2982,7 @@
           "filename": "1563-stone-game-v.cpp",
           "path": "1563-stone-game-v/1563-stone-game-v.cpp",
           "sha": "7767625dae86f8bcc7a58758251450aba70ea10b",
-          "lastSyncedAt": "2026-08-18T12:12:18.157Z",
+          "lastSyncedAt": "2026-08-19T18:37:22.461Z",
           "submissionTimestamp": 1786931795
         }
       ]

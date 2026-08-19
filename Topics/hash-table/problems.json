@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-19T18:44:42.985Z",
+  "updatedAt": "2026-08-19T18:45:12.640Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1281,7 +1281,7 @@
           "filename": "2374-node-with-highest-edge-score.cpp",
           "path": "2374-node-with-highest-edge-score/2374-node-with-highest-edge-score.cpp",
           "sha": "139967712593badcd1950bac8eb4b14942ae4eaa",
-          "lastSyncedAt": "2026-08-19T18:38:46.845Z",
+          "lastSyncedAt": "2026-08-19T18:45:12.640Z",
           "submissionTimestamp": 1786557757
         }
       ]

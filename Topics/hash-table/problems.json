@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-19T18:45:45.057Z",
+  "updatedAt": "2026-08-19T18:45:53.675Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1009,7 +1009,7 @@
           "filename": "0997-find-the-town-judge.cpp",
           "path": "0997-find-the-town-judge/0997-find-the-town-judge.cpp",
           "sha": "f7da6ebc158a4d239f314da6d4be0ef828312086",
-          "lastSyncedAt": "2026-08-19T18:39:21.400Z",
+          "lastSyncedAt": "2026-08-19T18:45:53.675Z",
           "submissionTimestamp": 1786456080
         }
       ]

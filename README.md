@@ -1484,13 +1484,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 5 | 10 | 5 |
+| 21 | 5 | 11 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 8 days | 8 |
+| 9 days | 9 days | 9 |
 
 | Date | Problems |
 | --- | ---: |
@@ -1502,31 +1502,32 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-08-16 | 1 |
 | 2026-08-17 | 1 |
 | 2026-08-18 | 2 |
+| 2026-08-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Graph Theory | 12 | 60% |
-| Array | 10 | 50% |
-| Hash Table | 7 | 35% |
-| Breadth-First Search | 3 | 15% |
-| Depth-First Search | 3 | 15% |
-| Greedy | 3 | 15% |
-| Math | 3 | 15% |
-| Sorting | 3 | 15% |
+| Graph Theory | 12 | 57% |
+| Array | 11 | 52% |
+| Hash Table | 8 | 38% |
+| Greedy | 4 | 19% |
+| Breadth-First Search | 3 | 14% |
+| Depth-First Search | 3 | 14% |
+| Math | 3 | 14% |
+| Sorting | 3 | 14% |
+| Bit Manipulation | 2 | 10% |
 | Directed Acyclic Graph | 2 | 10% |
-| Game Theory | 2 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 200 |
+| [Array](Topics/array/) | 201 |
 | [Backtracking](Topics/backtracking/) | 20 |
 | [Binary Search](Topics/binary-search/) | 38 |
 | [Binary Tree](Topics/binary-tree/) | 56 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 20 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 21 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 54 |
 | [Counting](Topics/counting/) | 22 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -1537,8 +1538,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Game Theory](Topics/game-theory/) | 7 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph Theory](Topics/graph/) | 39 |
-| [Greedy](Topics/greedy/) | 44 |
-| [Hash Table](Topics/hash-table/) | 78 |
+| [Greedy](Topics/greedy/) | 45 |
+| [Hash Table](Topics/hash-table/) | 79 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 26 |
 | [Linked List](Topics/linked-list/) | 23 |

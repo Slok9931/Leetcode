@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-19T18:38:51.381Z",
+  "updatedAt": "2026-08-19T18:43:12.946Z",
   "problems": [
     {
       "frontendId": "11",
@@ -484,7 +484,7 @@
           "filename": "1386-cinema-seat-allocation.cpp",
           "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.cpp",
           "sha": "939c691709b3873fe3f7db1ec737940c4320a461",
-          "lastSyncedAt": "2026-08-19T18:36:51.158Z"
+          "lastSyncedAt": "2026-08-19T18:43:12.946Z"
         }
       ]
     },

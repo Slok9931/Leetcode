@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-19T18:38:51.381Z",
+  "updatedAt": "2026-08-19T18:44:49.219Z",
   "problems": [
     {
       "frontendId": "15",
@@ -778,7 +778,7 @@
           "filename": "2497-maximum-star-sum-of-a-graph.cpp",
           "path": "2497-maximum-star-sum-of-a-graph/2497-maximum-star-sum-of-a-graph.cpp",
           "sha": "549822f20c8b8c2339469e4f9ee25ba577ab1826",
-          "lastSyncedAt": "2026-08-19T18:38:21.859Z",
+          "lastSyncedAt": "2026-08-19T18:44:49.219Z",
           "submissionTimestamp": 1786598578
         }
       ]

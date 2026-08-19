@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-18T12:12:45.197Z",
+  "updatedAt": "2026-08-19T01:30:56.450Z",
   "problems": [
     {
       "frontendId": "29",
@@ -297,6 +297,26 @@
           "sha": "584898e28e8f32077ddff38ece724b6044a9d2e0",
           "lastSyncedAt": "2026-08-18T11:24:10.042Z",
           "submissionTimestamp": 1754119926
+        }
+      ]
+    },
+    {
+      "frontendId": "1386",
+      "title": "Cinema Seat Allocation",
+      "slug": "cinema-seat-allocation",
+      "problemName": "1386-cinema-seat-allocation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cinema-seat-allocation/",
+      "folderPath": "1386-cinema-seat-allocation/",
+      "readmePath": "1386-cinema-seat-allocation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1386-cinema-seat-allocation.cpp",
+          "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.cpp",
+          "sha": "939c691709b3873fe3f7db1ec737940c4320a461",
+          "lastSyncedAt": "2026-08-19T01:30:56.450Z"
         }
       ]
     },

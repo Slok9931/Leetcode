@@ -4,7 +4,7 @@
     "slug": "directed-acyclic-graph",
     "name": "Directed Acyclic Graph"
   },
-  "updatedAt": "2026-08-19T18:37:02.677Z",
+  "updatedAt": "2026-08-19T18:38:03.140Z",
   "problems": [
     {
       "frontendId": "207",
@@ -43,7 +43,7 @@
           "filename": "0797-all-paths-from-source-to-target.cpp",
           "path": "0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.cpp",
           "sha": "7357184e99db0643fbfc7c5ae26619debfe2bad9",
-          "lastSyncedAt": "2026-08-18T12:12:59.746Z",
+          "lastSyncedAt": "2026-08-19T18:38:03.140Z",
           "submissionTimestamp": 1786605308
         }
       ]

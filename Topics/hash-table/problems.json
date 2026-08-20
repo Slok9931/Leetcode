@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-20T01:35:09.297Z",
+  "updatedAt": "2026-08-20T01:36:39.466Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1135,7 +1135,7 @@
           "filename": "1386-cinema-seat-allocation.cpp",
           "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.cpp",
           "sha": "939c691709b3873fe3f7db1ec737940c4320a461",
-          "lastSyncedAt": "2026-08-20T01:01:07.957Z"
+          "lastSyncedAt": "2026-08-20T01:36:39.466Z"
         }
       ]
     },

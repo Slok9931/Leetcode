@@ -1484,13 +1484,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 4 | 11 | 5 |
+| 21 | 5 | 11 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 9 days | 9 |
+| 10 days | 10 days | 10 |
 
 | Date | Problems |
 | --- | ---: |
@@ -1503,18 +1503,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-08-17 | 1 |
 | 2026-08-18 | 2 |
 | 2026-08-19 | 1 |
+| 2026-08-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Graph Theory | 12 | 60% |
-| Array | 10 | 50% |
-| Hash Table | 7 | 35% |
-| Greedy | 4 | 20% |
-| Breadth-First Search | 3 | 15% |
-| Depth-First Search | 3 | 15% |
-| Math | 3 | 15% |
+| Graph Theory | 12 | 57% |
+| Array | 11 | 52% |
+| Hash Table | 7 | 33% |
+| Greedy | 4 | 19% |
+| Breadth-First Search | 3 | 14% |
+| Depth-First Search | 3 | 14% |
+| Math | 3 | 14% |
 | Bit Manipulation | 2 | 10% |
 | Directed Acyclic Graph | 2 | 10% |
 | Game Theory | 2 | 10% |
@@ -1523,7 +1524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 201 |
+| [Array](Topics/array/) | 202 |
 | [Backtracking](Topics/backtracking/) | 20 |
 | [Binary Search](Topics/binary-search/) | 38 |
 | [Binary Tree](Topics/binary-tree/) | 56 |
@@ -1549,6 +1550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Nim Game](Topics/nim-game/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 3 |
+| [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 23 |
 | [Sorting](Topics/sorting/) | 50 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |

@@ -1484,7 +1484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 5 | 11 | 5 |
+| 20 | 6 | 10 | 4 |
 
 ## Activity
 
@@ -1494,7 +1494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-11 | 2 |
+| 2026-08-11 | 1 |
 | 2026-08-12 | 6 |
 | 2026-08-13 | 5 |
 | 2026-08-14 | 1 |
@@ -1509,16 +1509,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Graph Theory | 12 | 57% |
-| Array | 11 | 52% |
-| Hash Table | 7 | 33% |
-| Greedy | 4 | 19% |
-| Breadth-First Search | 3 | 14% |
-| Depth-First Search | 3 | 14% |
-| Math | 3 | 14% |
+| Graph Theory | 11 | 55% |
+| Array | 10 | 50% |
+| Hash Table | 7 | 35% |
+| Greedy | 4 | 20% |
 | Bit Manipulation | 2 | 10% |
+| Breadth-First Search | 2 | 10% |
+| Depth-First Search | 2 | 10% |
 | Directed Acyclic Graph | 2 | 10% |
 | Game Theory | 2 | 10% |
+| Heap (Priority Queue) | 2 | 10% |
 
 ## Topics
 

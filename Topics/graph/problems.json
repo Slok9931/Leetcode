@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-20T01:34:14.280Z",
+  "updatedAt": "2026-08-20T01:34:19.178Z",
   "problems": [
     {
       "frontendId": "207",
@@ -631,7 +631,7 @@
           "filename": "2497-maximum-star-sum-of-a-graph.cpp",
           "path": "2497-maximum-star-sum-of-a-graph/2497-maximum-star-sum-of-a-graph.cpp",
           "sha": "549822f20c8b8c2339469e4f9ee25ba577ab1826",
-          "lastSyncedAt": "2026-08-19T18:44:49.219Z",
+          "lastSyncedAt": "2026-08-20T01:34:19.178Z",
           "submissionTimestamp": 1786598578
         }
       ]

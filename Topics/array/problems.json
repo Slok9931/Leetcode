@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-20T01:37:28.010Z",
+  "updatedAt": "2026-08-20T01:43:45.772Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3528,7 +3528,7 @@
           "filename": "2497-maximum-star-sum-of-a-graph.cpp",
           "path": "2497-maximum-star-sum-of-a-graph/2497-maximum-star-sum-of-a-graph.cpp",
           "sha": "549822f20c8b8c2339469e4f9ee25ba577ab1826",
-          "lastSyncedAt": "2026-08-20T01:34:19.178Z",
+          "lastSyncedAt": "2026-08-20T01:43:45.772Z",
           "submissionTimestamp": 1786598578
         }
       ]

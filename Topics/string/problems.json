@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-20T01:37:33.524Z",
+  "updatedAt": "2026-08-20T01:43:57.748Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1303,7 +1303,7 @@
           "filename": "2213-longest-substring-of-one-repeating-character.cpp",
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
           "sha": "a330912da6bd550032010cf347c453ab4fcdae52",
-          "lastSyncedAt": "2026-08-20T01:34:30.291Z",
+          "lastSyncedAt": "2026-08-20T01:43:57.748Z",
           "submissionTimestamp": 1786589353
         }
       ]
